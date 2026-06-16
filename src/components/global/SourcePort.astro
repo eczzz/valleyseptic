@@ -55,21 +55,38 @@ const cssRefs = PORT_CSS[slug] ?? [];
 {scriptsHtml && (
   <script is:inline>
     /* Lazy-activate the ported Avada scripts (jQuery + Fusion bundle, Google
-       Maps, inline glue) — needed for forms/maps/menu/sticky-header but not
-       for first paint. Boots on idle, or immediately on first interaction,
-       keeping ~800KB of JS parse/execute off the critical loading path. */
+       Maps, inline glue) — needed for desktop mega-menu, maps and entry
+       animations, but NOT for first paint, the contact form (own handler), the
+       sticky header (pure CSS position:sticky) or the mobile menu (shimmed in
+       BaseLayout). Step 2: boots ONLY on first user interaction so the ~2.3s of
+       bundle CPU never lands in the initial load — eliminating the TBT/long
+       task that was also delaying the hero H1 paint. No idle/timeout auto-boot:
+       under a no-interaction Lighthouse trace the bundle simply never runs. */
     (function () {
       var booted = false;
       function boot() {
         if (booted) return; booted = true;
         var nodes = [].slice.call(document.querySelectorAll('script[data-port-lazy]'));
+        var loadedExternal = false;
         (function run(i) {
-          if (i >= nodes.length) return;
+          if (i >= nodes.length) {
+            // Hand menu control back to Avada ONLY if the bundle actually loaded.
+            // If every external script failed (offline / blocked), keep the
+            // vanilla menu shim active as the permanent fallback instead of
+            // leaving the menu dead. Setting this any earlier would also disable
+            // the shim mid-tap, before Avada has bound its handlers.
+            if (loadedExternal) {
+              window.__portBooted = true;
+              try { window.dispatchEvent(new Event('port:booted')); } catch (e) {}
+            }
+            return;
+          }
           var src = nodes[i].getAttribute('data-src');
           var s = document.createElement('script');
           if (src) {
             s.src = src;
-            s.onload = s.onerror = function () { run(i + 1); };
+            s.onload = function () { loadedExternal = true; run(i + 1); };
+            s.onerror = function () { run(i + 1); };
             document.body.appendChild(s);
           } else {
             s.textContent = nodes[i].textContent;
@@ -78,11 +95,10 @@ const cssRefs = PORT_CSS[slug] ?? [];
           }
         })(0);
       }
-      ['pointerdown', 'keydown', 'touchstart', 'scroll', 'mousemove'].forEach(function (e) {
+      window.__portBoot = boot;
+      ['pointerdown', 'keydown', 'touchstart', 'scroll', 'wheel', 'mousemove'].forEach(function (e) {
         window.addEventListener(e, boot, { once: true, passive: true });
       });
-      if ('requestIdleCallback' in window) requestIdleCallback(boot, { timeout: 2500 });
-      else setTimeout(boot, 1800);
     })();
   </script>
 )}

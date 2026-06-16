@@ -80,17 +80,44 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {SITE.gtmId && (
-      <!-- Google Tag Manager -->
+      <!-- Google Tag Manager (Step 4 — deferred off the critical path) -->
       <script is:inline define:vars={{ gtmId: SITE.gtmId }}>
-        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        (function(w,d,s,l,i){
+          w[l]=w[l]||[];
+          var done=false;
+          function load(){
+            if(done)return; done=true;
+            w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0],j=d.createElement(s),
+                dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true; j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+          }
+          // Load on first interaction, or — for sessions with no interaction, so
+          // analytics still records — when the main thread is idle after load.
+          // GTM (and the GA4/gtag tag it fires) keep the same IDs, just later.
+          ['pointerdown','keydown','touchstart','scroll','wheel','mousemove'].forEach(function(e){
+            w.addEventListener(e,load,{once:true,passive:true});
+          });
+          function afterLoad(){ 'requestIdleCallback' in w ? w.requestIdleCallback(load,{timeout:4000}) : setTimeout(load,3000); }
+          if(d.readyState==='complete') afterLoad();
+          else w.addEventListener('load',afterLoad);
         })(window,document,'script','dataLayer',gtmId);
       </script>
       <!-- End Google Tag Manager -->
     )}
     <style set:html={globalCssText}></style>
+    {/* Step 1 — critical responsive-typography reproduction.
+        Avada sizes `.fusion-responsive-typography-calculated` headings (the hero
+        H1 is the LCP element) via a CSS formula whose only viewport-dependent
+        terms are multiplied by `--typography_sensitivity`, which is 0 site-wide
+        (verified across every port stylesheet). The formula therefore reduces
+        exactly to `var(--fontSize) * 1px`. Inlining that here sets each heading's
+        size pre-paint from its own inline `--fontSize` — needing neither the
+        Fusion JS bundle nor the (Step 5) now-async port CSS, so the H1 paints at
+        its final size immediately and never resizes. 0px match vs. baseline at
+        360/414/768/1024/1280/1440. */}
+    <style>.fusion-responsive-typography-calculated{font-size:calc(var(--fontSize) * 1px) !important}</style>
     <meta name="robots" content={robots} />
     <title>{title}</title>
     <meta name="description" content={description} />
@@ -128,24 +155,28 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
-    <!-- Fonts / preconnects -->
+    <!-- Fonts (Step 3 — self-hosted; fonts.gstatic CDN removed) -->
     {portMode && (
-      <link rel="preconnect" href="https://valleyseptic.ca" />
-    )}
-    {!portMode && (
       <>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Barlow+Condensed:wght@400;500;600;700&display=swap"
-        />
+        <link rel="preconnect" href="https://valleyseptic.ca" />
+        {/* Preload the hero H1 webfont (Oswald 500, latin subset) so the LCP
+            text paints in its final face with no gstatic round-trip and no swap.
+            crossorigin is required even same-origin — fonts fetch in CORS mode. */}
+        <link rel="preload" as="font" type="font/woff2" crossorigin fetchpriority="high"
+          href="/fonts/g/TK3iWkUHHAIjg752GT8G.woff2" />
       </>
     )}
+    {/* Non-port pages used the fonts.googleapis CDN for Open Sans / Oswald /
+        Barlow Condensed (400–700). Now served from self-hosted woff2 with
+        font-display:swap. Port pages get these @font-face from their port CSS. */}
+    {!portMode && <link rel="stylesheet" href="/fonts/google.css" />}
 
-    {/* Preload the ported Avada CSS so the browser fetches it immediately,
-        in parallel — instead of waiting until it parses to the body-level
-        <link rel="stylesheet"> that SourcePort emits. */}
+    {/* Preload the ported Avada CSS so the browser fetches it immediately, in
+        parallel — instead of waiting until it parses to the body-level
+        <link rel="stylesheet"> that SourcePort emits. (The inline-critical
+        approach was measured to hurt FCP/LCP under CPU throttle — large CSS
+        parse + font-bandwidth contention — so the proven preloaded-external
+        loading is kept.) */}
     {portCss.map(href => <link rel="preload" as="style" href={href} />)}
 
     {schemaJson && schemaJson.map(s => (
@@ -174,12 +205,83 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     )}
 
     <script is:inline>
-      // Avada has a built-in mobile accordion mode that collapses open submenus
-      // when a new one is tapped — it's gated on the nav having the class
-      // awb-menu_mobile-accordion, which is just missing from the source HTML.
-      document.querySelectorAll('.awb-menu').forEach(function(nav) {
-        nav.classList.add('awb-menu_mobile-accordion');
-      });
+      /* Step 2 — vanilla mobile-menu shim. The heavy Fusion bundle is now
+         deferred to first interaction (SourcePort), but it was the bundle that
+         (a) switched the nav into mobile "collapse" mode and (b) handled the
+         hamburger / submenu toggles. This replicates that pre-boot so the mobile
+         menu is correct and usable from first paint — and it removes the ~2.5s
+         window where the menu was previously stuck in its un-initialised
+         `loading` state. Faithfully mirrors Avada's fusionNavIsCollapsed,
+         fusionNavClickExpandBtn and fusionNavMobilePosition. Once the bundle
+         boots (window.__portBooted) it hands control back to Avada. */
+      (function () {
+        function navs() { return document.querySelectorAll('nav.awb-menu'); }
+        function sbw() { return Math.max(0, window.innerWidth - document.documentElement.clientWidth); }
+
+        // (a) responsive collapse — matches fusionNavIsCollapsed (innerWidth <= data-breakpoint)
+        function applyCollapse(nav) {
+          nav.classList.remove('loading');
+          nav.classList.add('awb-menu_mobile-accordion'); // built-in accordion mode (missing in source)
+          var bp = parseInt(nav.getAttribute('data-breakpoint') || '1024', 10);
+          if (window.innerWidth <= bp) {
+            nav.classList.add('collapse-enabled');
+            nav.classList.remove('awb-menu_desktop');
+            position(nav); // Avada positions the (closed) full-width menu on init
+          } else {
+            nav.classList.remove('collapse-enabled');
+            nav.classList.add('awb-menu_desktop');
+            position(nav);
+          }
+        }
+        function initAll() { if (window.__portBooted) return; navs().forEach(applyCollapse); }
+
+        // (c) position the full-width absolute mobile menu — matches fusionNavMobilePosition
+        function position(nav) {
+          if (!nav || !nav.classList || !nav.classList.contains('mobile-size-full-absolute')) return;
+          var ul = nav.querySelector(':scope > ul.awb-menu__main-ul') || nav.querySelector('.awb-menu__main-ul');
+          if (!ul) return;
+          if (nav.classList.contains('collapse-enabled')) {
+            var rect = ul.getBoundingClientRect();
+            var curLeft = parseFloat(getComputedStyle(ul).left) || 0;
+            ul.style.left = (curLeft - rect.left) + 'px';      // jQuery offset({left:0})
+            ul.style.width = 'calc(100vw - ' + sbw() + 'px)';
+          } else {
+            ul.style.width = ''; ul.style.left = ''; ul.style.right = '';
+          }
+        }
+
+        // (b) expand/collapse a toggle — matches fusionNavClickExpandBtn
+        function expand(btn) {
+          var parent = btn.parentElement;
+          var open = parent.classList.toggle('expanded');
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          parent.querySelectorAll('ul > li > a, ul > li > button').forEach(function (el) {
+            if (open) el.removeAttribute('tabindex'); else el.setAttribute('tabindex', '-1');
+          });
+          // Mobile submenu: Avada reveals the nested <ul> via JS (jQuery slideToggle
+          // sets display) — there is no CSS rule keyed on `.expanded` alone — so
+          // mirror that. No-op for the hamburger, whose <ul> is the main menu
+          // (revealed by the collapse-enabled max-height rule).
+          var subUl = parent.querySelector(':scope > ul.awb-menu__sub-ul');
+          if (subUl) subUl.style.display = open ? 'block' : 'none';
+          position(parent); // parent === nav for the hamburger; no-op for submenu <li>
+        }
+
+        document.addEventListener('click', function (e) {
+          if (window.__portBooted) return; // Avada owns it now
+          var t = e.target;
+          var btn = t && t.closest && t.closest(
+            '.awb-menu__m-toggle, .awb-menu__open-nav-submenu_mobile, .awb-menu__open-nav-submenu_main');
+          if (!btn) return;
+          var nav = btn.closest('nav.awb-menu');
+          if (!nav || !nav.classList.contains('collapse-enabled')) return; // mobile mode only
+          e.preventDefault();
+          expand(btn); // fully shim-driven; the tap's pointerdown already boots the bundle in bg
+        }, false);
+
+        initAll();
+        window.addEventListener('resize', initAll, { passive: true });
+      })();
     </script>
 
     <script is:inline>

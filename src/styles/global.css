@@ -569,3 +569,8 @@ hr { border: 0; border-top: 1px solid var(--c-border); margin: 2em 0; }
 .type-post .post-content {
   --link_color: var(--awb-color8);
 }
+
+
+@font-face{font-family:"Oswald-fallback";src:local("Arial");size-adjust:81.43%;ascent-override:146.51%;descent-override:35.49%;line-gap-override:0%}
+@font-face{font-family:"Open Sans-fallback";src:local("Arial");size-adjust:105.15%;ascent-override:101.65%;descent-override:27.86%;line-gap-override:0%}
+@font-face{font-family:"Barlow Condensed-fallback";src:local("Arial");size-adjust:76.49%;ascent-override:130.73%;descent-override:26.15%;line-gap-override:0%}
