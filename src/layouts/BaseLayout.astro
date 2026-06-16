@@ -177,10 +177,23 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     {portMode && (
       <>
         <link rel="preconnect" href="https://valleyseptic.ca" />
-        {/* Preload the hero H1 webfont (Oswald 500, latin subset) so the LCP
-            text paints in its final face with no gstatic round-trip and no swap.
-            crossorigin is required even same-origin — fonts fetch in CORS mode. */}
-        <!-- font preload removed (test) -->
+        {/* Preload the above-the-fold self-hosted text fonts (latin subsets:
+            Oswald hero + Open Sans body + Barlow Condensed headings 400/500/600).
+            Without these they loaded ~15-20s into the page on the live CDN — after
+            first paint — so the text swapped in late, shifting a fusion-fullwidth
+            row (CLS) and dragging Speed Index out. Preloading makes them ready at
+            first paint: stable text, no late swap. crossorigin is required even
+            same-origin (fonts fetch in CORS mode). */}
+        <link rel="preload" as="font" type="font/woff2" crossorigin fetchpriority="high"
+          href="/fonts/g/TK3iWkUHHAIjg752GT8G.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/g/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/g/HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT2g.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2" />
       </>
     )}
     {/* Non-port pages used the fonts.googleapis CDN for Open Sans / Oswald /
