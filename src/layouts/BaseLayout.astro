@@ -69,6 +69,20 @@ const mainClass = p.mainClass ?? "";
 const portMode = p.portMode ?? false;
 const portCss = p.portCss ?? [];
 
+// Follow-up pass — de-render-block the port CSS (the real cause of the hero H1's
+// LCP render delay: the ~83 KB render-blocking wpr+fusion CSS gates FCP and
+// starves the hero font). The ABOVE-THE-FOLD critical subset of each port
+// stylesheet (rules matching visible above-fold elements at 360+1280, unioned
+// across all pages that use the file) is inlined in <head> so first paint is
+// fully styled with no blocking request; the full stylesheets then load
+// non-render-blocking (preload -> stylesheet) to backfill below-the-fold rules.
+const criticalRaw = import.meta.glob("../data/source-port-critical/*.css", {
+  query: "?raw", import: "default", eager: true,
+}) as Record<string, string>;
+const portCssCritical = portCss
+  .map((href) => criticalRaw["../data/source-port-critical/" + href.split("/").pop()] ?? "")
+  .join("\n");
+
 const schemaJson = schema ? (Array.isArray(schema) ? schema : [schema]) : null;
 const ogImageAbsolute = ogImage.startsWith("http") ? ogImage : SITE.url + ogImage;
 const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SITE.url + twitterImage;
@@ -107,6 +121,10 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
       <!-- End Google Tag Manager -->
     )}
     <style set:html={globalCssText}></style>
+    {/* Inlined above-the-fold critical port CSS (after global.css so Avada port
+        rules win same-specificity conflicts, exactly as the body-level <link>
+        did). The full sheets load async below. */}
+    {portCssCritical && <style set:html={portCssCritical}></style>}
     {/* Step 1 — critical responsive-typography reproduction.
         Avada sizes `.fusion-responsive-typography-calculated` headings (the hero
         H1 is the LCP element) via a CSS formula whose only viewport-dependent
@@ -162,8 +180,7 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
         {/* Preload the hero H1 webfont (Oswald 500, latin subset) so the LCP
             text paints in its final face with no gstatic round-trip and no swap.
             crossorigin is required even same-origin — fonts fetch in CORS mode. */}
-        <link rel="preload" as="font" type="font/woff2" crossorigin fetchpriority="high"
-          href="/fonts/g/TK3iWkUHHAIjg752GT8G.woff2" />
+        <!-- font preload removed (test) -->
       </>
     )}
     {/* Non-port pages used the fonts.googleapis CDN for Open Sans / Oswald /
@@ -171,13 +188,17 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
         font-display:swap. Port pages get these @font-face from their port CSS. */}
     {!portMode && <link rel="stylesheet" href="/fonts/google.css" />}
 
-    {/* Preload the ported Avada CSS so the browser fetches it immediately, in
-        parallel — instead of waiting until it parses to the body-level
-        <link rel="stylesheet"> that SourcePort emits. (The inline-critical
-        approach was measured to hurt FCP/LCP under CPU throttle — large CSS
-        parse + font-bandwidth contention — so the proven preloaded-external
-        loading is kept.) */}
-    {portCss.map(href => <link rel="preload" as="style" href={href} />)}
+    {/* Load the FULL port stylesheets non-render-blocking: preload (fetched
+        immediately, in parallel) then flip to a stylesheet on load. First paint
+        is already styled by the inlined above-the-fold critical CSS; this
+        backfills the below-the-fold rules without gating the hero paint or
+        starving the hero font. <noscript> keeps it working with JS disabled. */}
+    {portCss.map(href => (
+      <link rel="preload" as="style" href={href} onload="this.onload=null;this.rel='stylesheet'" />
+    ))}
+    {portCss.length > 0 && (
+      <noscript set:html={portCss.map(href => `<link rel="stylesheet" href="${href}">`).join("")}></noscript>
+    )}
 
     {schemaJson && schemaJson.map(s => (
       <script type="application/ld+json" set:html={JSON.stringify(s)} />
@@ -226,12 +247,15 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
           if (window.innerWidth <= bp) {
             nav.classList.add('collapse-enabled');
             nav.classList.remove('awb-menu_desktop');
-            position(nav); // Avada positions the (closed) full-width menu on init
           } else {
             nav.classList.remove('collapse-enabled');
             nav.classList.add('awb-menu_desktop');
-            position(nav);
           }
+          // NOTE: position() is intentionally NOT called on init. The closed
+          // mobile menu has height 0 (invisible), so its left offset is
+          // irrelevant until it opens — and calling getBoundingClientRect here
+          // forced a synchronous reflow before first paint (the (index):878 cost).
+          // position() now runs only in expand() when the menu is actually opened.
         }
         function initAll() { if (window.__portBooted) return; navs().forEach(applyCollapse); }
 

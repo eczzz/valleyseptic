@@ -39,9 +39,10 @@ if (!html) {
   throw new Error(`SourcePort: no port found for slug "${slug}"`);
 }
 
-const cssRefs = PORT_CSS[slug] ?? [];
+// Port CSS is loaded by BaseLayout: above-the-fold critical inlined in <head>,
+// full sheets preloaded -> stylesheet (non-render-blocking). The old body-level
+// render-blocking <link> has been removed.
 ---
-{cssRefs.map(href => <link rel="stylesheet" href={href} />)}
 <div id="boxed-wrapper">
   <div id="wrapper" class="fusion-wrapper">
     <div id={slug === "home" ? "home" : undefined}></div>
