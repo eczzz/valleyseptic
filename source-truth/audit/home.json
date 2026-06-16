@@ -1,0 +1,102 @@
+{
+  "slug": "home",
+  "title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+  "description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+  "canonical": "https://valleyseptic.ca/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+    "og:description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+    "og:url": "https://valleyseptic.ca/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2026-04-30T16:00:58+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Home",
+    "og:image:type": "image/webp",
+    "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+    "twitter:description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "bullfinch",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "114 minutes"
+  },
+  "h1": [
+    "Fraser Valley’s Most Trusted Septic Services",
+    "Due for Service? Try Our Service Calculator!",
+    "Our Articles"
+  ],
+  "h2": [
+    "Comprehensive Septic Solutions",
+    "Why Choose Valley Septic?",
+    "Septic System 101"
+  ],
+  "h3": [
+    "Reliable Solutions, Exceptional Service",
+    "Septic Inspections",
+    "Septic Tank Pumping",
+    "Grease Trap Service",
+    "Emergency Septic",
+    "Serving the Fraser Valley with Pride",
+    "CONTACT CHILLIWACK VALLEY SEPTIC & TANK PUMPING"
+  ],
+  "h4": [
+    "Expert Care for Every Aspect of Your Septic System",
+    "Septic and Plumbing Solutions",
+    "24/7 Emergency Service",
+    "Local Experts",
+    "Environmentally Responsible",
+    "Certified Professionals",
+    "Ongoing Maintenance",
+    "Know the Warning Signs",
+    "Regular Maintenence is Key",
+    "Be Mindful of Your Drain",
+    "Protect Your Drainfield",
+    "We Proudly Serve:",
+    "How Does a Septic Alarm Work?",
+    "What Is Emergency Grease Trap Cleaning?",
+    "Septic Services in Mission: Common Problems We See",
+    "Services",
+    "Service Areas"
+  ],
+  "schemaTypes": [
+    "Place",
+    "LocalBusiness+Organization",
+    "WebSite",
+    "ImageObject",
+    "WebPage",
+    "Person",
+    "Article",
+    "LocalBusiness"
+  ],
+  "articleSchema": {
+    "headline": "Septic Services in the Fraser Valley, BC | Valley Septic",
+    "description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+    "datePublished": "2024-08-22T16:51:23+00:00",
+    "dateModified": "2026-04-30T16:00:58+00:00",
+    "author": "bullfinch",
+    "image": {
+      "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+    }
+  },
+  "breadcrumb": [],
+  "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+  "publishedDate": "2024-08-22T16:51:23+00:00",
+  "modifiedDate": "2026-04-30T16:00:58+00:00",
+  "author": "bullfinch",
+  "category": "",
+  "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+  "ogImageWidth": "1000",
+  "ogImageHeight": "300",
+  "ogImageType": "image/webp",
+  "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+}

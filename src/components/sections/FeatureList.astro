@@ -1,0 +1,91 @@
+---
+import Icon from "../ui/Icon.astro";
+
+type IconName =
+  | "clock" | "pin" | "leaf" | "certificate" | "wrench" | "alert"
+  | "calendar" | "drop" | "sprout" | "truck" | "alarm" | "phone"
+  | "mail" | "shield" | "users" | "zap" | "graduation" | "tools"
+  | "search" | "kitchen" | "house" | "check";
+
+export interface Feature {
+  title: string;
+  text: string;
+  icon?: IconName;
+}
+
+export interface Props {
+  eyebrow?: string;
+  title?: string;
+  text?: string;
+  features: Feature[];
+  columns?: 2 | 3 | 4 | 5;
+  variant?: "default" | "cards" | "icons";
+  background?: "default" | "alt" | "cream" | "ink";
+}
+
+const {
+  eyebrow,
+  title,
+  text,
+  features,
+  columns = 4,
+  variant = "default",
+  background = "default",
+} = Astro.props;
+const bgClass = background === "alt" ? "section--alt" :
+                background === "cream" ? "section--cream" :
+                background === "ink" ? "section--ink" : "";
+---
+<section class={`section feature-list reveal ${bgClass}`}>
+  <div class="container">
+    {(eyebrow || title || text) && (
+      <div class="section-header">
+        {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+        {title && <h2 class="section-title">{title}</h2>}
+        {text && <p class="section-lede">{text}</p>}
+      </div>
+    )}
+    <div class={`grid grid-${columns} feature-list__grid feature-list__grid--${variant}`}>
+      {features.map((f, i) => (
+        <div class={`feature reveal ${variant === "cards" ? "feature--card" : ""}`} style={`--delay: ${i * 70}ms;`}>
+          {f.icon && (
+            <div class="feature__icon-wrap">
+              <Icon name={f.icon} size={28} />
+            </div>
+          )}
+          <h4 class="feature__title">{f.title}</h4>
+          <p class="feature__text">{f.text}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .feature__icon-wrap {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: var(--c-bg-alt);
+    color: var(--c-tan);
+    margin-bottom: var(--space-3);
+  }
+  .feature--card .feature__icon-wrap { background: var(--c-cream); }
+  .section--ink .feature__icon-wrap { background: rgba(255,255,255,0.06); color: var(--c-tan); }
+  .feature__title { font-size: 20px; margin: 0 0 var(--space-2); }
+  .feature__text { font-size: 15px; line-height: 1.7; color: inherit; opacity: 0.9; margin: 0; }
+  .feature--card {
+    background: var(--c-white);
+    padding: var(--space-6);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--c-border);
+    text-align: left;
+    transition: box-shadow 200ms ease, transform 200ms ease;
+  }
+  .feature--card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+  .section--ink .feature__title,
+  .section--ink .feature__text { color: var(--c-white); }
+</style>

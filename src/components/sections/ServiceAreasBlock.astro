@@ -1,0 +1,98 @@
+---
+import { NAV } from "../../config/site";
+const areas = NAV.find(n => n.label === "Service Areas")?.children ?? [];
+
+export interface Props {
+  eyebrow?: string;
+  text?: string;
+  image?: string;
+}
+
+const {
+  eyebrow = "Serving the Fraser Valley with Pride",
+  text = "Chilliwack Valley Septic is dedicated to providing top-notch septic services throughout the Fraser Valley. Our local expertise ensures that we understand the unique challenges of septic systems in our area.",
+  image = "/images/2024/08/valley-septic-service-areas.jpg",
+} = Astro.props;
+---
+<section class="section service-areas section--sage">
+  <div class="container">
+    <div class="service-areas__grid">
+      <div class="service-areas__map">
+        <img src={image} alt="Valley Septic service areas in the Fraser Valley" loading="lazy" />
+      </div>
+      <div class="service-areas__content">
+        <h3 class="service-areas__eyebrow">{eyebrow}</h3>
+        <p>{text}</p>
+        <h4 class="service-areas__list-heading">We Proudly Serve:</h4>
+        <ul class="service-areas__list">
+          {areas.map(a => (
+            <li><a href={a.href}>{a.label}</a></li>
+          ))}
+          <li class="service-areas__list-extra">Maple Ridge</li>
+        </ul>
+        <a href="/contact/" class="btn btn-dark">Get In Touch</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .service-areas {
+    color: var(--c-white);
+  }
+  .service-areas__grid {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: var(--space-8);
+    align-items: center;
+  }
+  .service-areas__map img {
+    width: 100%;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+  }
+  .service-areas__eyebrow {
+    color: var(--c-white) !important;
+    font-size: clamp(28px, 3vw, 36px);
+    margin: 0 0 var(--space-3);
+  }
+  .service-areas p { color: var(--c-white); opacity: 0.92; }
+  .service-areas__list-heading {
+    color: var(--c-white) !important;
+    font-size: 20px;
+    margin: var(--space-5) 0 var(--space-3);
+  }
+  .service-areas__list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-5);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2) var(--space-5);
+  }
+  .service-areas__list li {
+    font-family: var(--font-heading);
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--c-white);
+    position: relative;
+    padding-left: 22px;
+  }
+  .service-areas__list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: var(--c-tan);
+    font-weight: 700;
+  }
+  .service-areas__list a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .service-areas__list a:hover { color: var(--c-tan); }
+  .service-areas__list-extra { opacity: 0.85; }
+  @media (max-width: 900px) {
+    .service-areas__grid { grid-template-columns: 1fr; }
+  }
+</style>

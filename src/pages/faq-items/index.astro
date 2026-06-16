@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/sections/PageHeader.astro";
+import FAQAccordion from "../../components/react/FAQAccordion";
+import ContactSection from "../../components/sections/ContactSection.astro";
+import { SITE } from "../../config/site";
+import { FAQ_ITEMS, faqsForCity } from "../../data/faq";
+import { pageSchema } from "../../lib/schema";
+
+const url = SITE.url + "/faq-items/";
+const title = `Septic FAQs | ${SITE.name}`;
+const description = "Frequently asked questions about septic systems, cleaning, and maintenance across the Fraser Valley.";
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  author: "Valley Septic",
+  faqs: FAQ_ITEMS.map(f => ({ q: f.q, a: f.a })),
+});
+
+const cities: Array<"Abbotsford" | "Chilliwack" | "Langley" | "Mission"> = [
+  "Abbotsford", "Chilliwack", "Langley", "Mission",
+];
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={url}
+  ogImage={SITE.ogImage}
+  ogType="website"
+  schema={schema}
+>
+  <PageHeader
+    eyebrow="Frequently Asked"
+    title="Septic system questions, answered"
+    subtitle="The most common questions we get from homeowners across the Fraser Valley, organized by city."
+  />
+
+  {cities.map(city => (
+    <section class="section">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 32px;">{city}</h2>
+        <FAQAccordion client:visible items={faqsForCity(city).map(f => ({ q: f.q, a: f.a }))} />
+      </div>
+    </section>
+  ))}
+
+  <ContactSection topic="faq" />
+</BaseLayout>

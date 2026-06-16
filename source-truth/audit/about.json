@@ -1,0 +1,82 @@
+{
+  "slug": "about",
+  "title": "All About Our Company - Valley Septic Services",
+  "description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+  "canonical": "https://valleyseptic.ca/about/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "All About Our Company - Valley Septic Services",
+    "og:description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+    "og:url": "https://valleyseptic.ca/about/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2025-10-21T16:32:21+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "About",
+    "og:image:type": "image/webp",
+    "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "All About Our Company - Valley Septic Services",
+    "twitter:description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "74 minutes"
+  },
+  "h1": [
+    "About Valley Septic & Plumbing"
+  ],
+  "h2": [
+    "Our Story: Rooted in Family",
+    "Our Mission"
+  ],
+  "h3": [
+    "A Family-Owned and Operated Company",
+    "Our commitment is threefold:",
+    "Our Core Values",
+    "Professionalism",
+    "Efficiency",
+    "Efficiency",
+    "Community Focus",
+    "Reliability",
+    "Reliability",
+    "Serving the Fraser Valley with Pride",
+    "CONTACT VALLEY SEPTIC & PLUMBING"
+  ],
+  "h4": [
+    "A Journey of Service and Community",
+    "More Than Just Pipes and Tanks",
+    "To Our Community",
+    "To Quality",
+    "To Education and Prevention",
+    "More Than Just Pipes and Tanks",
+    "We Proudly Serve:",
+    "Services",
+    "Service Areas"
+  ],
+  "schemaTypes": [
+    "Place",
+    "LocalBusiness+Organization",
+    "WebSite",
+    "ImageObject",
+    "AboutPage",
+    "LocalBusiness"
+  ],
+  "articleSchema": null,
+  "breadcrumb": [],
+  "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+  "publishedDate": "",
+  "modifiedDate": "",
+  "author": "bullfinch",
+  "category": "",
+  "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+  "ogImageWidth": "1000",
+  "ogImageHeight": "300",
+  "ogImageType": "image/webp",
+  "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+}

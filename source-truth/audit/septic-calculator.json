@@ -1,0 +1,78 @@
+{
+  "slug": "septic-calculator",
+  "title": "Septic Calculator - Valley Septic Services",
+  "description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+  "canonical": "https://valleyseptic.ca/septic-calculator/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Calculator - Valley Septic Services",
+    "og:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+    "og:url": "https://valleyseptic.ca/septic-calculator/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2025-10-07T20:31:42+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Calculator",
+    "og:image:type": "image/webp",
+    "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Calculator - Valley Septic Services",
+    "twitter:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "9 minutes"
+  },
+  "h1": [
+    "IS your septic system due for service?"
+  ],
+  "h2": [
+    "🧮 Calculate Your Schedule",
+    "📅 Your Pumping Schedule"
+  ],
+  "h3": [
+    "VALLEY SEPTIC SERVICES & TANK PUMPING",
+    "Urgency Level",
+    "🔔 Never Miss a Service"
+  ],
+  "h4": [
+    "Services",
+    "Service Areas"
+  ],
+  "schemaTypes": [
+    "Place",
+    "LocalBusiness+Organization",
+    "WebSite",
+    "ImageObject",
+    "WebPage",
+    "Person",
+    "Article",
+    "LocalBusiness"
+  ],
+  "articleSchema": {
+    "headline": "Septic Calculator - Valley Septic Services",
+    "description": "VALLEY SEPTIC SERVICES &amp; TANK PUMPINGIS your septic system due for service?",
+    "datePublished": "2025-09-16T21:03:04+00:00",
+    "dateModified": "2025-10-07T20:31:42+00:00",
+    "author": "rvgye",
+    "image": {
+      "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+    }
+  },
+  "breadcrumb": [],
+  "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+  "publishedDate": "2025-09-16T21:03:04+00:00",
+  "modifiedDate": "2025-10-07T20:31:42+00:00",
+  "author": "rvgye",
+  "category": "",
+  "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+  "ogImageWidth": "1000",
+  "ogImageHeight": "300",
+  "ogImageType": "image/webp",
+  "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+}

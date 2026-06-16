@@ -1,0 +1,436 @@
+{
+  "slug": "post-how-does-a-septic-alarm-work",
+  "title": "How Does a Septic Alarm Work? - Valley Septic Services",
+  "metaDesc": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+  "canonical": "https://valleyseptic.ca/how-does-a-septic-alarm-work/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "How Does a Septic Alarm Work? - Valley Septic Services",
+    "og:description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+    "og:url": "https://valleyseptic.ca/how-does-a-septic-alarm-work/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+    "og:image:width": "1024",
+    "og:image:height": "553",
+    "og:image:alt": "How Does a Septic Alarm Work?",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "How Does a Septic Alarm Work? - Valley Septic Services",
+    "twitter:description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "ValleySeptic",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "3 minutes"
+  },
+  "schemaCount": 4,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp",
+          "width": "2221",
+          "height": "1200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/how-does-a-septic-alarm-work/#webpage",
+          "url": "https://valleyseptic.ca/how-does-a-septic-alarm-work/",
+          "name": "How Does a Septic Alarm Work? - Valley Septic Services",
+          "datePublished": "2026-05-10T22:57:55+00:00",
+          "dateModified": "2026-05-10T22:57:55+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/valleyseptic/",
+          "name": "ValleySeptic",
+          "url": "https://valleyseptic.ca/author/valleyseptic/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "caption": "ValleySeptic",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "How Does a Septic Alarm Work? - Valley Septic Services",
+          "datePublished": "2026-05-10T22:57:55+00:00",
+          "dateModified": "2026-05-10T22:57:55+00:00",
+          "articleSection": "Uncategorized",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/valleyseptic/",
+            "name": "ValleySeptic"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it&#039;s not a",
+          "name": "How Does a Septic Alarm Work? - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/how-does-a-septic-alarm-work/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/how-does-a-septic-alarm-work/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/how-does-a-septic-alarm-work/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Uncategorized",
+          "item": "https://valleyseptic.ca/category/uncategorized/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Does a Septic Alarm Work?",
+      "datePublished": "2026-05-10T22:57:55+00:00",
+      "dateModified": "2025-12-10T23:43:41+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "ValleySeptic",
+        "url": "https://valleyseptic.ca/author/valleyseptic/"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "How Does a Septic Alarm Work?"
+    },
+    {
+      "tag": "h2",
+      "text": "The Basic Setup"
+    },
+    {
+      "tag": "h2",
+      "text": "What Triggers the Alarm"
+    },
+    {
+      "tag": "h2",
+      "text": "What You Should Do When It Goes Off"
+    },
+    {
+      "tag": "h2",
+      "text": "Common Problems and Misconceptions"
+    },
+    {
+      "tag": "h2",
+      "text": "Prevention and Maintenance"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "What Is Emergency Grease Trap Cleaning?"
+    },
+    {
+      "tag": "h4",
+      "text": "How Long Does a Septic Inspection Take?"
+    },
+    {
+      "tag": "h4",
+      "text": "The Importance of Perimeter Drainage"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "UncategorizedHow Does a Septic Alarm Work?How Does a Septic Alarm Work?By ValleySepticPublished On: May 10, 2026Last Updated: December 10, 20253.6 min readGet in TouchTable of contentsThe Basic SetupWhat Triggers the AlarmWhat You Should Do When It Goes OffCommon Problems and MisconceptionsPrevention and MaintenanceShare PostYour septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it’s not a suggestion. It’s a warning that your system is failing, and you have a limited window to fix the problem. Most septic alarms connect to your system’s pump chamber. This chamber holds wastewater before pumping it to the drain field. The alarm monitors water level. When water rises too high, the alarm activates. The Basic Setup A float switch sits inside your pump chamber at a predetermined height. When water rises high enough to lift the float, it triggers the alarm. This is a simple but effective monitoring system that prevents serious problems. The alarm has two components. An audible alarm makes noise you can’t ignore. A visual indicator, often a red light, shows alarm status even after you’ve silenced the sound. Most systems give you buffer time. The float sits below maximum capacity, so you have hours before actual backup occurs. What Triggers the Alarm The most common trigger is pump failure. Your septic pump moves wastewater from chamber to drain field. When the pump stops, water keeps entering but nothing leaves. Power outages trigger alarms frequently. No power means no pump. If you lose power for hours and keep using water, the chamber fills. Once power returns, the alarm resets. High water use can overwhelm your system temporarily. Multiple loads of laundry, several showers, and the dishwasher all in a few hours might send more water than the pump can handle. Clogged drain fields create chronic alarm problems. When your drain field can’t absorb water, the pump has nowhere to send it. This needs professional service. What You Should Do When It Goes Off Check your power first. Look at the circuit breaker for your septic system. If it’s tripped, reset it. If the breaker trips again immediately, you have an electrical problem that needs professional attention. Reduce water use immediately. Stop laundry. Take short showers. Don’t run the dishwasher. Your chamber needs time to drain below alarm level. Never ignore a septic alarm. This is how you end up with sewage backing up at 2 AM. The alarm protects your property and health. If the alarm stays on after checking power and reducing water, call for emergency septic service. Common Problems and Misconceptions People often think a septic alarm means their tank needs pumping. Sometimes that’s true, but often it’s not. A full tank doesn’t directly trigger the alarm. The alarm monitors the pump chamber, not the main tank. Float switches can stick or fail. If your alarm goes off but your pump is working fine, the float switch itself might be defective. Replacing a float switch is relatively simple and inexpensive. Some systems have multiple alarms. A high-water alarm warns about pump chamber levels. A pump run alarm indicates the pump is running continuously. Understanding which alarm is sounding helps diagnose the problem faster. Proper drain field maintenance prevents many chronic alarm issues. Fraser Valley properties in Abbotsford, Chilliwack, Mission, Hope, and Langley often have pump systems due to terrain. If you have a pump system, you have an alarm. Knowing how it works saves you from preventable disasters. Prevention and Maintenance Regular septic inspections catch pump problems before they trigger alarms. A technician checks pump operation, float switch function, and electrical connections. Finding a worn pump bearing during routine maintenance beats finding it when your alarm is screaming. Test your alarm annually. Most systems have a test button. Press it. Make sure the sound works and the light act",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp",
+      "alt": "",
+      "w": "2221",
+      "h": "1200",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-200x108.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-400x216.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-600x324.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-800x432.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1200x648.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp 2221w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-1024x585.png",
+      "alt": "",
+      "w": "1024",
+      "h": "585",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-200x114.png 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-300x171.png 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-400x229.png 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-600x343.png 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-768x439.png 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-800x457.png 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-1024x585.png 1024w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40-1200x686.png 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/image-gen-40.png 1344w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383.webp",
+      "alt": "What Is Emergency Grease Trap Cleaning?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383.webp",
+      "alt": "How Long Does a Septic Inspection Take?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp",
+      "alt": "The Importance of Perimeter Drainage",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color8)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "related-posts single-related-posts fusion-related-tb fusion-related-tb-1",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "contact",
+  "title": "Call Us Today! - Valley Septic Services",
+  "description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+  "canonical": "https://valleyseptic.ca/contact/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Call Us Today! - Valley Septic Services",
+    "og:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+    "og:url": "https://valleyseptic.ca/contact/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2025-10-21T16:33:10+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Contact",
+    "og:image:type": "image/webp",
+    "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Call Us Today! - Valley Septic Services",
+    "twitter:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "50 minutes"
+  },
+  "h1": [
+    "Get in Touch with Valley Septic"
+  ],
+  "h2": [
+    "Address",
+    "Phone Number",
+    "Email",
+    "Get in Touch",
+    "Why Choose Valley Septic?"
+  ],
+  "h3": [
+    "We’re Here to Help",
+    "Serving the Fraser Valley with Pride"
+  ],
+  "h4": [
+    "Septic and Plumbing Solutions",
+    "24/7 Emergency Service",
+    "Local Experts",
+    "Environmentally Responsible",
+    "Certified Professionals",
+    "Ongoing Maintenance",
+    "We Proudly Serve:",
+    "Services",
+    "Service Areas"
+  ],
+  "schemaTypes": [
+    "Place",
+    "LocalBusiness+Organization",
+    "WebSite",
+    "ImageObject",
+    "ContactPage",
+    "LocalBusiness"
+  ],
+  "articleSchema": null,
+  "breadcrumb": [],
+  "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+  "publishedDate": "",
+  "modifiedDate": "",
+  "author": "bullfinch",
+  "category": "",
+  "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+  "ogImageWidth": "1000",
+  "ogImageHeight": "300",
+  "ogImageType": "image/webp",
+  "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+}

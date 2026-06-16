@@ -1,0 +1,100 @@
+---
+export interface Props {
+  eyebrow?: string;
+  title: string;
+  subtitle?: string;
+  image?: string;
+  align?: "left" | "center";
+  variant?: "dark" | "light";
+}
+
+const { eyebrow, title, subtitle, image, align = "left", variant = "light" } = Astro.props;
+const isDark = variant === "dark";
+---
+<section class={`page-header page-header--${align} page-header--${variant}`}>
+  <div class="container-wide">
+    <div class="page-header__grid">
+      <div class="page-header__content reveal">
+        {eyebrow && <p class={`eyebrow ${isDark ? "eyebrow--tan" : "eyebrow--tan"}`}>{eyebrow}</p>}
+        <h1 class="page-header__title">{title}</h1>
+        {subtitle && <p class="page-header__subtitle">{subtitle}</p>}
+        <div class="page-header__cta">
+          <a href="/contact/" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+      {image && (
+        <div class="page-header__media reveal" style="--delay: 150ms;">
+          <img src={image} alt={title} loading="eager" fetchpriority="high" />
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .page-header {
+    padding: var(--space-9) 0 var(--space-8);
+    position: relative;
+    overflow: hidden;
+  }
+  .page-header--light { background: var(--c-white); color: var(--c-ink); }
+  .page-header--dark  {
+    background: var(--c-dark);
+    color: var(--c-white);
+  }
+  /* Subtle pattern overlay on dark hero (matches Avada pattern1.png usage) */
+  .page-header--dark::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("/images/pattern1.png");
+    background-repeat: repeat;
+    opacity: 0.06;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .page-header > .container-wide { position: relative; z-index: 1; }
+
+  .page-header__grid {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: var(--space-7);
+    align-items: center;
+  }
+  .page-header--center .page-header__grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .page-header__title {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(36px, 5vw, 64px);
+    line-height: 1.05;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    margin: 0 0 var(--space-3);
+    color: inherit;
+  }
+  .page-header--dark .page-header__title { color: var(--c-white); }
+  .page-header__subtitle {
+    font-size: 17px;
+    line-height: 1.7;
+    color: inherit;
+    opacity: 0.88;
+    margin: 0 0 var(--space-5);
+    max-width: 560px;
+  }
+  .page-header__cta { margin-top: var(--space-4); }
+  .page-header__media img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-md);
+  }
+  .eyebrow--tan { color: var(--c-tan); }
+
+  @media (max-width: 900px) {
+    .page-header__grid { grid-template-columns: 1fr; }
+    .page-header__media { order: -1; max-width: 480px; }
+  }
+</style>

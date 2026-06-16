@@ -1,0 +1,735 @@
+{
+  "slug": "tank-pumping",
+  "title": "Tank Pumping - Valley Septic Services",
+  "metaDesc": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+  "canonical": "https://valleyseptic.ca/tank-pumping/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Tank Pumping - Valley Septic Services",
+    "og:description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+    "og:url": "https://valleyseptic.ca/tank-pumping/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2026-04-23T20:27:58+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Tank Pumping",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Tank Pumping - Valley Septic Services",
+    "twitter:description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "117 minutes"
+  },
+  "schemaCount": 2,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/tank-pumping/#webpage",
+          "url": "https://valleyseptic.ca/tank-pumping/",
+          "name": "Tank Pumping - Valley Septic Services",
+          "datePublished": "2024-08-27T17:15:10+00:00",
+          "dateModified": "2026-04-23T20:27:58+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/bullfinch/",
+          "name": "bullfinch",
+          "url": "https://valleyseptic.ca/author/bullfinch/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/8e7de4fd717b8bb45c2204d89a47e4f98a6ed2176bdc9853b47fd5d1611e5e41?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/8e7de4fd717b8bb45c2204d89a47e4f98a6ed2176bdc9853b47fd5d1611e5e41?s=96&amp;d=mm&amp;r=g",
+            "caption": "bullfinch",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Tank Pumping - Valley Septic Services",
+          "datePublished": "2024-08-27T17:15:10+00:00",
+          "dateModified": "2026-04-23T20:27:58+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/bullfinch/",
+            "name": "bullfinch"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+          "name": "Tank Pumping - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/tank-pumping/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/tank-pumping/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/tank-pumping/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Keep Your System Running Smoothly"
+    },
+    {
+      "tag": "h1",
+      "text": "Expert Septic Tank Pumping in Fraser Valley"
+    },
+    {
+      "tag": "h2",
+      "text": "Septic Pumping"
+    },
+    {
+      "tag": "h3",
+      "text": "Why Trust Valley Septic with Your Tank Pumping?"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Expertise"
+    },
+    {
+      "tag": "h4",
+      "text": "Advanced Equipment"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Inspection"
+    },
+    {
+      "tag": "h4",
+      "text": "Tailored Advice"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Care, Step by Step"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Tank Pumping Process"
+    },
+    {
+      "tag": "h3",
+      "text": "1. Initial Assessment"
+    },
+    {
+      "tag": "h3",
+      "text": "2. Tank Opening and Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "3. Pumping and Cleaning"
+    },
+    {
+      "tag": "h3",
+      "text": "4. System Check"
+    },
+    {
+      "tag": "h3",
+      "text": "5. Refill and Close"
+    },
+    {
+      "tag": "h3",
+      "text": "6. Final Review"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Tank Pumping FAQ"
+    },
+    {
+      "tag": "h4",
+      "text": "What's the recommended frequency for septic tank pumping?"
+    },
+    {
+      "tag": "h4",
+      "text": "Are there signs that indicate my septic tank needs pumping?"
+    },
+    {
+      "tag": "h4",
+      "text": "What exactly happens during the septic tank pumping process?"
+    },
+    {
+      "tag": "h4",
+      "text": "Is septic tank pumping a messy procedure?"
+    },
+    {
+      "tag": "h4",
+      "text": "Why should I choose Valley Septic for my septic tank pumping needs?"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic and Plumbing Solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving the Fraser Valley with Pride"
+    },
+    {
+      "tag": "h4",
+      "text": "We Proudly Serve:"
+    },
+    {
+      "tag": "h3",
+      "text": "CONTACT VALLEY SEPTIC SERVICES"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Tank Pumpingbullfinch2026-04-23T20:27:58+00:00 Keep Your System Running SmoothlyExpert Septic Tank Pumping in Fraser ValleyAt Valley Septic, we provide professional septic tank pumping services to maintain the efficiency and longevity of your septic system. Our skilled technicians thoroughly remove accumulated sludge and scum, preventing backups and ensuring your septic system functions properly for years to come. Learn MoreSeptic PumpingUnderstanding Your Septic System for a Worry-Free Property Septic tank pumping is a crucial maintenance procedure that involves removing accumulated solid waste from your septic tank. Over time, your tank develops two layers: a bottom layer of heavier sludge and a top layer of lighter scum, consisting of oils and grease. Regular pumping prevents these layers from building up and causing system backups or failures. Get In TouchWhy Trust Valley Septic with Your Tank Pumping?0%Customer Satisfaction0+Years Serving Fraser ValleyLocal ExpertiseExperienced technicians with deep knowledge of Fraser Valley’s unique septic challenges. Advanced EquipmentState-of-the-art technology ensures thorough cleaning and efficient waste removal. Thorough InspectionComprehensive system check during pumping to identify potential issues early. Tailored AdviceCustomized maintenance recommendations to extend your septic system’s lifespan. Thorough Care, Step by StepOur Tank Pumping Process01. Expert inspections 02. Efficient pumping 03. Commercial maintenance 04. Emergency response 1. Initial Assessment We begin by locating and exposing your septic tank. Our technicians then carefully inspect the tank’s exterior and access points. 2. Tank Opening and Inspection We safely open the tank lid and assess the levels of sludge and scum to determine the extent of cleaning required. 3. Pumping and Cleaning We safely open the tank lid and assess the levels of sludge and scum to determine the extent of cleaning required. 4. System Check Our team inspects the inlet and outlet pipes and checks for any signs of damage or wear that might affect your system’s performance. 5. Refill and Close We allow natural bacteria to start repopulating the tank, which is crucial for proper waste breakdown. The tank is then securely closed and sealed. 6. Final Review We ensure the area is clean and undisturbed. Finally, we provide you with a detailed report and tailored maintenance advice for your septic system. Get In TouchSeptic Tank Pumping FAQWhat's the recommended frequency for septic tank pumping? The ideal pumping schedule depends on your tank size and household usage. Generally, we recommend pumping every 3-5 years. Regular maintenance helps prevent system failures and costly backups. Are there signs that indicate my septic tank needs pumping? Yes, watch for slow draining fixtures, gurgling sounds in pipes, unpleasant odors around drains or your yard, and wet spots in your lawn near the septic system. These could all signal that your tank needs attention. What exactly happens during the septic tank pumping process? Our technicians use specialized equipment to remove accumulated solids and liquids from your tank. We also inspect the tank’s condition, clean crucial components, and check for any potential issues to ensure your system’s optimal performance. Is septic tank pumping a messy procedure? Not when done by professionals. Our team uses advanced equipment and follows strict protocols to minimize disruption and maintain cleanliness. We take great care to protect your property throughout the process. Why should I choose Valley Septic for my septic tank pumping needs? Valley Septic combines local expertise, state-of-the-art equipment, and a commitment to customer satisfaction. Our thorough approach not only cleans your tank but also helps identify and prevent potential issues, saving you time and money in the long run. Septic and Plumbing SolutionsWhy Choose Valley Septic?At Valley Septic, we’re more than just a service provider – we’re your ",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "1862",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero-200x310.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero-400x621.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero-600x931.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero-800x1241.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-hero.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process.jpg",
+      "alt": "",
+      "w": "1800",
+      "h": "541",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-200x60.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-400x120.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-600x180.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-800x240.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-1200x361.jpg 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process.jpg 1800w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping-225x300.webp",
+      "alt": "",
+      "w": "225",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping-200x267.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping-400x533.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping-600x800.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping-800x1067.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankpumping.webp 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png",
+      "alt": "",
+      "w": "2628",
+      "h": "662",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-200x50.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-400x101.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-600x151.png 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-800x202.png 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-1200x302.png 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png 2628w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/tank-pumping/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-10 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

@@ -1,0 +1,43 @@
+---
+export interface Props {
+  title: string;
+  text?: string;
+  ctaText: string;
+  ctaHref: string;
+  ctaText2?: string;
+  ctaHref2?: string;
+  variant?: "tan" | "ink" | "sage" | "teal" | "brown";
+}
+
+const { title, text, ctaText, ctaHref, ctaText2, ctaHref2, variant = "tan" } = Astro.props;
+---
+<section class={`section section--${variant} cta-banner`}>
+  <div class="container">
+    <div class="cta-banner__inner">
+      <div class="cta-banner__content">
+        <h2 class="cta-banner__title">{title}</h2>
+        {text && <p class="cta-banner__text">{text}</p>}
+      </div>
+      <div class="cta-banner__ctas">
+        <a href={ctaHref} class="btn btn-ghost btn-lg">{ctaText}</a>
+        {ctaText2 && ctaHref2 && <a href={ctaHref2} class="btn btn-dark btn-lg">{ctaText2}</a>}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .cta-banner__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--space-5);
+  }
+  .cta-banner__title { color: var(--c-white); font-size: clamp(28px, 4vw, 42px); margin: 0 0 var(--space-2); }
+  .cta-banner__text { color: rgba(255,255,255,0.85); margin: 0; max-width: 600px; }
+  .cta-banner__ctas { display: flex; gap: var(--space-3); flex-wrap: wrap; }
+  @media (max-width: 800px) {
+    .cta-banner__inner { flex-direction: column; align-items: flex-start; }
+  }
+</style>

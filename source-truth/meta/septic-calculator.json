@@ -1,0 +1,511 @@
+{
+  "slug": "septic-calculator",
+  "title": "Septic Calculator - Valley Septic Services",
+  "metaDesc": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+  "canonical": "https://valleyseptic.ca/septic-calculator/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Calculator - Valley Septic Services",
+    "og:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+    "og:url": "https://valleyseptic.ca/septic-calculator/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2025-10-07T20:31:42+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Calculator",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Calculator - Valley Septic Services",
+    "twitter:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "9 minutes"
+  },
+  "schemaCount": 2,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-calculator/#webpage",
+          "url": "https://valleyseptic.ca/septic-calculator/",
+          "name": "Septic Calculator - Valley Septic Services",
+          "datePublished": "2025-09-16T21:03:04+00:00",
+          "dateModified": "2025-10-07T20:31:42+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/rvgye/",
+          "name": "rvgye",
+          "url": "https://valleyseptic.ca/author/rvgye/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "caption": "rvgye",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Septic Calculator - Valley Septic Services",
+          "datePublished": "2025-09-16T21:03:04+00:00",
+          "dateModified": "2025-10-07T20:31:42+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/rvgye/",
+            "name": "rvgye"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "VALLEY SEPTIC SERVICES &amp; TANK PUMPINGIS your septic system due for service?",
+          "name": "Septic Calculator - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-calculator/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-calculator/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-calculator/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "VALLEY SEPTIC SERVICES & TANK PUMPING"
+    },
+    {
+      "tag": "h1",
+      "text": "IS your septic system due for service?"
+    },
+    {
+      "tag": "h2",
+      "text": "🧮 Calculate Your Schedule"
+    },
+    {
+      "tag": "h2",
+      "text": "📅 Your Pumping Schedule"
+    },
+    {
+      "tag": "h3",
+      "text": "Urgency Level"
+    },
+    {
+      "tag": "h3",
+      "text": "🔔 Never Miss a Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic Calculatorrvgye2025-10-07T20:31:42+00:00 VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?How often should you get your septic system serviced? Are you due for service now? Use our calculator below to find out and get a reminder when you need services! 🧮 Calculate Your Schedule These factors can affect your pumping frequency. Household Size 1 person 2 people 3 people 4 people 5 people 6 people 7 people 8 people Septic Tank Size 750 gallons 900 gallons 1000 gallons 1200 gallons 1500 gallons 2000 gallons Last Service Date Additional Factors Garbage DisposalIncreases solid waste, requires more frequent pumping High Water UsageFrequent laundry, long showers, or water-intensive activities Rental Property / High TurnoverFrequent tenant changes or inconsistent maintenance habits Chemical / Cleaning Product UsageHarsh chemicals can kill beneficial bacteria and reduce breakdown Calculate Schedule Reset 📅 Your Pumping Schedule Urgency Level LowHigh 0% Urgent On Schedule You're in good shape! Your next service isn't due for a while. Recommended Interval — Next Service Date — 🔔 Never Miss a Service Enter your email to get a reminder 30 days before your next service is due. Email Submit Submission Successful",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "",
+      "method": "",
+      "class": "",
+      "id": "sc-form",
+      "fields": [
+        {
+          "tag": "select",
+          "type": "",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "1 person 2 people 3 people 4 people 5 people 6 people 7 people 8 people"
+        },
+        {
+          "tag": "select",
+          "type": "",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "750 gallons 900 gallons 1000 gallons 1200 gallons 1500 gallons 2000 gallons"
+        },
+        {
+          "tag": "input",
+          "type": "date",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": true,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "on",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "on",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "on",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "on",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Calculate Schedule"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Reset"
+        }
+      ]
+    },
+    {
+      "action": "",
+      "method": "",
+      "class": "rem-grid",
+      "id": "sc-reminder-form",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "",
+          "placeholder": "Your name",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "",
+          "placeholder": "Your phone number",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "",
+          "placeholder": "Enter your email address",
+          "label": "",
+          "required": true,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

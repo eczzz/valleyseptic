@@ -1,0 +1,199 @@
+---
+import { SITE, NAV } from "../../config/site";
+import MobileNav from "../react/MobileNav";
+const path = Astro.url.pathname;
+function isActive(href: string) {
+  if (href === "/") return path === "/";
+  return path.startsWith(href);
+}
+---
+<header class="site-header">
+  <div class="site-header__inner container-wide">
+    <a href="/" class="site-header__brand" aria-label={`${SITE.fullName} – home`}>
+      <img src={SITE.logo} alt={SITE.fullName} width="180" height="54" />
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <ul class="site-nav__list">
+        {NAV.map(item => (
+          <li class={`site-nav__item${item.children ? " has-children" : ""}`}>
+            <a
+              href={item.href === "#" ? "#" : item.href}
+              class={`site-nav__link${isActive(item.href) ? " is-active" : ""}`}
+              aria-haspopup={item.children ? "true" : undefined}
+            >
+              {item.label}
+              {item.children && (
+                <svg width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+                  <path d="M0 0l5 6 5-6z" fill="currentColor" />
+                </svg>
+              )}
+            </a>
+            {item.children && (
+              <ul class="site-nav__submenu">
+                {item.children.map(c => (
+                  <li>
+                    <a href={c.href} class={`site-nav__sublink${isActive(c.href) ? " is-active" : ""}`}>
+                      {c.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <a href={SITE.phoneHref} class="site-header__phone" aria-label={`Call ${SITE.phone}`}>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
+        </svg>
+        <span>{SITE.phone}</span>
+      </a>
+    </div>
+
+    <MobileNav client:load nav={NAV} phone={SITE.phone} phoneHref={SITE.phoneHref} />
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--header-bg);
+    border-bottom: 1px solid var(--c-border);
+    box-shadow: var(--shadow-sm);
+  }
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-5);
+    min-height: var(--header-h);
+    padding-top: var(--space-3);
+    padding-bottom: var(--space-3);
+  }
+  .site-header__brand {
+    display: block;
+    flex-shrink: 0;
+    margin-right: auto;
+  }
+  .site-header__brand img {
+    height: 54px;
+    width: auto;
+  }
+  .site-nav {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .site-nav__list {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .site-nav__item {
+    position: relative;
+    margin: 0;
+  }
+  .site-nav__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 16px 14px;
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--c-ink);
+    text-decoration: none;
+    transition: color var(--transition);
+  }
+  .site-nav__link:hover,
+  .site-nav__link.is-active {
+    color: var(--c-primary);
+  }
+  .site-nav__submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 220px;
+    background: var(--c-white);
+    border: 1px solid var(--c-border);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+    padding: var(--space-2) 0;
+    list-style: none;
+    margin: 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(6px);
+    transition: all 200ms ease;
+    z-index: 110;
+  }
+  .site-nav__item.has-children:hover > .site-nav__submenu,
+  .site-nav__item.has-children:focus-within > .site-nav__submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .site-nav__sublink {
+    display: block;
+    padding: 10px 18px;
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--c-ink);
+    text-decoration: none;
+    transition: background var(--transition), color var(--transition);
+  }
+  .site-nav__sublink:hover,
+  .site-nav__sublink.is-active {
+    background: var(--c-bg-alt);
+    color: var(--c-primary);
+  }
+  .site-header__actions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+  .site-header__phone {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 22px;
+    background: var(--c-primary);
+    color: var(--c-white);
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    transition: background var(--transition);
+  }
+  .site-header__phone:hover {
+    background: var(--c-primary-hover);
+    color: var(--c-white);
+  }
+
+  @media (max-width: 1100px) {
+    .site-nav { display: none; }
+  }
+  @media (max-width: 640px) {
+    .site-header__phone span { display: none; }
+    .site-header__phone {
+      padding: 12px 14px;
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      justify-content: center;
+    }
+    .site-header__brand img { height: 40px; }
+  }
+</style>

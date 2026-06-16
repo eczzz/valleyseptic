@@ -1,0 +1,21 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/sections/PageHeader.astro";
+import { SITE } from "../config/site";
+---
+<BaseLayout title={`Page not found | ${SITE.name}`} description="The page you were looking for couldn't be found." robots="noindex,follow">
+  <PageHeader
+    eyebrow="404"
+    title="We couldn't find that page"
+    subtitle="The page may have moved, or you may have followed an old link. Try one of the options below."
+  />
+  <section class="section">
+    <div class="container" style="max-width: 720px; text-align: center;">
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a href="/" class="btn btn-primary">Go to homepage</a>
+        <a href="/contact/" class="btn btn-outline">Contact us</a>
+      </div>
+      <p style="margin-top: 48px;">Or call us anytime at <a href={SITE.phoneHref}>{SITE.phone}</a>.</p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,203 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/sections/PageHeader.astro";
+import ContactSection from "../components/sections/ContactSection.astro";
+import { SITE } from "../config/site";
+import { pageSchema } from "../lib/schema";
+
+const url = `${SITE.url}/privacy-policy/`;
+const title = `Privacy Policy | ${SITE.name}`;
+const description =
+  "How Valley Septic Services & Tank Pumping collects, uses, and protects the personal information of customers across the Fraser Valley, BC.";
+const updated = "May 22, 2026";
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  pageType: "WebPage",
+});
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={url}
+  ogImage={SITE.ogImage}
+  ogType="website"
+  robots="noindex, follow"
+  schema={schema}
+>
+  <PageHeader
+    eyebrow="Legal"
+    title="Privacy Policy"
+    subtitle="Your privacy matters to us. This policy explains what information we collect and how we use it."
+  />
+
+  <section class="section">
+    <div class="container">
+      <article class="legal">
+        <p class="legal__updated">Last updated: {updated}</p>
+
+        <p>
+          {SITE.fullName} ("Valley Septic", "we", "us", or "our") provides septic
+          tank pumping, inspections, grease trap cleaning, and related services
+          throughout the Fraser Valley, British Columbia. This Privacy Policy
+          describes how we collect, use, disclose, and safeguard your personal
+          information when you visit <a href={SITE.url}>{SITE.url}</a> (the
+          "Site") or request services from us.
+        </p>
+        <p>
+          We are committed to handling personal information in accordance with
+          Canada's Personal Information Protection and Electronic Documents Act
+          (PIPEDA) and British Columbia's Personal Information Protection Act
+          (PIPA).
+        </p>
+
+        <h2>Information we collect</h2>
+        <p>We collect only the information we need to respond to you and deliver our services:</p>
+        <ul>
+          <li>
+            <strong>Information you give us.</strong> When you submit a contact
+            or booking form, request a quote, or call us, we may collect your
+            name, email address, phone number, service address, and any details
+            you provide about the work you need.
+          </li>
+          <li>
+            <strong>Information collected automatically.</strong> Like most
+            websites, our Site automatically records standard technical data
+            such as your IP address, browser type, device information, pages
+            visited, and referring pages. This is collected through analytics
+            cookies (see below).
+          </li>
+        </ul>
+
+        <h2>How we use your information</h2>
+        <p>We use the information we collect to:</p>
+        <ul>
+          <li>Respond to inquiries, quotes, and service requests;</li>
+          <li>Schedule, perform, and follow up on septic services;</li>
+          <li>Send appointment confirmations, reminders, and invoices;</li>
+          <li>Improve our website, services, and customer experience;</li>
+          <li>Meet our legal, regulatory, and insurance obligations.</li>
+        </ul>
+        <p>
+          We do not sell, rent, or trade your personal information, and we do not
+          send marketing email unless you have asked us to.
+        </p>
+
+        <h2>Cookies and analytics</h2>
+        <p>
+          Our Site uses Google Analytics to understand how visitors use our
+          pages so we can improve them. Google Analytics sets cookies and
+          processes data such as your approximate location and browsing
+          activity. You can disable cookies in your browser settings or opt out
+          of Google Analytics using Google's browser add-on. Pages that include
+          maps may also load Google Maps.
+        </p>
+
+        <h2>Service providers</h2>
+        <p>
+          We share personal information only with trusted third parties that
+          help us operate our business, and only as needed to provide their
+          service to us. These include:
+        </p>
+        <ul>
+          <li><strong>Email delivery</strong> — to transmit contact-form submissions to our team;</li>
+          <li><strong>Online booking</strong> — to schedule appointments you request through our booking form;</li>
+          <li><strong>Website hosting and analytics</strong> — to operate and measure the Site.</li>
+        </ul>
+        <p>
+          These providers are required to protect your information and may not
+          use it for any purpose other than the service they provide to us. We
+          may also disclose information where required by law.
+        </p>
+
+        <h2>Data retention</h2>
+        <p>
+          We keep personal information only as long as needed for the purpose it
+          was collected, to maintain service and warranty records, and to comply
+          with legal and accounting requirements. When information is no longer
+          needed, we securely delete or destroy it.
+        </p>
+
+        <h2>How we protect your information</h2>
+        <p>
+          We use reasonable physical, administrative, and technical safeguards
+          to protect personal information against loss, theft, and unauthorized
+          access. No method of transmission over the internet is completely
+          secure, however, and we cannot guarantee absolute security.
+        </p>
+
+        <h2>Your rights</h2>
+        <p>
+          You may request access to the personal information we hold about you,
+          ask us to correct it, or ask us to delete it, subject to legal and
+          contractual limits. To make a request, contact us using the details
+          below. We will respond within a reasonable time.
+        </p>
+
+        <h2>Children's privacy</h2>
+        <p>
+          Our Site and services are intended for property owners and adults. We
+          do not knowingly collect personal information from children.
+        </p>
+
+        <h2>Changes to this policy</h2>
+        <p>
+          We may update this Privacy Policy from time to time. The "Last
+          updated" date at the top of this page shows when it was last revised.
+          Continued use of our Site or services after a change means you accept
+          the updated policy.
+        </p>
+
+        <h2>Contact us</h2>
+        <p>
+          If you have questions about this Privacy Policy or how we handle your
+          personal information, please contact us:
+        </p>
+        <p class="legal__contact">
+          {SITE.fullName}<br />
+          {SITE.address.full}<br />
+          Phone: <a href={SITE.phoneHref}>{SITE.phone}</a><br />
+          Email: <a href={SITE.emailHref}>{SITE.email}</a>
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <ContactSection topic="privacy" />
+</BaseLayout>
+
+<style>
+  .legal {
+    max-width: 760px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--c-text-muted);
+  }
+  .legal__updated {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--c-primary);
+    margin: 0 0 var(--space-5);
+  }
+  .legal h2 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    color: var(--c-ink);
+    margin: var(--space-7) 0 var(--space-3);
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+  .legal p { margin: 0 0 var(--space-4); }
+  .legal ul { margin: 0 0 var(--space-4) var(--space-5); padding: 0; }
+  .legal li { margin-bottom: 10px; }
+  .legal a { color: var(--c-primary); }
+  .legal a:hover { text-decoration: underline; }
+  .legal strong { color: var(--c-ink); }
+  .legal__contact { color: var(--c-ink); }
+</style>

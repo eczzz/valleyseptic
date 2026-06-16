@@ -1,0 +1,131 @@
+---
+import { SITE, NAV } from "../../config/site";
+const services = NAV.find(n => n.label === "Services")?.children ?? [];
+const areas = NAV.find(n => n.label === "Service Areas")?.children ?? [];
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container-wide">
+    <div class="site-footer__grid">
+      <div class="site-footer__brand">
+        <a href="/" aria-label={SITE.fullName}>
+          <img src={SITE.logo} alt={SITE.fullName} width="180" height="54" />
+        </a>
+        <p>
+          {SITE.fullName}. Trusted septic and tank pumping services for the
+          Fraser Valley, BC. Fast response, certified professionals, and 24/7
+          emergency support.
+        </p>
+        <p>
+          {SITE.address.full}<br />
+          <a href={SITE.phoneHref} class="site-footer__contact">
+            <strong>{SITE.phone}</strong>
+          </a><br />
+          <a href={SITE.emailHref} class="site-footer__contact">{SITE.email}</a>
+        </p>
+      </div>
+
+      <div>
+        <h4>Services</h4>
+        <ul>
+          {services.map(s => (
+            <li><a href={s.href}>{s.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <h4>Service Areas</h4>
+        <ul>
+          {areas.map(a => (
+            <li><a href={a.href}>{a.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/articles/">Read our Articles</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/septic-calculator/">Septic Calculator</a></li>
+          <li><a href="/emergency-septic-services/">24/7 Emergency</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>&copy; {year} {SITE.fullName}. All rights reserved.</p>
+      <p class="site-footer__service-area">Serving {SITE.address.serviceCities.join(", ")}, BC.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background: var(--c-dark);
+    color: rgba(255,255,255,0.7);
+    padding: var(--space-9) 0 var(--space-5);
+    position: relative;
+  }
+  /* Tan top accent strip (matches source footer chrome) */
+  .site-footer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: var(--c-tan);
+  }
+  .site-footer__grid {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr 1fr;
+    gap: var(--space-7);
+  }
+  .site-footer__brand img {
+    height: 54px;
+    width: auto;
+    filter: brightness(0) invert(1);
+    margin-bottom: var(--space-4);
+  }
+  .site-footer p { font-size: 14px; line-height: 1.7; color: rgba(255,255,255,0.7); }
+  .site-footer h4 {
+    color: var(--c-white);
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    margin-bottom: var(--space-4);
+  }
+  .site-footer ul { list-style: none; padding: 0; margin: 0; }
+  .site-footer li { margin-bottom: 10px; }
+  .site-footer a {
+    color: rgba(255,255,255,0.7);
+    font-size: 14px;
+    text-decoration: none;
+    transition: color var(--transition);
+  }
+  .site-footer a:hover { color: var(--c-primary); }
+  .site-footer__contact strong { color: var(--c-white); font-size: 18px; }
+
+  .site-footer__bottom {
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid rgba(255,255,255,0.1);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    font-size: 13px;
+  }
+  .site-footer__bottom p { margin: 0; color: rgba(255,255,255,0.5); }
+
+  @media (max-width: 1024px) {
+    .site-footer__grid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 640px) {
+    .site-footer__grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,185 @@
+---
+// Pixel-perfect port of a source WordPress page's body HTML + Avada CSS.
+//
+// Renders the full Avada body shell (header + main + footer) so layout-level
+// CSS selectors like `#wrapper > .fusion-tb-header` still match.
+//
+// CSS: the page's content-addressed Avada stylesheets (under /port-css/) are
+// referenced via <link> emitted at the START of this component's output —
+// i.e. inside <body>. A body-level <link> beats every <head> stylesheet in
+// the cascade, so Avada wins same-specificity conflicts vs. our global.css
+// resets regardless of where Astro injects its bundled CSS. The files are
+// static + cacheable, so navigating between pages that share a stylesheet
+// re-downloads nothing.
+import { PORT_CSS } from "../../data/source-port/css-manifest";
+
+export interface Props {
+  /** Slug name of the file inside src/data/source-port/. Matches our raw/<slug>.raw.html. */
+  slug: string;
+  /** Class to apply to the inner <main id="main">. Defaults to Avada's "clearfix width-100". */
+  mainClass?: string;
+}
+
+const { slug, mainClass = "clearfix width-100" } = Astro.props;
+
+// Pull the per-page body, header, footer, and scripts via Vite's ?raw import.
+const htmlModules = import.meta.glob("../../data/source-port/*.html", { query: "?raw", import: "default", eager: true });
+
+const htmlKey = `../../data/source-port/${slug}.html`;
+const headerKey = `../../data/source-port/${slug}.header.html`;
+const footerKey = `../../data/source-port/${slug}.footer.html`;
+const scriptsKey = `../../data/source-port/${slug}.scripts.html`;
+
+const html = (htmlModules[htmlKey] as string | undefined) ?? "";
+const headerHtml = (htmlModules[headerKey] as string | undefined) ?? "";
+const footerHtml = (htmlModules[footerKey] as string | undefined) ?? "";
+const scriptsHtml = (htmlModules[scriptsKey] as string | undefined) ?? "";
+
+if (!html) {
+  throw new Error(`SourcePort: no port found for slug "${slug}"`);
+}
+
+const cssRefs = PORT_CSS[slug] ?? [];
+---
+{cssRefs.map(href => <link rel="stylesheet" href={href} />)}
+<div id="boxed-wrapper">
+  <div id="wrapper" class="fusion-wrapper">
+    <div id={slug === "home" ? "home" : undefined}></div>
+    {headerHtml && <Fragment set:html={headerHtml} />}
+    <div id="sliders-container" class="fusion-slider-visibility"></div>
+    <main id="main" class={mainClass} set:html={html}></main>
+    {footerHtml && <Fragment set:html={footerHtml} />}
+  </div>
+</div>
+{scriptsHtml && <Fragment set:html={scriptsHtml} />}
+{scriptsHtml && (
+  <script is:inline>
+    /* Lazy-activate the ported Avada scripts (jQuery + Fusion bundle, Google
+       Maps, inline glue) — needed for forms/maps/menu/sticky-header but not
+       for first paint. Boots on idle, or immediately on first interaction,
+       keeping ~800KB of JS parse/execute off the critical loading path. */
+    (function () {
+      var booted = false;
+      function boot() {
+        if (booted) return; booted = true;
+        var nodes = [].slice.call(document.querySelectorAll('script[data-port-lazy]'));
+        (function run(i) {
+          if (i >= nodes.length) return;
+          var src = nodes[i].getAttribute('data-src');
+          var s = document.createElement('script');
+          if (src) {
+            s.src = src;
+            s.onload = s.onerror = function () { run(i + 1); };
+            document.body.appendChild(s);
+          } else {
+            s.textContent = nodes[i].textContent;
+            document.body.appendChild(s);
+            run(i + 1);
+          }
+        })(0);
+      }
+      ['pointerdown', 'keydown', 'touchstart', 'scroll', 'mousemove'].forEach(function (e) {
+        window.addEventListener(e, boot, { once: true, passive: true });
+      });
+      if ('requestIdleCallback' in window) requestIdleCallback(boot, { timeout: 2500 });
+      else setTimeout(boot, 1800);
+    })();
+  </script>
+)}
+<script is:inline>
+  /* Contact-form handler. Intercepts every fusion-form submission — BOTH the
+     submit-button click and the form `submit` event — in the capture phase,
+     so it runs before Avada's lazy-loaded jQuery handler (which cancels the
+     button click before any `submit` event is generated) and pre-empts it via
+     stopImmediatePropagation. POSTs JSON to the Netlify Function that relays
+     the email through SMTP2Go, then shows the form's own Avada success/error
+     alert elements. */
+  (function () {
+    if (window.__vsContactBound) return;
+    window.__vsContactBound = true;
+    var ENDPOINT = '/.netlify/functions/contact';
+
+    function val(form, n) {
+      var el = form.querySelector('[name="' + n + '"]');
+      return el ? String(el.value || '').trim() : '';
+    }
+    function showMsg(el, msg) {
+      if (!el) return;
+      if (msg) (el.querySelector('.fusion-alert-content') || el).textContent = msg;
+      el.style.display = 'block';
+    }
+
+    function handleForm(form) {
+      if (!form || form.dataset.vsSending === '1') return;
+
+      var notices = form.querySelector('.form-submission-notices') || form;
+      var okEl = notices.querySelector('.fusion-form-response-success');
+      var errEl = notices.querySelector('.fusion-form-response-error');
+      if (okEl) okEl.style.display = 'none';
+      if (errEl) errEl.style.display = 'none';
+
+      var data = {
+        name: val(form, 'name'), email: val(form, 'email'), phone: val(form, 'phone'),
+        city: val(form, 'city'), Address: val(form, 'Address'), subject: val(form, 'subject'),
+        message: val(form, 'message'), hp_check: val(form, 'hp_check')
+      };
+      if (!data.name || !data.email || !data.message) {
+        showMsg(errEl, 'Please fill in your name, email, and message.');
+        return;
+      }
+
+      var btn = form.querySelector('button[type="submit"]');
+      var label = btn && btn.querySelector('.fusion-button-text');
+      var labelText = label ? label.textContent : '';
+      form.dataset.vsSending = '1';
+      if (btn) btn.disabled = true;
+      if (label) label.textContent = 'Sending…';
+
+      fetch(ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      })
+        .then(function (r) { return r.json().catch(function () { return { ok: r.ok }; }); })
+        .then(function (res) {
+          if (res && res.ok) {
+            showMsg(okEl);
+            form.querySelectorAll('input, textarea').forEach(function (i) {
+              if (i.type !== 'submit' && i.type !== 'button') i.value = '';
+            });
+          } else {
+            showMsg(errEl, (res && res.error) || 'Sorry — your message could not be sent. Please call us.');
+          }
+        })
+        .catch(function () {
+          showMsg(errEl, 'Network error — please try again, or call us.');
+        })
+        .finally(function () {
+          form.dataset.vsSending = '';
+          if (btn) btn.disabled = false;
+          if (label) label.textContent = labelText || 'Submit';
+        });
+    }
+
+    // Enter-key / programmatic submit.
+    document.addEventListener('submit', function (e) {
+      var form = e.target;
+      if (!form || !form.classList || !form.classList.contains('fusion-form')) return;
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      handleForm(form);
+    }, true);
+
+    // Submit-button click — Avada cancels this click before a `submit` event
+    // is ever produced, so it must be intercepted directly.
+    document.addEventListener('click', function (e) {
+      var btn = e.target && e.target.closest && e.target.closest('button[type="submit"], input[type="submit"]');
+      if (!btn) return;
+      var form = btn.closest('form.fusion-form');
+      if (!form) return;
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      handleForm(form);
+    }, true);
+  })();
+</script>

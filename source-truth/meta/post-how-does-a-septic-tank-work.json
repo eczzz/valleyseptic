@@ -1,0 +1,429 @@
+{
+  "slug": "post-how-does-a-septic-tank-work",
+  "title": "How Does a Septic Tank Work? - Valley Septic Services",
+  "metaDesc": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+  "canonical": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "How Does a Septic Tank Work? - Valley Septic Services",
+    "og:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "og:url": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "og:image:width": "1800",
+    "og:image:height": "1037",
+    "og:image:alt": "How Does a Septic Tank Work?",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "How Does a Septic Tank Work? - Valley Septic Services",
+    "twitter:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "ValleySeptic",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "4 minutes"
+  },
+  "schemaCount": 4,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+          "width": "1800",
+          "height": "1037",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/how-does-a-septic-tank-work/#webpage",
+          "url": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+          "name": "How Does a Septic Tank Work? - Valley Septic Services",
+          "datePublished": "2026-02-02T18:49:31+00:00",
+          "dateModified": "2026-02-02T18:49:31+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/valleyseptic/",
+          "name": "ValleySeptic",
+          "url": "https://valleyseptic.ca/author/valleyseptic/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "caption": "ValleySeptic",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "How Does a Septic Tank Work? - Valley Septic Services",
+          "datePublished": "2026-02-02T18:49:31+00:00",
+          "dateModified": "2026-02-02T18:49:31+00:00",
+          "articleSection": "Septic Education",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/valleyseptic/",
+            "name": "ValleySeptic"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+          "name": "How Does a Septic Tank Work? - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/how-does-a-septic-tank-work/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/how-does-a-septic-tank-work/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/how-does-a-septic-tank-work/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Septic Education",
+          "item": "https://valleyseptic.ca/category/septic-education/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Does a Septic Tank Work?",
+      "datePublished": "2026-02-02T18:49:31+00:00",
+      "dateModified": "2025-12-10T23:43:41+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "ValleySeptic",
+        "url": "https://valleyseptic.ca/author/valleyseptic/"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "How Does a Septic Tank Work?"
+    },
+    {
+      "tag": "h2",
+      "text": "The Basic Setup"
+    },
+    {
+      "tag": "h2",
+      "text": "How Waste Gets Separated"
+    },
+    {
+      "tag": "h2",
+      "text": "Where the Water Goes"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Maintenance Actually Matters"
+    },
+    {
+      "tag": "h2",
+      "text": "The Parts You Don’t See"
+    },
+    {
+      "tag": "h2",
+      "text": "What Pumping Actually Does"
+    },
+    {
+      "tag": "h2",
+      "text": "Keeping It Working"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic Services in Mission: Common Problems We See"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic EducationHow Does a Septic Tank Work?How Does a Septic Tank Work?By ValleySepticPublished On: February 2, 2026Last Updated: December 10, 20254.3 min readGet in TouchTable of contentsShare PostThe Basic Setup Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can save you from some seriously unpleasant surprises and expensive repairs down the road. The system itself is simpler than you’d think. Every time you flush a toilet, run the dishwasher, or take a shower, that wastewater flows through your home’s plumbing into the septic tank. The tank is usually made of concrete, fiberglass, or polyethylene and sits buried in your yard, quietly doing its thing. Three things to know: Your septic tank separates waste into layers while bacteria break down solids. The liquid then flows to your drain field where soil naturally filters it clean. Regular pumping every 3-5 years prevents sludge buildup from wrecking the whole system. How Waste Gets Separated Once the wastewater enters the tank, gravity takes over. The heavy stuff (solid waste, toilet paper, anything that sinks) settles to the bottom and forms what’s called sludge. The lighter stuff (oils, grease, soap scum) floats to the top and creates a layer of scum. Everything in between is the liquid wastewater, which hangs out in the middle zone. The real work happens with bacteria. Your septic tank is home to billions of naturally occurring bacteria that break down the solid waste. These microorganisms digest the organic matter, reducing the sludge over time. This is why you can’t just dump antibacterial cleaners, harsh chemicals, or medications down your drains without consequence. You’d be killing off the bacteria your system needs to function. Where the Water Goes After spending enough time in the tank, the liquid wastewater (now called effluent) flows out through the outlet pipe into the drain field. The drain field is a network of perforated pipes buried in gravel-filled trenches. The effluent trickles out through these pipes and gets naturally filtered through layers of soil, sand, and rock before eventually reaching groundwater. The soil acts like a biological filter, removing harmful bacteria, viruses, and nutrients from the wastewater. By the time it reaches groundwater, it’s been cleaned naturally through this process. That’s the environmental responsibility built right into the system design. Why Maintenance Actually Matters Here’s where maintenance comes in. Even with bacteria doing their job, sludge and scum build up over time. When the layers get too thick, solid waste can flow into the drain field where it doesn’t belong. That’s when you start seeing warning signs like slow drains, sewage odors, or soggy patches in your yard. Most tanks in the Fraser Valley need pumping every three to five years, depending on household size and water usage. How often you need service varies based on real factors like how many people live in your home, whether you run the washing machine daily, and how much water your household actually uses. Some systems also include components like septic alarms or effluent pumps if your property has elevation challenges. These alarms alert you when liquid levels get too high, giving you time to call for service before you’re dealing with a backup situation. The Parts You Don’t See The inlet and outlet baffles play a role too. These T-shaped pipes inside your tank prevent scum from flowing out with the effluent and keep the whole system running the way it should. During a professional inspection, technicians check these baffles along with the overall condition of your tank. You can do your part by watching what goes down your drains. Non-biodegradable items like paper towels, feminine hygiene products, cat litter, and dental floss don’t break down and just add to the sludge. Same goes for cooking grease. It solidifies when it cools and contributes ",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+      "alt": "",
+      "w": "1800",
+      "h": "1037",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-200x115.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-400x230.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-600x346.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-800x461.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-1200x691.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp 1800w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works.webp",
+      "alt": "",
+      "w": "1024",
+      "h": "691",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-200x135.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-300x202.webp 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-400x270.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-600x405.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-768x518.webp 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works-800x540.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/how-septic-tank-works.webp 1024w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-1024x571.webp",
+      "alt": "",
+      "w": "1024",
+      "h": "571",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-200x112.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-300x167.webp 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-400x223.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-600x335.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-768x428.webp 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-800x446.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-1024x571.webp 1024w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-1200x669.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover-1536x857.webp 1536w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicover.webp 1800w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-500x383.webp",
+      "alt": "Septic Services in Mission: Common Problems We See",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color8)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "related-posts single-related-posts fusion-related-tb fusion-related-tb-1",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

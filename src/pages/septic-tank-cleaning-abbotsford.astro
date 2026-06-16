@@ -1,0 +1,26 @@
+---
+// Preserved URL alias from source WordPress site:
+// septic-tank-cleaning-abbotsford -> redirects/canonicalizes to septic-services-abbotsford.
+// Source returns a 301 (Location: /septic-services-abbotsford/). We replicate the
+// same canonical behavior here with a meta-refresh + canonical link as a
+// belt-and-suspenders SEO move (Netlify/Vercel users can also configure a
+// platform-level 301 in their _redirects/vercel.json).
+import { SITE } from "../config/site";
+const target = "/septic-services-abbotsford/";
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={SITE.url + target} />
+    <meta name="robots" content="noindex,follow" />
+    <title>Redirecting…</title>
+  </head>
+  <body>
+    <p>This page has moved. <a href={target}>Continue to Abbotsford septic services →</a></p>
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </body>
+</html>

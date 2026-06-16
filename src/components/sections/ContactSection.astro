@@ -1,0 +1,132 @@
+---
+import { SITE } from "../../config/site";
+import ContactForm from "../react/ContactForm";
+
+export interface Props {
+  title?: string;
+  text?: string;
+  topic?: string;
+  background?: "default" | "alt" | "cream" | "ink";
+}
+
+const {
+  title = "CONTACT VALLEY SEPTIC SERVICES",
+  text = "Don't wait for septic issues to disrupt your life. Valley Septic is here to ensure your system runs smoothly year-round.",
+  topic = "general",
+  background = "ink",
+} = Astro.props;
+const bgClass = background === "alt" ? "section--alt" :
+                background === "cream" ? "section--cream" :
+                background === "ink" ? "section--ink" : "";
+---
+<section class={`section contact-section ${bgClass}`}>
+  <div class="container">
+    <div class="contact-section__grid">
+      <div class="contact-section__info">
+        <h2 class="contact-section__title">{title}</h2>
+        <p class="contact-section__lede">{text}</p>
+
+        <ul class="contact-section__list">
+          <li>
+            <span class="contact-section__icon" aria-hidden="true">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" />
+              </svg>
+            </span>
+            <div>{SITE.address.full}</div>
+          </li>
+          <li>
+            <span class="contact-section__icon" aria-hidden="true">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
+              </svg>
+            </span>
+            <div><a href={SITE.phoneHref}>{SITE.phone}</a></div>
+          </li>
+          <li>
+            <span class="contact-section__icon" aria-hidden="true">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" /><polyline points="22,6 12,13 2,6" />
+              </svg>
+            </span>
+            <div><a href={SITE.emailHref}>{SITE.email}</a></div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="contact-section__form">
+        <ContactForm client:visible topic={topic} />
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .contact-section__grid {
+    display: grid;
+    grid-template-columns: 1fr 1.25fr;
+    gap: var(--space-8);
+    align-items: start;
+  }
+  .contact-section__title {
+    font-family: var(--font-heading);
+    font-size: clamp(28px, 3.4vw, 42px);
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--c-tan);
+    margin: 0 0 var(--space-4);
+    line-height: 1.1;
+  }
+  .section--ink .contact-section__title { color: var(--c-tan); }
+
+  .contact-section__lede {
+    font-size: 15px;
+    line-height: 1.72;
+    margin: 0 0 var(--space-5);
+    color: inherit;
+    opacity: 0.85;
+    max-width: 460px;
+  }
+  .contact-section__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .contact-section__list li {
+    display: flex;
+    gap: 14px;
+    padding: 10px 0;
+    align-items: center;
+    font-size: 15px;
+  }
+  .contact-section__icon {
+    display: inline-flex;
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    background: var(--c-tan);
+    color: var(--c-white);
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .contact-section__list a {
+    color: var(--c-white);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .section--ink .contact-section__list a:hover { color: var(--c-tan); }
+  .section--ink .contact-section__list { color: rgba(255,255,255,0.88); }
+
+  /* Form needs a light surface even on ink section */
+  .section--ink .contact-section__form :global(.contact-form) {
+    background: var(--c-white);
+    padding: var(--space-6);
+    border-radius: var(--radius-md);
+    color: var(--c-ink);
+  }
+
+  @media (max-width: 900px) {
+    .contact-section__grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,819 @@
+{
+  "slug": "septic-tank-cleaning-mission",
+  "title": "Septic Tank Cleaning Mission - Valley Septic Services",
+  "metaDesc": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+  "canonical": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Tank Cleaning Mission - Valley Septic Services",
+    "og:description": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+    "og:url": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Tank Cleaning Mission",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Tank Cleaning Mission - Valley Septic Services",
+    "twitter:description": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "115 minutes"
+  },
+  "schemaCount": 3,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-tank-cleaning-mission/#webpage",
+          "url": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+          "name": "Septic Tank Cleaning Mission - Valley Septic Services",
+          "datePublished": "2025-11-19T23:40:20+00:00",
+          "dateModified": "2025-11-19T23:40:20+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/rvgye/",
+          "name": "rvgye",
+          "url": "https://valleyseptic.ca/author/rvgye/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "caption": "rvgye",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Septic Tank Cleaning Mission - Valley Septic Services",
+          "datePublished": "2025-11-19T23:40:20+00:00",
+          "dateModified": "2025-11-19T23:40:20+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/rvgye/",
+            "name": "rvgye"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Expert septic tank cleaning service in Mission &amp; Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+          "name": "Septic Tank Cleaning Mission - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-tank-cleaning-mission/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-tank-cleaning-mission/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-tank-cleaning-mission/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "WebPage",
+        "FAQPage"
+      ],
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What should I avoid flushing to ensure my septic system works well in Mission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Do not flush wipes, grease, diapers, hygiene products, or chemical cleaners. These items can clog pipes or disrupt natural bacterial processes.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an ideal time of year to schedule septic tank cleaning in Mission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Spring and early fall generally provide the best ground conditions for system access.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do Mission&#8217;s seasonal changes affect septic tank performance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Heavy rainfall can saturate soil around the drain field, making proper system function more difficult. A clean tank helps your system manage seasonal changes safely.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can septic tank cleaning help with reducing odors around my Mission property?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Yes — removing built-up waste and gases helps eliminate foul odours, improving overall air quality around your home.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there environmental risks if I delay cleaning my septic tank in Mission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p data-start=\"4132\" data-end=\"4236\">Delays can lead to drain field oversaturation, backups, environmental contamination, and costly repairs.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the frequency of septic tank cleaning vary for rural properties in Mission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Homes with larger tanks or fewer residents may need service every 3–5 years. Older systems, high-usage households, and properties with challenging soil may require cleaning more frequently.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What specific regulations apply to septic tank maintenance in Mission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p data-start=\"3605\" data-end=\"3785\">Mission homeowners must follow provincial guidelines set by the BC Ministry of Health. Regular maintenance is required to prevent contamination of groundwater and nearby waterways.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I tell if my septic tank needs cleaning in Mission&#8217;s climate and soil conditions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Slow drains, gurgling pipes, sewage odours outdoors, or wet patches in the yard are all signs your tank may be overdue for service. Properties on slopes or with clay soil may notice symptoms earlier.</p>\n"
+          }
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "We KEEP Your Mission HOME Running Smoothly"
+    },
+    {
+      "tag": "h1",
+      "text": "Septic Tank CLeaning in Mission"
+    },
+    {
+      "tag": "h2",
+      "text": "Septic Tank Cleaning"
+    },
+    {
+      "tag": "h3",
+      "text": "Why Trust Valley Septic with Your Tank Cleaning?"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Expertise"
+    },
+    {
+      "tag": "h4",
+      "text": "Advanced Techniques"
+    },
+    {
+      "tag": "h4",
+      "text": "Comprehensive Inspection"
+    },
+    {
+      "tag": "h4",
+      "text": "Personalized Advice"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Care, Step by Step"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Tank Cleaning Process"
+    },
+    {
+      "tag": "h3",
+      "text": "1. Initial Assessment"
+    },
+    {
+      "tag": "h3",
+      "text": "2. Tank Opening and Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "3. Pumping and Cleaning"
+    },
+    {
+      "tag": "h3",
+      "text": "4. System Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "5. Refill and Close"
+    },
+    {
+      "tag": "h3",
+      "text": "6. Final Review"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Tank Pumping FAQ"
+    },
+    {
+      "tag": "h2",
+      "text": "What should I avoid flushing to ensure my septic system works well in Mission?"
+    },
+    {
+      "tag": "h2",
+      "text": "Is there an ideal time of year to schedule septic tank cleaning in Mission?"
+    },
+    {
+      "tag": "h2",
+      "text": "How do Mission’s seasonal changes affect septic tank performance?"
+    },
+    {
+      "tag": "h2",
+      "text": "Can septic tank cleaning help with reducing odors around my Mission property?"
+    },
+    {
+      "tag": "h2",
+      "text": "Are there environmental risks if I delay cleaning my septic tank in Mission?"
+    },
+    {
+      "tag": "h2",
+      "text": "How does the frequency of septic tank cleaning vary for rural properties in Mission?"
+    },
+    {
+      "tag": "h2",
+      "text": "What specific regulations apply to septic tank maintenance in Mission?"
+    },
+    {
+      "tag": "h2",
+      "text": "How can I tell if my septic tank needs cleaning in Mission’s climate and soil conditions?"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic Service solUtions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving the Fraser Valley with Pride"
+    },
+    {
+      "tag": "h4",
+      "text": "We Proudly Serve:"
+    },
+    {
+      "tag": "h3",
+      "text": "CONTACT VALLEY SEPTIC & PLUMBING"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic Tank Cleaning Missionrvgye2025-11-19T23:40:20+00:00 We KEEP Your Mission HOME Running SmoothlySeptic Tank CLeaning in MissionMission properties rely on hardworking septic systems, especially in areas with heavy clay soils, sloped terrain, and high seasonal rainfall. We deliver thorough septic tank cleaning to help your system run efficiently, reduce the risk of backups, and extend its lifespan. Remove accumulated sludge and scum so your tank can operate the way it’s meant to. Learn MoreSeptic Tank CleaningHow your septic system works Over time, every septic tank gradually builds up two layers: a dense sludge layer at the bottom and a floating layer made of grease, fats, and lighter materials at the surface. If these layers get too thick, they can wash into the drain field and cause clogs, soggy patches, or even system failure. Regular cleaning protects your drain field, prevents expensive repairs, and keeps your Mission property safe and sanitary. Get In TouchWhy Trust Valley Septic with Your Tank Cleaning?0%Customer Satisfaction0+Years Serving Fraser ValleyLocal ExpertiseExperienced technicians with deep knowledge of Mission’s unique septic challenges. Advanced TechniquesWe use modern equipment designed for fast, efficient, and thorough septic waste removal. Comprehensive InspectionWe check key components for early warning signs of wear, blockages, or structural issues. Personalized AdviceTailored to Mission’s local environment, household size, and system age. Thorough Care, Step by StepOur Tank Cleaning Process01. Expert inspections 02. Efficient pumping 03. Commercial maintenance 04. Emergency response 1. Initial Assessment We locate and uncover your septic tank, examining the lid, access points, and visible structural features. 2. Tank Opening and Inspection Once opened, we measure the thickness of the sludge and scum layers to determine the level of cleaning required. 3. Pumping and Cleaning Using professional pumping equipment, we remove all waste materials efficiently and leave the tank clean and ready for proper bacterial regrowth. 4. System Inspection Our technicians inspect inlet and outlet pipes, baffles, and other components to identify any damage or potential flow restrictions. 5. Refill and Close The tank naturally begins re-balancing its bacterial ecosystem once cleaned. We close and seal the lid securely. 6. Final Review We tidy the work area and provide you with a summary of findings along with future maintenance recommendations. Get In TouchSeptic Tank Pumping FAQ.fusion-faqs-wrapper #accordian-1 .fusion-panel { border-color:var(--awb-color3); }.fusion-faqs-wrapper #accordian-1 .fusion-panel:hover{ border-color: var(--awb-color3); }.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box:before{ font-size: 16px;width: 16px;}.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box{ color: var(--awb-color1);}.fusion-accordian #accordian-1 .panel-title a{font-family:var(--awb-typography1-font-family);font-weight:var(--awb-typography1-font-weight);font-style:var(--awb-typography1-font-style);}.fusion-accordian #accordian-1 .panel-title a:not(:hover){}.fusion-accordian #accordian-1 .toggle-content{font-family:var(--awb-typography4-font-family);font-weight:var(--awb-typography4-font-weight);font-style:var(--awb-typography4-font-style);}.fusion-accordian #accordian-1 .fa-fusion-box { background-color: var(--awb-color7) !important;border-color: var(--awb-color7) !important;}.fusion-accordian #accordian-1 .panel-title a:hover,.fusion-accordian #accordian-1 .panel-title a.hover { color: var(--awb-color4);}.fusion-faq-shortcode .fusion-accordian #accordian-1 .fusion-toggle-boxed-mode:hover .panel-title a { color: var(--awb-color4);}.fusion-accordian #accordian-1 .panel-title .active .fa-fusion-box,.fusion-accordian #accordian-1 .panel-title a:hover .fa-fusion-box,.fusion-accordian #accordian-1 .panel-title a.hover .fa-fusion-box { background-color: var(--awb-color4)!important;border-color: var(--awb-color",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547.webp",
+      "alt": "",
+      "w": "922",
+      "h": "1024",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547-200x222.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547-400x444.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547-600x666.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547-800x889.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-mission-pump-e1763491184547.webp 922w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346.webp",
+      "alt": "",
+      "w": "1795",
+      "h": "1080",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346-200x120.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346-400x241.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346-600x361.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346-800x481.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346-1200x722.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-Mission-e1763491443346.webp 1795w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694.webp",
+      "alt": "",
+      "w": "1150",
+      "h": "832",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694-200x145.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694-400x289.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694-600x434.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694-800x579.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-cover-mission-e1763491556694.webp 1150w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107.webp",
+      "alt": "",
+      "w": "1103",
+      "h": "864",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107-200x157.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107-400x313.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107-600x470.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107-800x627.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-mission2-e1763491421107.webp 1103w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png",
+      "alt": "",
+      "w": "2628",
+      "h": "662",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-200x50.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-400x101.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-600x151.png 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-800x202.png 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-1200x302.png 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png 2628w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2025/01/tank-cleaning-abbotsford.webp",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-10 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

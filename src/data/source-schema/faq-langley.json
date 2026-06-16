@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "WebPage",
+    "FAQPage"
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I avoid flushing to ensure my septic system works well in Langley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Avoid flushing wipes, grease, hygiene products, or harsh chemicals, as they can clog the system or interfere with the natural bacteria needed for proper waste breakdown.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an ideal time of year to schedule septic tank cleaning in Langley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>In Langley, spring and fall are common seasons for septic maintenance because the mild weather makes it easier to access and service the system.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Langley&#8217;s seasonal changes affect septic tank performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Seasonal weather shifts, especially periods of heavy rain, can saturate the drain field and reduce how well your septic system works. Keeping up with regular maintenance helps your system stay reliable through changing conditions.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can septic tank cleaning help with reducing odors around my Langley property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Yes, routine cleaning clears out the waste and gases that create unpleasant odours, helping keep the area around your property smelling fresh.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there environmental risks if I delay cleaning my septic tank in Langley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Putting off a cleaning can cause the system to overflow, which risks contaminating groundwater and nearby waterways. Regular maintenance helps protect your property and the environment.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the frequency of septic tank cleaning vary for rural properties in Langley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Rural properties with larger tanks or fewer residents often only need cleaning every 3 to 5 years, older systems or households with heavier usage may require more frequent maintenance.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What specific regulations apply to septic tank maintenance in Langley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Septic systems in Langley must follow provincial standards set by the BC Ministry of Health, and homeowners are responsible for maintaining their systems regularly to help prevent environmental concerns.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I tell if my septic tank needs cleaning in Langley&#8217;s climate and soil conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Common warning signs include slow drains, gurgling pipes, unpleasant odours around the tank, or pooling water in the drain field, and regular inspections can help catch the need for cleaning early.</p>\n"
+      }
+    }
+  ]
+}

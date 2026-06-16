@@ -1,0 +1,407 @@
+{
+  "slug": "post-septic-services-in-mission-common-problems-we-see",
+  "title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+  "metaDesc": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+  "canonical": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+    "og:description": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+    "og:url": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+    "og:image:width": "1600",
+    "og:image:height": "1066",
+    "og:image:alt": "Septic Services in Mission: Common Problems We See",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+    "twitter:description": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "rvgye",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "4 minutes"
+  },
+  "schemaCount": 4,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+          "width": "1600",
+          "height": "1066",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/#webpage",
+          "url": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/",
+          "name": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+          "datePublished": "2026-03-18T16:49:15+00:00",
+          "dateModified": "2026-03-18T16:49:15+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/rvgye/",
+          "name": "rvgye",
+          "url": "https://valleyseptic.ca/author/rvgye/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "caption": "rvgye",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+          "datePublished": "2026-03-18T16:49:15+00:00",
+          "dateModified": "2026-03-18T16:49:15+00:00",
+          "articleSection": "Septic Education",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/rvgye/",
+            "name": "rvgye"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Three things to know: Mission&#039;s mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+          "name": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Septic Education",
+          "item": "https://valleyseptic.ca/category/septic-education/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Septic Services in Mission: Common Problems We See",
+      "datePublished": "2026-03-18T16:49:15+00:00",
+      "dateModified": "2026-03-18T16:49:15+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "rvgye",
+        "url": "https://valleyseptic.ca/author/rvgye/"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Septic Services in Mission: Common Problems We See"
+    },
+    {
+      "tag": "h2",
+      "text": "The Soil Situation"
+    },
+    {
+      "tag": "h2",
+      "text": "Rainfall and Groundwater"
+    },
+    {
+      "tag": "h2",
+      "text": "Aging Systems on Older Properties"
+    },
+    {
+      "tag": "h2",
+      "text": "What Triggers Most Service Calls"
+    },
+    {
+      "tag": "h2",
+      "text": "Staying Ahead of Problems"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "How Does a Septic Tank Work?"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic EducationSeptic Services in Mission: Common Problems We SeeSeptic Services in Mission: Common Problems We SeeBy rvgyePublished On: March 18, 2026Last Updated: March 18, 20264.1 min readGet in TouchTable of contentsShare PostThree things to know: Mission’s mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high water tables are behind most service calls in the area. Catching problems early with regular maintenance saves you thousands in avoidable repairs. Most people in Mission don’t spend much time thinking about their septic system. It sits underground, does its job, and stays out of sight until something goes sideways. But Mission’s landscape throws some curveballs at septic systems that other parts of the Fraser Valley don’t deal with in quite the same way. The Soil Situation Mission sits on the north bank of the Fraser River, backed up against mountains and lakes. That geography means soil conditions vary a lot depending on where your property is. Some areas have decent drainage. Others sit on heavy clay that refuses to let water pass through at any reasonable speed. Clay soil is the number one headache for septic systems in Mission. Your drain field relies on soil that can absorb treated wastewater and filter it naturally. When that soil is packed clay, the wastewater has nowhere to go. It pools, backs up, and eventually starts showing up in places you really don’t want to see it. Properties in the rural areas around Stave Valley, Silverdale, and Cedar Valley tend to deal with this more than homes closer to the town centre. If your property was built on land that wasn’t properly assessed for soil percolation, your system might be working harder than it should. Rainfall and Groundwater Mission gets rain all year round. That’s not news to anyone who lives here. But what a lot of homeowners don’t connect is how that constant rainfall affects their septic system. When the ground is already saturated from weeks of rain, your drain field can’t absorb wastewater efficiently. The soil is full. This is when we get calls about slow drains, gurgling pipes, and sewage smells in the yard. During atmospheric river events and prolonged wet spells, the problem gets worse fast. High water tables compound the issue. In lower-lying parts of Mission near the Fraser River floodplain, seasonal water tables rise close to the surface. When the water table meets your drain field, the system stops working the way it was designed to. The effluent can’t percolate downward because groundwater is pushing upward. Regular septic inspections catch these seasonal problems before they become emergencies. An inspector can measure sludge levels, check drain field performance, and tell you whether your system is handling Mission’s wet conditions or slowly losing ground. Aging Systems on Older Properties Mission has a lot of properties that were built 30, 40, even 50 years ago when septic regulations looked very different. Some of these systems were installed without proper soil testing. Some were sized for smaller households that have since grown. And some have simply reached the end of their functional lifespan. Concrete tanks crack over time. Baffles corrode. Distribution boxes shift in the ground. Tree roots find their way into pipes because roots are drawn to moisture, and your septic lines are basically underground rivers of the stuff. On older Mission properties with mature trees, root intrusion is one of the most common problems we see. If your home was built before modern septic standards were in place, getting a professional assessment is worth every penny. Knowing what you’re working with beats guessing, and it definitely beats discovering your system has failed during the wettest month of the year. What Triggers Most Service Calls The calls we get from Mission homeowners tend to follow a pattern. Slow drains that won’t clear with basic methods. Foul odours near the tank o",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+      "alt": "",
+      "w": "1600",
+      "h": "1066",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-200x133.webp 200w, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-400x267.webp 400w, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-600x400.webp 600w, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-800x533.webp 800w, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee-1200x800.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp 1600w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-500x383.webp",
+      "alt": "How Does a Septic Tank Work?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color8)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "related-posts single-related-posts fusion-related-tb fusion-related-tb-1",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

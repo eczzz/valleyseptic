@@ -1,0 +1,90 @@
+{
+  "slug": "post-how-does-a-septic-tank-work",
+  "title": "How Does a Septic Tank Work? - Valley Septic Services",
+  "description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+  "canonical": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "How Does a Septic Tank Work? - Valley Septic Services",
+    "og:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "og:url": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "og:image:width": "1800",
+    "og:image:height": "1037",
+    "og:image:alt": "How Does a Septic Tank Work?",
+    "og:image:type": "image/webp",
+    "og:image_local": "/images/2025/12/valley-septic-truck1-2.webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "How Does a Septic Tank Work? - Valley Septic Services",
+    "twitter:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "ValleySeptic",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "4 minutes"
+  },
+  "h1": [
+    "How Does a Septic Tank Work?"
+  ],
+  "h2": [
+    "The Basic Setup",
+    "How Waste Gets Separated",
+    "Where the Water Goes",
+    "Why Maintenance Actually Matters",
+    "The Parts You Don’t See",
+    "What Pumping Actually Does",
+    "Keeping It Working"
+  ],
+  "h3": [],
+  "h4": [
+    "Related Articles",
+    "Septic Services in Mission: Common Problems We See",
+    "Services",
+    "Service Areas"
+  ],
+  "schemaTypes": [
+    "Place",
+    "LocalBusiness+Organization",
+    "WebSite",
+    "ImageObject",
+    "WebPage",
+    "Person",
+    "BlogPosting",
+    "LocalBusiness",
+    "BreadcrumbList",
+    "NewsArticle"
+  ],
+  "articleSchema": {
+    "headline": "How Does a Septic Tank Work? - Valley Septic Services",
+    "description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "datePublished": "2026-02-02T18:49:31+00:00",
+    "dateModified": "2026-02-02T18:49:31+00:00",
+    "author": "ValleySeptic",
+    "image": {
+      "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+    },
+    "articleSection": "Septic Education"
+  },
+  "breadcrumb": [
+    {
+      "name": "Septic Education",
+      "url": "https://valleyseptic.ca/category/septic-education/"
+    }
+  ],
+  "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+  "publishedDate": "2026-02-02T18:49:31+00:00",
+  "modifiedDate": "",
+  "author": "ValleySeptic",
+  "category": "Septic Education",
+  "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+  "ogImageWidth": "1800",
+  "ogImageHeight": "1037",
+  "ogImageType": "image/webp",
+  "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+}

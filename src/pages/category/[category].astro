@@ -1,0 +1,83 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/sections/PageHeader.astro";
+import ContactSection from "../../components/sections/ContactSection.astro";
+import { SITE } from "../../config/site";
+import { POSTS } from "../../data/posts";
+import { pageSchema } from "../../lib/schema";
+
+export function getStaticPaths() {
+  return [
+    { params: { category: "uncategorized" }, props: { label: "Uncategorized", slug: "uncategorized" } },
+    { params: { category: "septic-education" }, props: { label: "Septic Education", slug: "septic-education" } },
+  ];
+}
+
+const { category } = Astro.params;
+const { label, slug: catSlug } = Astro.props as { label: string; slug: string };
+const cfg = { label };
+const posts = catSlug === "septic-education"
+  ? POSTS.filter(p => p.category === "Septic Education")
+  : POSTS;
+const url = `${SITE.url}/category/${category}/`;
+const title = `${cfg.label} | ${SITE.name}`;
+const description = `${cfg.label} articles from Valley Septic.`;
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  author: "Valley Septic",
+});
+---
+<BaseLayout title={title} description={description} canonical={url} ogImage={SITE.ogImage} schema={schema}>
+  <PageHeader eyebrow="Category" title={cfg.label} />
+
+  <section class="section">
+    <div class="container">
+      <div class="grid grid-3">
+        {posts.map(p => (
+          <article class="post-card">
+            <a href={p.href} class="post-card__image">
+              <img src={p.image} alt={p.title} loading="lazy" />
+            </a>
+            <div class="post-card__body">
+              <h3 class="post-card__title"><a href={p.href}>{p.title}</a></h3>
+              <p class="post-card__meta">{p.date}</p>
+              <p class="post-card__excerpt">{p.excerpt}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <ContactSection topic={`category-${category}`} />
+</BaseLayout>
+
+<style>
+  .post-card {
+    background: var(--c-white);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    border: 1px solid var(--c-border);
+    display: flex;
+    flex-direction: column;
+    transition: transform 200ms ease, box-shadow 200ms ease;
+  }
+  .post-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+  .post-card__image {
+    display: block;
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    background: var(--c-cream);
+  }
+  .post-card__image img { width: 100%; height: 100%; object-fit: cover; }
+  .post-card__body { padding: var(--space-5); flex: 1; }
+  .post-card__title { font-size: 20px; margin: 0 0 8px; }
+  .post-card__title a { color: inherit; text-decoration: none; }
+  .post-card__title a:hover { color: var(--c-primary); }
+  .post-card__meta { font-size: 13px; color: var(--c-text-muted); margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.06em; }
+  .post-card__excerpt { font-size: 15px; color: var(--c-text-muted); margin: 0; }
+</style>

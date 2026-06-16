@@ -1,0 +1,669 @@
+{
+  "slug": "septic-services-chilliwack",
+  "title": "Septic Services Chilliwack - Valley Septic Services",
+  "metaDesc": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+  "canonical": "https://valleyseptic.ca/septic-services-chilliwack/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Services Chilliwack - Valley Septic Services",
+    "og:description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+    "og:url": "https://valleyseptic.ca/septic-services-chilliwack/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2026-05-01T20:45:02+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Services Chilliwack",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Services Chilliwack - Valley Septic Services",
+    "twitter:description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "86 minutes"
+  },
+  "schemaCount": 2,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-services-chilliwack/#webpage",
+          "url": "https://valleyseptic.ca/septic-services-chilliwack/",
+          "name": "Septic Services Chilliwack - Valley Septic Services",
+          "datePublished": "2024-09-14T15:36:29+00:00",
+          "dateModified": "2026-05-01T20:45:02+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/gdcoy/",
+          "name": "gdcoy",
+          "url": "https://valleyseptic.ca/author/gdcoy/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/61165e02c19c40fd6201570c21be88c556bd959bbc31858b4b37333644eb54bc?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/61165e02c19c40fd6201570c21be88c556bd959bbc31858b4b37333644eb54bc?s=96&amp;d=mm&amp;r=g",
+            "caption": "gdcoy",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://valleyseptic.ca"
+          ],
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Septic Services Chilliwack - Valley Septic Services",
+          "datePublished": "2024-09-14T15:36:29+00:00",
+          "dateModified": "2026-05-01T20:45:02+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/gdcoy/",
+            "name": "gdcoy"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+          "name": "Septic Services Chilliwack - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-services-chilliwack/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-services-chilliwack/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-services-chilliwack/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Septic Tank Cleaning, Pumping & Septic Services in Chilliwack"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Knowledge, Professional Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Your Trusted Septic Experts in Chilliwack"
+    },
+    {
+      "tag": "h4",
+      "text": "Reliable Local Care from inspection to maintenance"
+    },
+    {
+      "tag": "h2",
+      "text": "Complete Septic Services in Chilliwack"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Tank Pumping"
+    },
+    {
+      "tag": "h3",
+      "text": "Grease Trap Service"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Inspections"
+    },
+    {
+      "tag": "h3",
+      "text": "Emergency Septic Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic and Plumbing Solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h2",
+      "text": "Signs You Need Septic Service"
+    },
+    {
+      "tag": "h2",
+      "text": "How Often Should You Schedule Septic Tank Pumping in Chilliwack?"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving All of Chilliwack"
+    },
+    {
+      "tag": "h3",
+      "text": "CONTACT VALLEY SEPTIC SERVICES"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic Services Chilliwackgdcoy2026-05-01T20:45:02+00:00 Septic Tank Cleaning, Pumping & Septic Services in ChilliwackAs Chilliwack‘s dedicated septic professionals, we handle everything from scheduled servicing to emergency repairs, ensuring your systems operate at peak performance. Get In Touch Local Knowledge, Professional ServiceYour Trusted Septic Experts in ChilliwackValley Septic has grown to be a vital component of Chilliwack’s home and commercial property maintenance industry. Our profound local expertise allows us to comprehend and resolve the distinctive septic challenges faced by residents and businesses. We proudly cater to all of Chilliwack, from the bustling downtown area to the picturesque Chilliwack River Valley, including communities such as Sardis, Promontory, Rosedale, and Yarrow. Our certified technicians are intimately familiar with the area’s diverse topography and the specific septic requirements across various neighbourhoods, ensuring top-quality service throughout the city. At Valley Septic, we’re more than just a service company – we’re your local partners, committed to keeping your properties healthy, sanitary, and well-maintained. Whether you require routine check-ups, emergency interventions, or expert consultation, trust Valley Septic to deliver reliable, professional service tailored to Chilliwack’s unique landscape. Contact UsReliable Local Care from inspection to maintenanceComplete Septic Services in ChilliwackHomeowners, acreages, farms, and commercial properties count on Valley Septic for complete septic services in Chilliwack. From septic tank cleaning and pumping to inspections and emergency septic service, we provide reliable solutions to keep your system working properly and your property protected. Septic Tank PumpingRoutine septic tank pumping is one of the most important parts of long-term system maintenance. Valley Septic offers scheduled and on-demand septic tank pumping in Abbotsford to help prevent overflows, odors, and costly repairs. Learn moreGrease Trap ServiceProfessional cleaning and maintenance for commercial kitchen grease traps helps prevent blockages, odours, and costly plumbing issues. We provide reliable grease trap service to keep your system working properly and support a cleaner, more compliant kitchen environment. Learn moreSeptic InspectionsIf you are buying a property, working through a system problem, or simply staying ahead of maintenance, our septic inspections help spot issues early and give you a clearer picture of your tank, lines, and overall system condition. Learn moreEmergency Septic ServiceIf your septic system backs up, overflows, or stops working properly, you need a quick response. We offer emergency septic service in Chilliwack to help minimize damage, disruption, and health risks. Learn moreSeptic and Plumbing SolutionsWhy Choose Valley Septic?At Valley Septic, we’re more than just a service provider – we’re your neighbors committed to keeping the Fraser Valley clean and healthy. Here’s why homeowners and businesses trust us: Our Company24/7 Emergency ServiceOur round-the-clock emergency service ensures that help is just a phone call away, any time of day or night. Local ExpertsOur team lives and works in the communities we serve, bringing unparalleled local knowledge to every job. Environmentally ResponsibleWe ensure that your septic system not only functions efficiently but also minimizes its impact on the local ecosystem. Certified ProfessionalsOur team of fully certified and continuously trained professionals stay up-to-date with the latest technologies and best practices in septic and plumbing services. Ongoing MaintenanceWe go beyond just fixing problems – we educate you on your septic system’s needs and provide personalized maintenance plans. Signs You Need Septic ServiceIf your system is showing warning signs, it may be time to book septic service in Chilliwack before a small issue turns into a bigger repair. A professional inspection can",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "800",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing-200x133.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing-400x267.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing-600x400.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing-800x533.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/abbotsford-septic-and-plumbing.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel.webp",
+      "alt": "",
+      "w": "1200",
+      "h": "800",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel-200x133.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel-400x267.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel-600x400.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel-800x533.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/Shovel.webp 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap.webp",
+      "alt": "",
+      "w": "1958",
+      "h": "734",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap-200x75.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap-400x150.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap-600x225.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap-800x300.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap-1200x450.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2024/09/ChilliwackMap.webp 1958w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/septic-services-chilliwack/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-animated",
+      "id": "studio-1",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/Fraser.webp",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-flex-end fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-animated",
+      "id": "studio-1",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color7)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9-2 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

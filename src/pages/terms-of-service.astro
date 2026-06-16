@@ -1,0 +1,211 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/sections/PageHeader.astro";
+import ContactSection from "../components/sections/ContactSection.astro";
+import { SITE } from "../config/site";
+import { pageSchema } from "../lib/schema";
+
+const url = `${SITE.url}/terms-of-service/`;
+const title = `Terms of Service | ${SITE.name}`;
+const description =
+  "The terms and conditions governing the use of the Valley Septic Services & Tank Pumping website and the septic services we provide across the Fraser Valley, BC.";
+const updated = "May 22, 2026";
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  pageType: "WebPage",
+});
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={url}
+  ogImage={SITE.ogImage}
+  ogType="website"
+  robots="noindex, follow"
+  schema={schema}
+>
+  <PageHeader
+    eyebrow="Legal"
+    title="Terms of Service"
+    subtitle="The terms and conditions that apply when you use our website or book septic services with us."
+  />
+
+  <section class="section">
+    <div class="container">
+      <article class="legal">
+        <p class="legal__updated">Last updated: {updated}</p>
+
+        <p>
+          These Terms of Service ("Terms") govern your use of the website at
+          <a href={SITE.url}>{SITE.url}</a> (the "Site") and the septic services
+          provided by {SITE.fullName} ("Valley Septic", "we", "us", or "our").
+          By using our Site, requesting a quote, or booking a service, you agree
+          to these Terms. If you do not agree, please do not use the Site or our
+          services.
+        </p>
+
+        <h2>Our services</h2>
+        <p>
+          Valley Septic provides septic tank pumping, inspections, septic alarm
+          service, grease trap cleaning, emergency response, and related
+          services throughout the Fraser Valley, British Columbia. The scope of
+          any specific job is defined in the quote or work order we provide for
+          that job.
+        </p>
+
+        <h2>Quotes, bookings, and pricing</h2>
+        <ul>
+          <li>
+            Prices, quotes, and estimates provided through the Site, by phone,
+            or by email are estimates based on the information available to us
+            at the time. Final pricing may change once we inspect the system or
+            site conditions on location.
+          </li>
+          <li>
+            Submitting a booking or quote request does not create a confirmed
+            appointment. An appointment is confirmed only once we contact you to
+            schedule it.
+          </li>
+          <li>
+            You agree to provide accurate information about your property, your
+            septic system, and the work required so we can serve you safely and
+            effectively.
+          </li>
+        </ul>
+
+        <h2>Property access and site conditions</h2>
+        <p>
+          To perform our services, you agree to provide safe and reasonable
+          access to the property, the septic tank, and any related components,
+          including locating tank lids where possible. Additional charges may
+          apply for excavation, locating buried components, difficult access, or
+          conditions that could not be reasonably anticipated when the work was
+          quoted.
+        </p>
+
+        <h2>Cancellations and rescheduling</h2>
+        <p>
+          If you need to cancel or reschedule an appointment, please contact us
+          as early as possible. Missed appointments or cancellations made after
+          our crew has been dispatched may be subject to a service or trip
+          charge.
+        </p>
+
+        <h2>Payment</h2>
+        <p>
+          Payment is due upon completion of the work unless other arrangements
+          have been agreed to in writing. Late or unpaid balances may be subject
+          to additional charges as permitted by law.
+        </p>
+
+        <h2>Emergency service</h2>
+        <p>
+          We offer 24/7 emergency septic service. Emergency, after-hours, and
+          weekend calls may be billed at rates different from standard service
+          and will be communicated to you before work begins where reasonably
+          possible.
+        </p>
+
+        <h2>Warranties and disclaimers</h2>
+        <p>
+          We perform our work with reasonable skill and care and in line with
+          accepted industry practice. Septic systems are affected by age, design,
+          usage, soil, and prior maintenance that are outside our control. Except
+          as required by law, our services are provided without warranties of
+          any kind, express or implied, regarding the future performance of a
+          system or the absence of pre-existing conditions or defects.
+        </p>
+
+        <h2>Limitation of liability</h2>
+        <p>
+          To the fullest extent permitted by law, Valley Septic is not liable
+          for indirect, incidental, or consequential damages arising from the
+          use of our Site or services. Our total liability for any claim
+          relating to a service is limited to the amount you paid us for that
+          service.
+        </p>
+
+        <h2>Website content</h2>
+        <p>
+          All content on this Site — including text, graphics, logos, and images
+          — is the property of {SITE.fullName} or its licensors and is protected
+          by applicable laws. You may not copy, reproduce, or redistribute Site
+          content without our written permission. The Site is provided "as is"
+          and may contain occasional errors or omissions.
+        </p>
+
+        <h2>Third-party links and tools</h2>
+        <p>
+          Our Site may link to or embed third-party tools and websites, such as
+          our online booking form and mapping services. We are not responsible
+          for the content or privacy practices of third-party services, which
+          are governed by their own terms.
+        </p>
+
+        <h2>Governing law</h2>
+        <p>
+          These Terms are governed by the laws of the Province of British
+          Columbia and the applicable laws of Canada. Any dispute relating to
+          these Terms or our services is subject to the courts of British
+          Columbia.
+        </p>
+
+        <h2>Changes to these Terms</h2>
+        <p>
+          We may update these Terms from time to time. The "Last updated" date
+          at the top of this page shows when they were last revised. Continued
+          use of the Site or our services after a change means you accept the
+          updated Terms.
+        </p>
+
+        <h2>Contact us</h2>
+        <p>If you have questions about these Terms, please contact us:</p>
+        <p class="legal__contact">
+          {SITE.fullName}<br />
+          {SITE.address.full}<br />
+          Phone: <a href={SITE.phoneHref}>{SITE.phone}</a><br />
+          Email: <a href={SITE.emailHref}>{SITE.email}</a>
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <ContactSection topic="terms" />
+</BaseLayout>
+
+<style>
+  .legal {
+    max-width: 760px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--c-text-muted);
+  }
+  .legal__updated {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--c-primary);
+    margin: 0 0 var(--space-5);
+  }
+  .legal h2 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    color: var(--c-ink);
+    margin: var(--space-7) 0 var(--space-3);
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+  .legal p { margin: 0 0 var(--space-4); }
+  .legal ul { margin: 0 0 var(--space-4) var(--space-5); padding: 0; }
+  .legal li { margin-bottom: 10px; }
+  .legal a { color: var(--c-primary); }
+  .legal a:hover { text-decoration: underline; }
+  .legal strong { color: var(--c-ink); }
+  .legal__contact { color: var(--c-ink); }
+</style>

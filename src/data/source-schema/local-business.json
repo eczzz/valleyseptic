@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "LocalBusiness",
+  "name": "Valley Septic Services",
+  "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+  "description": "Septic Tank Pumping and Services",
+  "brand": {
+    "@type": "Brand",
+    "name": "Valley Septic Services"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "155"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "David",
+    "reviewBody": "Excellent service!",
+    "author": {
+      "@type": "Person",
+      "name": "Jason"
+    }
+  }
+}

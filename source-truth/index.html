@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Valley Septic — Source-of-truth captures</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; max-width: 1100px; margin: 32px auto; padding: 0 20px; line-height: 1.55; color: #222; }
+    h1 { font-size: 28px; margin: 0 0 4px; }
+    .lede { color: #666; margin: 0 0 32px; }
+    h2 { margin-top: 32px; font-size: 18px; border-bottom: 2px solid #af8f61; padding-bottom: 6px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px; }
+    a { color: #283438; text-decoration: none; padding: 6px 10px; border-radius: 4px; display: block; background: #f2f3f5; border: 1px solid #e6e6e8; font-size: 13px; }
+    a:hover { background: #af8f61; color: #fff; border-color: #af8f61; }
+    .row { display: flex; flex-wrap: wrap; gap: 6px; }
+    .row a { background: transparent; border-color: transparent; padding: 4px 10px; }
+    .row a:hover { background: #af8f61; color: #fff; }
+    code { background: #f2f3f5; padding: 1px 6px; border-radius: 3px; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <h1>Valley Septic — Source-of-truth captures</h1>
+  <p class="lede">Local copies of the live <a href="https://valleyseptic.ca/" style="display:inline;background:none;border:none;padding:0;color:#af8f61;">valleyseptic.ca</a> WordPress site, captured 2026-05-17/18 during migration.</p>
+
+  <h2>Diff overlays (live vs rebuilt, side by side)</h2>
+  <p class="lede" style="margin: 0 0 16px;">Stitched comparison PNGs — LIVE on the left, REBUILT on the right.</p>
+  <div class="grid" id="diff-grid"></div>
+
+  <h2>Individual screenshots</h2>
+  <p class="lede" style="margin: 0 0 16px;">Full-page PNGs taken at 1440×900 desktop and 390×844 mobile.</p>
+  <div class="grid" id="shots-grid"></div>
+
+  <h2>Monolith captures (CSS + images embedded, no JS)</h2>
+  <p class="lede" style="margin: 0 0 16px;">Self-contained HTML files — open one in your browser to see the live site rendered offline.</p>
+  <div class="grid" id="monolith-grid"></div>
+
+  <h2>Raw HTML (original curl, no asset rewriting)</h2>
+  <div class="grid" id="raw-grid"></div>
+
+  <h2>Extracted data</h2>
+  <ul>
+    <li><code>meta/&lt;slug&gt;.json</code> — per-page title, meta description, OG tags, schema, headings, image list</li>
+    <li><code>clean/&lt;slug&gt;.json</code> — semantic body HTML with Avada chrome stripped</li>
+    <li><code>bodies/&lt;slug&gt;.json</code> — raw body HTML between header and footer</li>
+    <li><code>audit-all.json</code> — single aggregated per-page audit (used by verify-meta.mjs)</li>
+    <li><code>_aggregate.json</code> — combined asset/font/script inventory across all pages</li>
+    <li><code>asset-manifest.json</code> — mapping of original WP URLs to localized <code>/images/</code> paths</li>
+    <li><code>page-inventory.md</code> — full URL list from the source sitemap</li>
+    <li><code>schema-diff.json</code> — last schema-comparison run output</li>
+    <li><code>audit/&lt;slug&gt;.json</code> — individual per-page audits</li>
+  </ul>
+
+  <h2>Verification scripts</h2>
+  <ul>
+    <li><code>capture.sh urls.txt</code> — re-fetch every page via monolith + curl into <code>raw/</code> and <code>monolith/</code></li>
+    <li><code>node audit.mjs</code> — extract per-page metadata into <code>audit/</code> + <code>audit-all.json</code></li>
+    <li><code>node sync-metadata.mjs</code> — regenerate <code>src/data/page-metadata.ts</code> from the audit</li>
+    <li><code>node extract.mjs</code> · <code>node extract-bodies.mjs</code> · <code>node clean-posts.mjs</code> — content extraction pipeline</li>
+    <li><code>node download-assets.mjs</code> — re-download all images into <code>public/images/</code></li>
+    <li><code>node screenshot.mjs</code> — Playwright side-by-side screenshot run</li>
+    <li><code>node verify-meta.mjs</code> — diff every head/meta field across all 29 pages</li>
+    <li><code>node verify-schema.mjs</code> — diff JSON-LD <code>@type</code> nodes across all 29 pages</li>
+    <li><code>node verify-live.mjs</code> — fresh fetch + diff against dist</li>
+  </ul>
+
+  <script>
+    // Populate file lists dynamically by hitting the directory index endpoint
+    async function ls(dir) {
+      const res = await fetch(dir + "/");
+      const html = await res.text();
+      const m = [...html.matchAll(/href="([^"?][^"]*\.(?:png|html))"/g)].map(x => x[1]);
+      return [...new Set(m)].sort();
+    }
+    function paint(target, dir, files) {
+      target.innerHTML = files.map(f => `<a href="${dir}/${f}">${f.replace(/\.(png|html)$/, "")}</a>`).join("");
+    }
+    (async () => {
+      try {
+        paint(document.getElementById("diff-grid"), "screenshots-diff", await ls("screenshots-diff"));
+        paint(document.getElementById("shots-grid"), "screenshots",      await ls("screenshots"));
+        paint(document.getElementById("monolith-grid"), "monolith",      await ls("monolith"));
+        paint(document.getElementById("raw-grid"), "raw",                await ls("raw"));
+      } catch (e) {
+        console.error(e);
+        document.body.insertAdjacentHTML("beforeend",
+          "<p style='color:#a23'>Dynamic listing failed — your static server may not list directories. Files are still at relative paths.</p>");
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+---
+// Combined dynamic route: handles service-area pages and blog posts (all
+// kept at site root to mirror the source URL structure). Both render via
+// PortPage so the rebuilt page matches the live Avada output 1:1.
+import PortPage from "../components/global/PortPage.astro";
+import { SITE } from "../config/site";
+import { AREAS } from "../data/services";
+import { POSTS } from "../data/posts";
+import { META, POST_META } from "../data/page-metadata";
+
+export function getStaticPaths() {
+  const areaPaths = AREAS.map(a => ({
+    params: { slug: a.slug },
+    props: { kind: "area" as const, areaSlug: a.slug },
+  }));
+  const postPaths = POSTS.map(p => ({
+    params: { slug: p.slug },
+    props: { kind: "post" as const, postSlug: p.slug },
+  }));
+  return [...areaPaths, ...postPaths];
+}
+
+const { kind, areaSlug, postSlug } = Astro.props as
+  | { kind: "area"; areaSlug: string; postSlug?: never }
+  | { kind: "post"; postSlug: string; areaSlug?: never };
+
+const post = kind === "post" ? POSTS.find(p => p.slug === postSlug)! : null;
+const m = kind === "area"
+  ? META[areaSlug as keyof typeof META]
+  : POST_META[postSlug as keyof typeof POST_META];
+const portSlug = kind === "area" ? areaSlug! : `post-${postSlug!}`;
+
+const breadcrumb = kind === "post" && post
+  ? [
+      { name: post.category, url: `${SITE.url}/category/${post.category.toLowerCase().replace(/\s+/g, "-")}/` },
+      { name: post.title, url: m.canonical },
+    ]
+  : undefined;
+---
+<PortPage portSlug={portSlug} meta={m} breadcrumb={breadcrumb} />

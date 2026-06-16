@@ -1,0 +1,2282 @@
+[
+  {
+    "slug": "about",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "AboutPage",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "AboutPage",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "AboutPage",
+        "field": "datePublished",
+        "src": "2024-08-23T18:12:31+00:00",
+        "dist": "2025-10-21T16:32:21+00:00"
+      }
+    ]
+  },
+  {
+    "slug": "contact",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "ContactPage",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "ContactPage",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ContactPage",
+        "field": "datePublished",
+        "src": "2024-08-28T20:15:36+00:00",
+        "dist": "2025-10-21T16:33:10+00:00"
+      }
+    ]
+  },
+  {
+    "slug": "emergency-septic-services",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Emergency Septic Services - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "grease-trap-service",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Grease Trap Service - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "home",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Services in the Fraser Valley, BC | Valley Septic"
+      }
+    ]
+  },
+  {
+    "slug": "post-can-a-septic-tank-freeze",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Can a Septic Tank Freeze? - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Yes. Your septic tank can freeze, and when it does, you&#039;re looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it",
+        "dist": "Yes. Your septic tank can freeze, and when it does, you're looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Can a Septic Tank Freeze?",
+        "dist": "Can a Septic Tank Freeze? - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-how-does-a-septic-alarm-work",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2026-05-10T22:57:55+00:00",
+        "dist": ""
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "How Does a Septic Alarm Work? - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it&#039;s not a",
+        "dist": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "dateModified",
+        "src": "2026-05-10T22:57:55+00:00",
+        "dist": ""
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "How Does a Septic Alarm Work?",
+        "dist": "How Does a Septic Alarm Work? - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "dateModified",
+        "src": "2025-12-10T23:43:41+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "post-how-does-a-septic-tank-work",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2026-02-02T18:49:31+00:00",
+        "dist": ""
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "How Does a Septic Tank Work? - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "dateModified",
+        "src": "2026-02-02T18:49:31+00:00",
+        "dist": ""
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "How Does a Septic Tank Work?",
+        "dist": "How Does a Septic Tank Work? - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "dateModified",
+        "src": "2025-12-10T23:43:41+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "post-how-long-does-a-septic-inspection-take",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "How Long Does a Septic Inspection Take? - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "How Long Does a Septic Inspection Take?",
+        "dist": "How Long Does a Septic Inspection Take? - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-how-often-should-you-pump-your-septic-tank-in-the-fraser-valley",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "How Often Should You Pump Your Septic Tank in the Fraser Valley?",
+        "dist": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-septic-services-in-mission-common-problems-we-see",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2026-03-18T16:49:15+00:00",
+        "dist": ""
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Septic Services in Mission: Common Problems We See - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Three things to know: Mission&#039;s mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+        "dist": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "dateModified",
+        "src": "2026-03-18T16:49:15+00:00",
+        "dist": ""
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Septic Services in Mission: Common Problems We See",
+        "dist": "Septic Services in Mission: Common Problems We See - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "dateModified",
+        "src": "2026-03-18T16:49:15+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "post-septic-tank-pumping-in-abbotsford-bc",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "For many Abbotsford residents living outside the city&#039;s main sewer system, septic tanks are an essential part of daily life. These underground wastewater",
+        "dist": "For many Abbotsford residents living outside the city's main sewer system, septic tanks are an essential part of daily life. These underground wastewater"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "How Often Should You Pump a Septic Tank in Abbotsford, BC?",
+        "dist": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-spring-septic-maintenance-tips",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Spring Septic Maintenance Tips - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Spring Septic Maintenance Tips",
+        "dist": "Spring Septic Maintenance Tips - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-the-importance-of-perimeter-drainage",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2026-01-02T18:37:05+00:00",
+        "dist": ""
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "The Importance of Perimeter Drainage - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Perimeter drainage is a network of pipes buried around your home&#039;s foundation that collects groundwater and directs it away from your house. The system",
+        "dist": "Perimeter drainage is a network of pipes buried around your home's foundation that collects groundwater and directs it away from your house. The system"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "dateModified",
+        "src": "2026-01-02T18:37:05+00:00",
+        "dist": ""
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "The Importance of Perimeter Drainage",
+        "dist": "The Importance of Perimeter Drainage - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "dateModified",
+        "src": "2025-12-10T23:46:38+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "post-top-3-tips-for-keep-your-septic-system-from-freezing",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don&#039;t think",
+        "dist": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don't think"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Top 3 Tips For Keep Your Septic System From Freezing",
+        "dist": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-top-3-tips-for-winter-septic-tank-services",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Winter in the Fraser Valley doesn&#039;t mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don&#039;t exist during",
+        "dist": "Winter in the Fraser Valley doesn't mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don't exist during"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Top 3 Tips for Winter Septic Tank Services",
+        "dist": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-top-5-signs-your-septic-system-needs-professional-attention",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "Top 5 Signs Your Septic System Needs Professional Attention",
+        "dist": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "post-what-is-emergency-grease-trap-cleaning",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "NewsArticle",
+      "BreadcrumbList",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2026-04-02T23:19:17+00:00",
+        "dist": ""
+      },
+      {
+        "type": "BlogPosting",
+        "field": "name",
+        "src": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "description",
+        "src": "Emergency grease trap cleaning happens when your commercial kitchen&#039;s grease trap fails during business hours and you need immediate service to avoid shutting",
+        "dist": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting"
+      },
+      {
+        "type": "BlogPosting",
+        "field": "dateModified",
+        "src": "2026-04-02T23:19:17+00:00",
+        "dist": ""
+      },
+      {
+        "type": "NewsArticle",
+        "field": "headline",
+        "src": "What Is Emergency Grease Trap Cleaning?",
+        "dist": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services"
+      },
+      {
+        "type": "NewsArticle",
+        "field": "dateModified",
+        "src": "2025-12-10T23:43:41+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "septic-alarms",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Alarms - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-calculator",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "rvgye",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/rvgye/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/rvgye/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Calculator - Valley Septic Services"
+      },
+      {
+        "type": "Article",
+        "field": "description",
+        "src": "VALLEY SEPTIC SERVICES &amp; TANK PUMPINGIS your septic system due for service?",
+        "dist": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?"
+      }
+    ]
+  },
+  {
+    "slug": "septic-inspection",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Inspection - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-services-abbotsford",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "name",
+        "src": "Septic Tank Pumping &amp; Services in Abbotsford",
+        "dist": "Septic Tank Pumping & Services in Abbotsford"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Tank Pumping &amp; Services in Abbotsford"
+      },
+      {
+        "type": "Article",
+        "field": "headline",
+        "src": "Septic Tank Pumping &amp; Services in Abbotsford",
+        "dist": "Septic Tank Pumping & Services in Abbotsford"
+      }
+    ]
+  },
+  {
+    "slug": "septic-services-chilliwack",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Services Chilliwack - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-services-hope",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Services Hope - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-services-langley",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Services Langley - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-services-mission",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Person",
+        "field": "name",
+        "src": "gdcoy",
+        "dist": "bullfinch"
+      },
+      {
+        "type": "Person",
+        "field": "url",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Person",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/author/gdcoy/",
+        "dist": "https://valleyseptic.ca/author/bullfinch/"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Services Mission - Valley Septic Services"
+      }
+    ]
+  },
+  {
+    "slug": "septic-tank-cleaning-langley",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness",
+      "WebPage+FAQPage"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "WebPage+FAQPage",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2025-12-02T16:30:47+00:00",
+        "dist": ""
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Tank Cleaning Langley - Valley Septic Services"
+      },
+      {
+        "type": "Article",
+        "field": "description",
+        "src": "Expert septic tank pumping in Langley &amp; throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+        "dist": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections."
+      },
+      {
+        "type": "Article",
+        "field": "dateModified",
+        "src": "2025-12-02T16:30:47+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "septic-tank-cleaning-mission",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness",
+      "WebPage+FAQPage"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "WebPage+FAQPage",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "WebPage",
+        "field": "dateModified",
+        "src": "2025-11-19T23:40:20+00:00",
+        "dist": ""
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Septic Tank Cleaning Mission - Valley Septic Services"
+      },
+      {
+        "type": "Article",
+        "field": "description",
+        "src": "Expert septic tank cleaning service in Mission &amp; Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+        "dist": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency."
+      },
+      {
+        "type": "Article",
+        "field": "dateModified",
+        "src": "2025-11-19T23:40:20+00:00",
+        "dist": ""
+      }
+    ]
+  },
+  {
+    "slug": "tank-pumping",
+    "srcTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "gotTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "missing": [],
+    "extra": [],
+    "fieldDiffs": [
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "LocalBusiness+Organization",
+        "field": "url",
+        "src": "https://www.valleyseptic.ca",
+        "dist": "https://valleyseptic.ca"
+      },
+      {
+        "type": "WebSite",
+        "field": "name",
+        "src": "Valley Septic Services &amp; Tank Pumping",
+        "dist": "Valley Septic Services & Tank Pumping"
+      },
+      {
+        "type": "ImageObject",
+        "field": "url",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "ImageObject",
+        "field": "@id",
+        "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+        "dist": "https://valleyseptic.ca/images/2024/09/SepticNewLogo.webp"
+      },
+      {
+        "type": "Article",
+        "field": "name",
+        "src": "Tank Pumping - Valley Septic Services"
+      }
+    ]
+  }
+]

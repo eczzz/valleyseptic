@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/sections/PageHeader.astro";
+import ContactSection from "../../components/sections/ContactSection.astro";
+import { SITE } from "../../config/site";
+import { FAQ_ITEMS } from "../../data/faq";
+import { pageSchema } from "../../lib/schema";
+
+export function getStaticPaths() {
+  return FAQ_ITEMS.map(f => ({ params: { slug: f.slug } }));
+}
+
+const { slug } = Astro.params;
+const item = FAQ_ITEMS.find(f => f.slug === slug)!;
+const url = `${SITE.url}/faq-items/${slug}/`;
+const description = item.a.slice(0, 160);
+const title = `${item.q} | ${SITE.name}`;
+
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  author: "Valley Septic",
+  faqs: [{ q: item.q, a: item.a }],
+  breadcrumb: [
+    { name: "FAQs", url: SITE.url + "/faq-items/" },
+    { name: item.q, url },
+  ],
+});
+
+const related = FAQ_ITEMS.filter(f => f.city === item.city && f.slug !== slug).slice(0, 4);
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={url}
+  ogImage={SITE.ogImage}
+  ogType="website"
+  schema={schema}
+>
+  <PageHeader eyebrow={`${item.city} FAQ`} title={item.q} />
+
+  <section class="section">
+    <div class="container" style="max-width: 880px;">
+      <div class="prose">
+        <p>{item.a}</p>
+      </div>
+
+      {related.length > 0 && (
+        <div style="margin-top: 64px;">
+          <h2>More {item.city} questions</h2>
+          <ul>
+            {related.map(r => (
+              <li><a href={`/faq-items/${r.slug}/`}>{r.q}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <p style="margin-top: 48px;"><a href="/faq-items/">← All septic FAQs</a></p>
+    </div>
+  </section>
+
+  <ContactSection topic={`faq-${slug}`} />
+</BaseLayout>

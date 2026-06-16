@@ -1,0 +1,2805 @@
+{
+  "about": {
+    "slug": "about",
+    "title": "All About Our Company - Valley Septic Services",
+    "description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+    "canonical": "https://valleyseptic.ca/about/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "All About Our Company - Valley Septic Services",
+      "og:description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+      "og:url": "https://valleyseptic.ca/about/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-10-21T16:32:21+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "About",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "All About Our Company - Valley Septic Services",
+      "twitter:description": "Valley Septic & Plumbing is a family-owned company providing expert septic services and tank pumping in Fraser Valley. Trusted for generations. Contact us today.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "74 minutes"
+    },
+    "h1": [
+      "About Valley Septic & Plumbing"
+    ],
+    "h2": [
+      "Our Story: Rooted in Family",
+      "Our Mission"
+    ],
+    "h3": [
+      "A Family-Owned and Operated Company",
+      "Our commitment is threefold:",
+      "Our Core Values",
+      "Professionalism",
+      "Efficiency",
+      "Efficiency",
+      "Community Focus",
+      "Reliability",
+      "Reliability",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC & PLUMBING"
+    ],
+    "h4": [
+      "A Journey of Service and Community",
+      "More Than Just Pipes and Tanks",
+      "To Our Community",
+      "To Quality",
+      "To Education and Prevention",
+      "More Than Just Pipes and Tanks",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "AboutPage",
+      "LocalBusiness"
+    ],
+    "articleSchema": null,
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "",
+    "modifiedDate": "",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "contact": {
+    "slug": "contact",
+    "title": "Call Us Today! - Valley Septic Services",
+    "description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+    "canonical": "https://valleyseptic.ca/contact/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Call Us Today! - Valley Septic Services",
+      "og:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+      "og:url": "https://valleyseptic.ca/contact/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-10-21T16:33:10+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Contact",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Call Us Today! - Valley Septic Services",
+      "twitter:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "50 minutes"
+    },
+    "h1": [
+      "Get in Touch with Valley Septic"
+    ],
+    "h2": [
+      "Address",
+      "Phone Number",
+      "Email",
+      "Get in Touch",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "We’re Here to Help",
+      "Serving the Fraser Valley with Pride"
+    ],
+    "h4": [
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "ContactPage",
+      "LocalBusiness"
+    ],
+    "articleSchema": null,
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "",
+    "modifiedDate": "",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "emergency-septic-services": {
+    "slug": "emergency-septic-services",
+    "title": "Emergency Septic Services - Valley Septic Services",
+    "description": "24/7 emergency septic services in Fraser Valley. Rapid response to sewage backups, overflows, and septic failures. Call now!",
+    "canonical": "https://valleyseptic.ca/emergency-septic-services/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Emergency Septic Services - Valley Septic Services",
+      "og:description": "24/7 emergency septic services in Fraser Valley. Rapid response to sewage backups, overflows, and septic failures. Call now!",
+      "og:url": "https://valleyseptic.ca/emergency-septic-services/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-23T20:26:54+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Emergency Septic Services",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Emergency Septic Services - Valley Septic Services",
+      "twitter:description": "24/7 emergency septic services in Fraser Valley. Rapid response to sewage backups, overflows, and septic failures. Call now!",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "108 minutes"
+    },
+    "h1": [
+      "CALL 24/7 – DO NOT HESITATE TO CALL US"
+    ],
+    "h2": [
+      "Septic Emergencies",
+      "6-Step Emergency Septic Response",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "EMERGENCY SEPTIC SERVICES",
+      "Why Trust Valley Septic?",
+      "1. Immediate Contact:",
+      "2. Rapid On-Site Arrival:",
+      "3. Initial Assessment:",
+      "4. Immediate Mitigation:",
+      "5. Problem Resolution:",
+      "6. Follow-Up Plan:",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Equipment",
+      "Thorough Inspection",
+      "Tailored Advice",
+      "Thorough Care, Step by Step",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Emergency Septic Services - Valley Septic Services",
+      "description": "24/7 emergency septic services in Fraser Valley. Rapid response to sewage backups, overflows, and septic failures. Call now!",
+      "datePublished": "2024-09-14T21:17:57+00:00",
+      "dateModified": "2026-04-23T20:26:54+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T21:17:57+00:00",
+    "modifiedDate": "2026-04-23T20:26:54+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "grease-trap-service": {
+    "slug": "grease-trap-service",
+    "title": "Grease Trap Service - Valley Septic Services",
+    "description": "Professional grease trap cleaning and pumping in Fraser Valley. Prevent clogs, odors, and health violations with regular maintenance.",
+    "canonical": "https://valleyseptic.ca/grease-trap-service/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Grease Trap Service - Valley Septic Services",
+      "og:description": "Professional grease trap cleaning and pumping in Fraser Valley. Prevent clogs, odors, and health violations with regular maintenance.",
+      "og:url": "https://valleyseptic.ca/grease-trap-service/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-23T20:31:21+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Grease Trap Service",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Grease Trap Service - Valley Septic Services",
+      "twitter:description": "Professional grease trap cleaning and pumping in Fraser Valley. Prevent clogs, odors, and health violations with regular maintenance.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "117 minutes"
+    },
+    "h1": [
+      "GREASE TRAP PUMPING in THE Fraser Valley"
+    ],
+    "h2": [
+      "Grease Trap Service",
+      "Grease Trap Cleaning",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Keep Your BUSINESS Smoothly",
+      "Why Trust Valley Septic?",
+      "1. Initial Inspection:",
+      "2. Lid Removal and Safety Check:",
+      "3. Waste Removal:",
+      "4. Interior Cleaning:",
+      "5. System Check:",
+      "6. Proper Disposal and Documentation:",
+      "Grease Trap FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Equipment",
+      "Thorough Inspection",
+      "Tailored Advice",
+      "Thorough Care, Step by Step",
+      "How often should I have my grease trap cleaned?",
+      "What happens if I neglect my grease trap?",
+      "Can you handle grease traps of all sizes?",
+      "Do you provide emergency grease trap services?",
+      "How do I prepare for a grease trap cleaning?",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Grease Trap Service - Valley Septic Services",
+      "description": "Professional grease trap cleaning and pumping in Fraser Valley. Prevent clogs, odors, and health violations with regular maintenance.",
+      "datePublished": "2024-09-14T21:04:17+00:00",
+      "dateModified": "2026-04-23T20:31:21+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T21:04:17+00:00",
+    "modifiedDate": "2026-04-23T20:31:21+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "home": {
+    "slug": "home",
+    "title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+    "description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+    "canonical": "https://valleyseptic.ca/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+      "og:description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+      "og:url": "https://valleyseptic.ca/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T16:00:58+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Home",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services in the Fraser Valley, BC | Valley Septic",
+      "twitter:description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "bullfinch",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "114 minutes"
+    },
+    "h1": [
+      "Fraser Valley’s Most Trusted Septic Services",
+      "Due for Service? Try Our Service Calculator!",
+      "Our Articles"
+    ],
+    "h2": [
+      "Comprehensive Septic Solutions",
+      "Why Choose Valley Septic?",
+      "Septic System 101"
+    ],
+    "h3": [
+      "Reliable Solutions, Exceptional Service",
+      "Septic Inspections",
+      "Septic Tank Pumping",
+      "Grease Trap Service",
+      "Emergency Septic",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT CHILLIWACK VALLEY SEPTIC & TANK PUMPING"
+    ],
+    "h4": [
+      "Expert Care for Every Aspect of Your Septic System",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Know the Warning Signs",
+      "Regular Maintenence is Key",
+      "Be Mindful of Your Drain",
+      "Protect Your Drainfield",
+      "We Proudly Serve:",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "Septic Services in Mission: Common Problems We See",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services in the Fraser Valley, BC | Valley Septic",
+      "description": "Trusted septic services across the Fraser Valley, BC, including tank pumping, inspections, grease trap cleaning, and 24/7 emergency septic service.",
+      "datePublished": "2024-08-22T16:51:23+00:00",
+      "dateModified": "2026-04-30T16:00:58+00:00",
+      "author": "bullfinch",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-08-22T16:51:23+00:00",
+    "modifiedDate": "2026-04-30T16:00:58+00:00",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "post-can-a-septic-tank-freeze": {
+    "slug": "post-can-a-septic-tank-freeze",
+    "title": "Can a Septic Tank Freeze? - Valley Septic Services",
+    "description": "Yes. Your septic tank can freeze, and when it does, you're looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it",
+    "canonical": "https://valleyseptic.ca/can-a-septic-tank-freeze/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Can a Septic Tank Freeze? - Valley Septic Services",
+      "og:description": "Yes. Your septic tank can freeze, and when it does, you're looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it",
+      "og:url": "https://valleyseptic.ca/can-a-septic-tank-freeze/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:44+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+      "og:image:width": "1200",
+      "og:image:height": "685",
+      "og:image:alt": "Can a Septic Tank Freeze?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/SepticFreeze.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Can a Septic Tank Freeze? - Valley Septic Services",
+      "twitter:description": "Yes. Your septic tank can freeze, and when it does, you're looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "4 minutes"
+    },
+    "h1": [
+      "Can a Septic Tank Freeze?"
+    ],
+    "h2": [
+      "Why Septic Tanks Freeze",
+      "Where Freezing Happens",
+      "The Vacant House Problem",
+      "Snow Cover Matters More Than You Think",
+      "What a Frozen System Looks Like",
+      "Prevention Makes More Sense Than Repair"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Can a Septic Tank Freeze? - Valley Septic Services",
+      "description": "Yes. Your septic tank can freeze, and when it does, you&#039;re looking at a problem that ranges from inconvenient to catastrophic. The question is what makes it",
+      "datePublished": "2025-02-28T22:38:45+00:00",
+      "dateModified": "2025-12-10T23:43:44+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-02-28T22:38:45+00:00",
+    "modifiedDate": "2025-12-10T23:43:44+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp",
+    "ogImageWidth": "1200",
+    "ogImageHeight": "685",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/SepticFreeze.webp"
+  },
+  "post-how-does-a-septic-alarm-work": {
+    "slug": "post-how-does-a-septic-alarm-work",
+    "title": "How Does a Septic Alarm Work? - Valley Septic Services",
+    "description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+    "canonical": "https://valleyseptic.ca/how-does-a-septic-alarm-work/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "How Does a Septic Alarm Work? - Valley Septic Services",
+      "og:description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+      "og:url": "https://valleyseptic.ca/how-does-a-septic-alarm-work/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+      "og:image:width": "1024",
+      "og:image:height": "553",
+      "og:image:alt": "How Does a Septic Alarm Work?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/septic-alarm2.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How Does a Septic Alarm Work? - Valley Septic Services",
+      "twitter:description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it's not a",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "How Does a Septic Alarm Work?"
+    ],
+    "h2": [
+      "The Basic Setup",
+      "What Triggers the Alarm",
+      "What You Should Do When It Goes Off",
+      "Common Problems and Misconceptions",
+      "Prevention and Maintenance"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "The Importance of Perimeter Drainage",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "How Does a Septic Alarm Work? - Valley Septic Services",
+      "description": "Your septic alarm exists for one reason: to tell you something is wrong before sewage backs up into your house. When that alarm goes off, it&#039;s not a",
+      "datePublished": "2026-05-10T22:57:55+00:00",
+      "dateModified": "2026-05-10T22:57:55+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-05-10T22:57:55+00:00",
+    "modifiedDate": "",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "553",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-1024x553.webp"
+  },
+  "post-how-does-a-septic-tank-work": {
+    "slug": "post-how-does-a-septic-tank-work",
+    "title": "How Does a Septic Tank Work? - Valley Septic Services",
+    "description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+    "canonical": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "How Does a Septic Tank Work? - Valley Septic Services",
+      "og:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+      "og:url": "https://valleyseptic.ca/how-does-a-septic-tank-work/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+      "og:image:width": "1800",
+      "og:image:height": "1037",
+      "og:image:alt": "How Does a Septic Tank Work?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/valley-septic-truck1-2.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How Does a Septic Tank Work? - Valley Septic Services",
+      "twitter:description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "4 minutes"
+    },
+    "h1": [
+      "How Does a Septic Tank Work?"
+    ],
+    "h2": [
+      "The Basic Setup",
+      "How Waste Gets Separated",
+      "Where the Water Goes",
+      "Why Maintenance Actually Matters",
+      "The Parts You Don’t See",
+      "What Pumping Actually Does",
+      "Keeping It Working"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "Septic Services in Mission: Common Problems We See",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "How Does a Septic Tank Work? - Valley Septic Services",
+      "description": "Your septic tank is basically a giant underground box doing a job nobody wants to think about until something goes wrong. But understanding how it works can",
+      "datePublished": "2026-02-02T18:49:31+00:00",
+      "dateModified": "2026-02-02T18:49:31+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+      },
+      "articleSection": "Septic Education"
+    },
+    "breadcrumb": [
+      {
+        "name": "Septic Education",
+        "url": "https://valleyseptic.ca/category/septic-education/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-02-02T18:49:31+00:00",
+    "modifiedDate": "",
+    "author": "ValleySeptic",
+    "category": "Septic Education",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp",
+    "ogImageWidth": "1800",
+    "ogImageHeight": "1037",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/valley-septic-truck1-2.webp"
+  },
+  "post-how-long-does-a-septic-inspection-take": {
+    "slug": "post-how-long-does-a-septic-inspection-take",
+    "title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+    "description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+    "canonical": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+      "og:description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+      "og:url": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-02-24T18:18:39+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+      "og:image:width": "1024",
+      "og:image:height": "572",
+      "og:image:alt": "How Long Does a Septic Inspection Take?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/septicinspection.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+      "twitter:description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "How Long Does a Septic Inspection Take?"
+    ],
+    "h2": [
+      "What Happens During the Inspection",
+      "Factors That Add Time",
+      "Different Types of Inspections",
+      "What You Can Do to Speed Things Up",
+      "The Report and Follow-Up"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "The Importance of Perimeter Drainage",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+      "description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+      "datePublished": "2026-02-23T23:40:49+00:00",
+      "dateModified": "2026-02-24T18:18:39+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-02-23T23:40:49+00:00",
+    "modifiedDate": "2026-02-24T18:18:39+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "572",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp"
+  },
+  "post-how-often-should-you-pump-your-septic-tank-in-the-fraser-valley": {
+    "slug": "post-how-often-should-you-pump-your-septic-tank-in-the-fraser-valley",
+    "title": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services",
+    "description": "If you live in a rural area or even certain neighborhoods of Chilliwack, Abbotsford, or Mission, there’s a good chance your home uses a septic system. These",
+    "canonical": "https://valleyseptic.ca/how-often-should-you-pump-your-septic-tank-in-the-fraser-valley/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services",
+      "og:description": "If you live in a rural area or even certain neighborhoods of Chilliwack, Abbotsford, or Mission, there’s a good chance your home uses a septic system. These",
+      "og:url": "https://valleyseptic.ca/how-often-should-you-pump-your-septic-tank-in-the-fraser-valley/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:42+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+      "og:image:width": "800",
+      "og:image:height": "600",
+      "og:image:alt": "How Often Should You Pump Your Septic Tank in the Fraser Valley?",
+      "og:image:type": "image/jpeg",
+      "og:image_local": "/images/2024/08/septic-and-plumbing-services-in-chilliwack.jpg"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services",
+      "twitter:description": "If you live in a rural area or even certain neighborhoods of Chilliwack, Abbotsford, or Mission, there’s a good chance your home uses a septic system. These",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "How Often Should You Pump Your Septic Tank in the Fraser Valley?"
+    ],
+    "h2": [],
+    "h3": [
+      "Why Septic Pumping Is Essential",
+      "What Affects Your Pumping Schedule?",
+      "What’s Typical for Fraser Valley Homes?",
+      "Warning Signs to Watch For",
+      "What Happens During a Pump-Out?",
+      "Local Knowledge Matters",
+      "Keep It Simple: Set a Schedule"
+    ],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "How Often Should You Pump Your Septic Tank in the Fraser Valley? - Valley Septic Services",
+      "description": "If you live in a rural area or even certain neighborhoods of Chilliwack, Abbotsford, or Mission, there’s a good chance your home uses a septic system. These",
+      "datePublished": "2025-06-27T19:46:59+00:00",
+      "dateModified": "2025-12-10T23:43:42+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-06-27T19:46:59+00:00",
+    "modifiedDate": "2025-12-10T23:43:42+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg",
+    "ogImageWidth": "800",
+    "ogImageHeight": "600",
+    "ogImageType": "image/jpeg",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-and-plumbing-services-in-chilliwack.jpg"
+  },
+  "post-septic-services-in-mission-common-problems-we-see": {
+    "slug": "post-septic-services-in-mission-common-problems-we-see",
+    "title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+    "description": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+    "canonical": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+      "og:description": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+      "og:url": "https://valleyseptic.ca/septic-services-in-mission-common-problems-we-see/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+      "og:image:width": "1600",
+      "og:image:height": "1066",
+      "og:image:alt": "Septic Services in Mission: Common Problems We See",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2026/03/missionsepticthingswesee.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+      "twitter:description": "Three things to know: Mission's mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "rvgye",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "4 minutes"
+    },
+    "h1": [
+      "Septic Services in Mission: Common Problems We See"
+    ],
+    "h2": [
+      "The Soil Situation",
+      "Rainfall and Groundwater",
+      "Aging Systems on Older Properties",
+      "What Triggers Most Service Calls",
+      "Staying Ahead of Problems"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Tank Work?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services in Mission: Common Problems We See - Valley Septic Services",
+      "description": "Three things to know: Mission&#039;s mix of forested upland, heavy rainfall, and older rural properties creates unique septic challenges. Clay-heavy soils and high",
+      "datePublished": "2026-03-18T16:49:15+00:00",
+      "dateModified": "2026-03-18T16:49:15+00:00",
+      "author": "rvgye",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp"
+      },
+      "articleSection": "Septic Education"
+    },
+    "breadcrumb": [
+      {
+        "name": "Septic Education",
+        "url": "https://valleyseptic.ca/category/septic-education/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-03-18T16:49:15+00:00",
+    "modifiedDate": "",
+    "author": "rvgye",
+    "category": "Septic Education",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp",
+    "ogImageWidth": "1600",
+    "ogImageHeight": "1066",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2026/03/missionsepticthingswesee.webp"
+  },
+  "post-septic-tank-pumping-in-abbotsford-bc": {
+    "slug": "post-septic-tank-pumping-in-abbotsford-bc",
+    "title": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services",
+    "description": "For many Abbotsford residents living outside the city's main sewer system, septic tanks are an essential part of daily life. These underground wastewater",
+    "canonical": "https://valleyseptic.ca/septic-tank-pumping-in-abbotsford-bc/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services",
+      "og:description": "For many Abbotsford residents living outside the city's main sewer system, septic tanks are an essential part of daily life. These underground wastewater",
+      "og:url": "https://valleyseptic.ca/septic-tank-pumping-in-abbotsford-bc/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-21T20:42:44+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+      "og:image:width": "1456",
+      "og:image:height": "816",
+      "og:image:alt": "How Often Should You Pump a Septic Tank in Abbotsford, BC?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/11/septic-pumping.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services",
+      "twitter:description": "For many Abbotsford residents living outside the city's main sewer system, septic tanks are an essential part of daily life. These underground wastewater",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "How Often Should You Pump a Septic Tank in Abbotsford, BC?"
+    ],
+    "h2": [
+      "Understanding Abbotsford’s Septic System Landscape",
+      "Why Regular Pumping Matters",
+      "Recommended Pumping Schedule and Indicators",
+      "Climate Considerations in Abbotsford",
+      "The Professional Pumping Process",
+      "Understanding Local Regulations",
+      "Financial Considerations and Service Provider Selection",
+      "Maintaining Your System Between Services",
+      "Conclusion"
+    ],
+    "h3": [
+      "Preventing System Failure",
+      "Environmental Protection",
+      "Property Value Preservation"
+    ],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "How Often Should You Pump a Septic Tank in Abbotsford, BC? - Valley Septic Services",
+      "description": "For many Abbotsford residents living outside the city&#039;s main sewer system, septic tanks are an essential part of daily life. These underground wastewater",
+      "datePublished": "2024-11-11T23:43:59+00:00",
+      "dateModified": "2026-04-21T20:42:44+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-11-11T23:43:59+00:00",
+    "modifiedDate": "2026-04-21T20:42:44+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp",
+    "ogImageWidth": "1456",
+    "ogImageHeight": "816",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/11/septic-pumping.webp"
+  },
+  "post-spring-septic-maintenance-tips": {
+    "slug": "post-spring-septic-maintenance-tips",
+    "title": "Spring Septic Maintenance Tips - Valley Septic Services",
+    "description": "Explore more about our full septic services in Abbotsford to ensure year-round protection.",
+    "canonical": "https://valleyseptic.ca/spring-septic-maintenance-tips/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Spring Septic Maintenance Tips - Valley Septic Services",
+      "og:description": "Explore more about our full septic services in Abbotsford to ensure year-round protection.",
+      "og:url": "https://valleyseptic.ca/spring-septic-maintenance-tips/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:43+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+      "og:image:width": "1920",
+      "og:image:height": "1440",
+      "og:image:alt": "Spring Septic Maintenance Tips",
+      "og:image:type": "image/jpeg",
+      "og:image_local": "/images/2024/08/septic-tank-pumping-services.jpg"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Spring Septic Maintenance Tips - Valley Septic Services",
+      "twitter:description": "Explore more about our full septic services in Abbotsford to ensure year-round protection.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "2 minutes"
+    },
+    "h1": [
+      "Spring Septic Maintenance Tips"
+    ],
+    "h2": [
+      "1. Overloaded Septic Tanks",
+      "2. Saturated Drainfields",
+      "3. Alarm System Malfunctions",
+      "Seasonal Maintenance Tips",
+      "Serving the Fraser Valley",
+      "Contact Us"
+    ],
+    "h3": [
+      "Prevention Tips:",
+      "Signs of Trouble:",
+      "Preventive Measures:",
+      "What to Watch For:",
+      "Action Steps:"
+    ],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Spring Septic Maintenance Tips - Valley Septic Services",
+      "description": "Explore more about our full septic services in Abbotsford to ensure year-round protection.",
+      "datePublished": "2025-04-28T22:43:58+00:00",
+      "dateModified": "2025-12-10T23:43:43+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-04-28T22:43:58+00:00",
+    "modifiedDate": "2025-12-10T23:43:43+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg",
+    "ogImageWidth": "1920",
+    "ogImageHeight": "1440",
+    "ogImageType": "image/jpeg",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/08/septic-tank-pumping-services.jpg"
+  },
+  "post-the-importance-of-perimeter-drainage": {
+    "slug": "post-the-importance-of-perimeter-drainage",
+    "title": "The Importance of Perimeter Drainage - Valley Septic Services",
+    "description": "Perimeter drainage is a network of pipes buried around your home's foundation that collects groundwater and directs it away from your house. The system",
+    "canonical": "https://valleyseptic.ca/the-importance-of-perimeter-drainage/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "The Importance of Perimeter Drainage - Valley Septic Services",
+      "og:description": "Perimeter drainage is a network of pipes buried around your home's foundation that collects groundwater and directs it away from your house. The system",
+      "og:url": "https://valleyseptic.ca/the-importance-of-perimeter-drainage/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+      "og:image:width": "1800",
+      "og:image:height": "1012",
+      "og:image:alt": "The Importance of Perimeter Drainage",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/perimiterhero.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Importance of Perimeter Drainage - Valley Septic Services",
+      "twitter:description": "Perimeter drainage is a network of pipes buried around your home's foundation that collects groundwater and directs it away from your house. The system",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "6 minutes"
+    },
+    "h1": [
+      "The Importance of Perimeter Drainage"
+    ],
+    "h2": [
+      "What Perimeter Drainage Actually Does",
+      "Why the Fraser Valley Makes This Matter More",
+      "Signs Your Drainage System Isn’t Working",
+      "How It Connects to Your Septic System",
+      "What Maintenance Looks Like",
+      "When to Call for Help",
+      "Prevention Beats Repair Every Time"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "The Importance of Perimeter Drainage - Valley Septic Services",
+      "description": "Perimeter drainage is a network of pipes buried around your home&#039;s foundation that collects groundwater and directs it away from your house. The system",
+      "datePublished": "2026-01-02T18:37:05+00:00",
+      "dateModified": "2026-01-02T18:37:05+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-01-02T18:37:05+00:00",
+    "modifiedDate": "",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp",
+    "ogImageWidth": "1800",
+    "ogImageHeight": "1012",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero.webp"
+  },
+  "post-top-3-tips-for-keep-your-septic-system-from-freezing": {
+    "slug": "post-top-3-tips-for-keep-your-septic-system-from-freezing",
+    "title": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services",
+    "description": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don't think",
+    "canonical": "https://valleyseptic.ca/top-3-tips-for-keep-your-septic-system-from-freezing/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services",
+      "og:description": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don't think",
+      "og:url": "https://valleyseptic.ca/top-3-tips-for-keep-your-septic-system-from-freezing/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:41+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+      "og:image:width": "2000",
+      "og:image:height": "1500",
+      "og:image:alt": "Top 3 Tips For Keep Your Septic System From Freezing",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/10/frozenseptic.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services",
+      "twitter:description": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don't think",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "2 minutes"
+    },
+    "h1": [
+      "Top 3 Tips For Keep Your Septic System From Freezing"
+    ],
+    "h2": [],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Top 3 Tips For Keep Your Septic System From Freezing - Valley Septic Services",
+      "description": "The Fraser Valley knows cold. When December hits and the frost starts creeping into the ground, your septic system faces threats most homeowners don&#039;t think",
+      "datePublished": "2025-12-09T18:50:59+00:00",
+      "dateModified": "2025-12-10T23:43:41+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-12-09T18:50:59+00:00",
+    "modifiedDate": "2025-12-10T23:43:41+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp",
+    "ogImageWidth": "2000",
+    "ogImageHeight": "1500",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/10/frozenseptic.webp"
+  },
+  "post-top-3-tips-for-winter-septic-tank-services": {
+    "slug": "post-top-3-tips-for-winter-septic-tank-services",
+    "title": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services",
+    "description": "Winter in the Fraser Valley doesn't mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don't exist during",
+    "canonical": "https://valleyseptic.ca/top-3-tips-for-winter-septic-tank-services/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services",
+      "og:description": "Winter in the Fraser Valley doesn't mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don't exist during",
+      "og:url": "https://valleyseptic.ca/top-3-tips-for-winter-septic-tank-services/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:45+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+      "og:image:width": "1800",
+      "og:image:height": "972",
+      "og:image:alt": "Top 3 Tips for Winter Septic Tank Services",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/winterseptic2.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services",
+      "twitter:description": "Winter in the Fraser Valley doesn't mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don't exist during",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "Top 3 Tips for Winter Septic Tank Services"
+    ],
+    "h2": [
+      "Keep Water Flowing (But Not Too Much)",
+      "Get Your Tank Pumped Before Winter Hits",
+      "Add Insulation Where It Counts",
+      "The Reality of Winter Maintenance"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Top 3 Tips for Winter Septic Tank Services - Valley Septic Services",
+      "description": "Winter in the Fraser Valley doesn&#039;t mess around. When temperatures drop and the ground freezes, your septic system faces challenges that don&#039;t exist during",
+      "datePublished": "2025-02-01T22:21:29+00:00",
+      "dateModified": "2025-12-10T23:43:45+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-02-01T22:21:29+00:00",
+    "modifiedDate": "2025-12-10T23:43:45+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp",
+    "ogImageWidth": "1800",
+    "ogImageHeight": "972",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/winterseptic2.webp"
+  },
+  "post-top-5-signs-your-septic-system-needs-professional-attention": {
+    "slug": "post-top-5-signs-your-septic-system-needs-professional-attention",
+    "title": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services",
+    "description": "Your septic system works quietly behind the scenes, treating household wastewater and protecting your property and the environment. However, like any",
+    "canonical": "https://valleyseptic.ca/top-5-signs-your-septic-system-needs-professional-attention/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services",
+      "og:description": "Your septic system works quietly behind the scenes, treating household wastewater and protecting your property and the environment. However, like any",
+      "og:url": "https://valleyseptic.ca/top-5-signs-your-septic-system-needs-professional-attention/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-12-10T23:43:43+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:alt": "Top 5 Signs Your Septic System Needs Professional Attention",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/05/5signsseptic.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services",
+      "twitter:description": "Your septic system works quietly behind the scenes, treating household wastewater and protecting your property and the environment. However, like any",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "5 minutes"
+    },
+    "h1": [
+      "Top 5 Signs Your Septic System Needs Professional Attention"
+    ],
+    "h2": [
+      "1. Slow Drains and Frequent Backups",
+      "2. Unpleasant Odors Around Your Home",
+      "3. Lush Green Grass or Standing Water Over the Drainfield",
+      "4. High Nitrate Levels in Your Well Water",
+      "5. Septic Alarm Activation or Unusual Noises",
+      "Conclusion"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "What Is Emergency Grease Trap Cleaning?",
+      "How Long Does a Septic Inspection Take?",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "Top 5 Signs Your Septic System Needs Professional Attention - Valley Septic Services",
+      "description": "Your septic system works quietly behind the scenes, treating household wastewater and protecting your property and the environment. However, like any",
+      "datePublished": "2025-05-23T14:45:42+00:00",
+      "dateModified": "2025-12-10T23:43:43+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-05-23T14:45:42+00:00",
+    "modifiedDate": "2025-12-10T23:43:43+00:00",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp",
+    "ogImageWidth": "1536",
+    "ogImageHeight": "1024",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/05/5signsseptic.webp"
+  },
+  "post-what-is-emergency-grease-trap-cleaning": {
+    "slug": "post-what-is-emergency-grease-trap-cleaning",
+    "title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+    "description": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+    "canonical": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+      "og:description": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+      "og:url": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+      "og:image:width": "1024",
+      "og:image:height": "553",
+      "og:image:alt": "What Is Emergency Grease Trap Cleaning?",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2025/12/grease-trap3.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+      "twitter:description": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+      "twitter:label1": "Written by",
+      "twitter:data1": "ValleySeptic",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "3 minutes"
+    },
+    "h1": [
+      "What Is Emergency Grease Trap Cleaning?"
+    ],
+    "h2": [
+      "When Regular Maintenance Becomes an Emergency",
+      "What Triggers Emergency Grease Trap Service",
+      "The Real Cost of Emergency Service",
+      "How Emergency Service Works",
+      "Prevention Beats Emergency Every Time"
+    ],
+    "h3": [],
+    "h4": [
+      "Related Articles",
+      "How Does a Septic Alarm Work?",
+      "How Long Does a Septic Inspection Take?",
+      "The Importance of Perimeter Drainage",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "NewsArticle"
+    ],
+    "articleSchema": {
+      "headline": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+      "description": "Emergency grease trap cleaning happens when your commercial kitchen&#039;s grease trap fails during business hours and you need immediate service to avoid shutting",
+      "datePublished": "2026-04-02T23:19:17+00:00",
+      "dateModified": "2026-04-02T23:19:17+00:00",
+      "author": "ValleySeptic",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp"
+      },
+      "articleSection": "Uncategorized"
+    },
+    "breadcrumb": [
+      {
+        "name": "Uncategorized",
+        "url": "https://valleyseptic.ca/category/uncategorized/"
+      }
+    ],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2026-04-02T23:19:17+00:00",
+    "modifiedDate": "",
+    "author": "ValleySeptic",
+    "category": "Uncategorized",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+    "ogImageWidth": "1024",
+    "ogImageHeight": "553",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp"
+  },
+  "septic-alarms": {
+    "slug": "septic-alarms",
+    "title": "Septic Alarms - Valley Septic Services",
+    "description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+    "canonical": "https://valleyseptic.ca/septic-alarms/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Alarms - Valley Septic Services",
+      "og:description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+      "og:url": "https://valleyseptic.ca/septic-alarms/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-23T20:36:19+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Alarms",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Alarms - Valley Septic Services",
+      "twitter:description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "118 minutes"
+    },
+    "h1": [
+      "Septic ALARM RESPONS in THE Fraser Valley"
+    ],
+    "h2": [
+      "Septic Alarms",
+      "Our Investigation Process",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "RESPONDING TO YOUR ALARM SYSTEM",
+      "Why Trust Valley Septic Services?",
+      "1. Alarm Activation",
+      "2. Initial Assessment",
+      "3. Water Usage",
+      "4. Visual Inspection",
+      "5. Contact Us",
+      "6. On-Site Evaluation:",
+      "Septic Alarm FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Equipment",
+      "Thorough Inspection",
+      "Tailored Advice",
+      "Thorough Care, Step by Step",
+      "What is a septic alarm and why do I need one?",
+      "How does a septic alarm work?",
+      "What should I do when my septic alarm goes off?",
+      "How often should septic alarms be tested?",
+      "Can you install a septic alarm on my existing system?",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Alarms - Valley Septic Services",
+      "description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+      "datePublished": "2024-09-14T20:51:37+00:00",
+      "dateModified": "2026-04-23T20:36:19+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T20:51:37+00:00",
+    "modifiedDate": "2026-04-23T20:36:19+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-calculator": {
+    "slug": "septic-calculator",
+    "title": "Septic Calculator - Valley Septic Services",
+    "description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+    "canonical": "https://valleyseptic.ca/septic-calculator/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Calculator - Valley Septic Services",
+      "og:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+      "og:url": "https://valleyseptic.ca/septic-calculator/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2025-10-07T20:31:42+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Calculator",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Calculator - Valley Septic Services",
+      "twitter:description": "VALLEY SEPTIC SERVICES & TANK PUMPINGIS your septic system due for service?",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "9 minutes"
+    },
+    "h1": [
+      "IS your septic system due for service?"
+    ],
+    "h2": [
+      "🧮 Calculate Your Schedule",
+      "📅 Your Pumping Schedule"
+    ],
+    "h3": [
+      "VALLEY SEPTIC SERVICES & TANK PUMPING",
+      "Urgency Level",
+      "🔔 Never Miss a Service"
+    ],
+    "h4": [
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Calculator - Valley Septic Services",
+      "description": "VALLEY SEPTIC SERVICES &amp; TANK PUMPINGIS your septic system due for service?",
+      "datePublished": "2025-09-16T21:03:04+00:00",
+      "dateModified": "2025-10-07T20:31:42+00:00",
+      "author": "rvgye",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-09-16T21:03:04+00:00",
+    "modifiedDate": "2025-10-07T20:31:42+00:00",
+    "author": "rvgye",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-inspection": {
+    "slug": "septic-inspection",
+    "title": "Septic Inspection - Valley Septic Services",
+    "description": "Expert septic inspections in Fraser Valley to prevent costly repairs. Ensure your system runs smoothly with comprehensive assessments and tailored advice",
+    "canonical": "https://valleyseptic.ca/septic-inspection/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Inspection - Valley Septic Services",
+      "og:description": "Expert septic inspections in Fraser Valley to prevent costly repairs. Ensure your system runs smoothly with comprehensive assessments and tailored advice",
+      "og:url": "https://valleyseptic.ca/septic-inspection/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-23T20:36:45+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Inspection",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Inspection - Valley Septic Services",
+      "twitter:description": "Expert septic inspections in Fraser Valley to prevent costly repairs. Ensure your system runs smoothly with comprehensive assessments and tailored advice",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "117 minutes"
+    },
+    "h1": [
+      "Expert Septic INSPECTIONS in THE Fraser Valley"
+    ],
+    "h2": [
+      "Septic Inspections",
+      "Our Inspection Process",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Keep Your System Running Smoothly",
+      "Why Trust Valley Septic with Your Inspection?",
+      "1. Location and Access:",
+      "2. Tank Opening and Inspection",
+      "3. Water Level Assessment",
+      "4. Distribution Box Inspection:",
+      "5. Drain Field Evaluation:",
+      "6. System Performance Test:",
+      "Septic Inspection FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Equipment",
+      "Thorough Inspection",
+      "Tailored Advice",
+      "Thorough Care, Step by Step",
+      "How often should I have my septic system inspected?",
+      "What does a septic inspection typically include?",
+      "How long does a septic inspection take?",
+      "Do I need to prepare my property for a septic inspection?",
+      "What happens if issues are found during the inspection?",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Inspection - Valley Septic Services",
+      "description": "Expert septic inspections in Fraser Valley to prevent costly repairs. Ensure your system runs smoothly with comprehensive assessments and tailored advice",
+      "datePublished": "2024-09-14T20:25:43+00:00",
+      "dateModified": "2026-04-23T20:36:45+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T20:25:43+00:00",
+    "modifiedDate": "2026-04-23T20:36:45+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-services-abbotsford": {
+    "slug": "septic-services-abbotsford",
+    "title": "Septic Tank Pumping & Services in Abbotsford",
+    "description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+    "canonical": "https://valleyseptic.ca/septic-services-abbotsford/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Tank Pumping & Services in Abbotsford",
+      "og:description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "og:url": "https://valleyseptic.ca/septic-services-abbotsford/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T17:20:26+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Abbotsford",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Tank Pumping & Services in Abbotsford",
+      "twitter:description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "84 minutes"
+    },
+    "h1": [
+      "Septic Tank Cleaning, Pumping & Septic Services in Abbotsford"
+    ],
+    "h2": [
+      "Reliable Septic Services in Abbotsford",
+      "Complete Septic Services in Abbotsford",
+      "Why Choose Valley Septic?",
+      "Signs You Need Septic Service",
+      "How Often Should You Schedule Septic Tank Pumping in Abbotsford?"
+    ],
+    "h3": [
+      "Septic Tank Cleaning",
+      "Septic Tank Pumping",
+      "Septic Inspections",
+      "Emergency Septic Service",
+      "Serving All of Abbotsford",
+      "CONTACT VALLEY SEPTIC Services"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Local Knowledge, Professional Service",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Tank Pumping &amp; Services in Abbotsford",
+      "description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "datePublished": "2024-08-26T17:26:56+00:00",
+      "dateModified": "2026-04-30T17:20:26+00:00",
+      "author": "bullfinch",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-08-26T17:26:56+00:00",
+    "modifiedDate": "2026-04-30T17:20:26+00:00",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-services-chilliwack": {
+    "slug": "septic-services-chilliwack",
+    "title": "Septic Services Chilliwack - Valley Septic Services",
+    "description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+    "canonical": "https://valleyseptic.ca/septic-services-chilliwack/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Services Chilliwack - Valley Septic Services",
+      "og:description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+      "og:url": "https://valleyseptic.ca/septic-services-chilliwack/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-05-01T20:45:02+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Chilliwack",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services Chilliwack - Valley Septic Services",
+      "twitter:description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "86 minutes"
+    },
+    "h1": [
+      "Septic Tank Cleaning, Pumping & Septic Services in Chilliwack"
+    ],
+    "h2": [
+      "Your Trusted Septic Experts in Chilliwack",
+      "Complete Septic Services in Chilliwack",
+      "Why Choose Valley Septic?",
+      "Signs You Need Septic Service",
+      "How Often Should You Schedule Septic Tank Pumping in Chilliwack?"
+    ],
+    "h3": [
+      "Septic Tank Pumping",
+      "Grease Trap Service",
+      "Septic Inspections",
+      "Emergency Septic Service",
+      "Serving All of Chilliwack",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Reliable Local Care from inspection to maintenance",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services Chilliwack - Valley Septic Services",
+      "description": "Professional septic services in Chilliwack, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care.",
+      "datePublished": "2024-09-14T15:36:29+00:00",
+      "dateModified": "2026-05-01T20:45:02+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T15:36:29+00:00",
+    "modifiedDate": "2026-05-01T20:45:02+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-services-hope": {
+    "slug": "septic-services-hope",
+    "title": "Septic Services Hope - Valley Septic Services",
+    "description": "Reliable septic services in Hope, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all areas with professional care and expertise.",
+    "canonical": "https://valleyseptic.ca/septic-services-hope/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Services Hope - Valley Septic Services",
+      "og:description": "Reliable septic services in Hope, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all areas with professional care and expertise.",
+      "og:url": "https://valleyseptic.ca/septic-services-hope/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T17:43:27+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Hope",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services Hope - Valley Septic Services",
+      "twitter:description": "Reliable septic services in Hope, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all areas with professional care and expertise.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "85 minutes"
+    },
+    "h1": [
+      "Septic Services in Hope, BC"
+    ],
+    "h2": [
+      "Your Trusted Septic Experts in Hope",
+      "Comprehensive Septic Solutions in Hope",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Septic Inspections",
+      "Tank Pumping",
+      "Grease Trap Service",
+      "Emergency Septic",
+      "Serving All of Hope",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Reliable Care from Inspection to Maintenance",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services Hope - Valley Septic Services",
+      "description": "Reliable septic services in Hope, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all areas with professional care and expertise.",
+      "datePublished": "2024-09-14T15:40:20+00:00",
+      "dateModified": "2026-04-30T17:43:27+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T15:40:20+00:00",
+    "modifiedDate": "2026-04-30T17:43:27+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-services-langley": {
+    "slug": "septic-services-langley",
+    "title": "Septic Services Langley - Valley Septic Services",
+    "description": "Professional septic services in Langley, BC. Local experts for maintenance, repairs, and emergency solutions. Serving with reliable care.",
+    "canonical": "https://valleyseptic.ca/septic-services-langley/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Services Langley - Valley Septic Services",
+      "og:description": "Professional septic services in Langley, BC. Local experts for maintenance, repairs, and emergency solutions. Serving with reliable care.",
+      "og:url": "https://valleyseptic.ca/septic-services-langley/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T17:28:03+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Langley",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services Langley - Valley Septic Services",
+      "twitter:description": "Professional septic services in Langley, BC. Local experts for maintenance, repairs, and emergency solutions. Serving with reliable care.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "86 minutes"
+    },
+    "h1": [
+      "Septic Services in Langley, BC"
+    ],
+    "h2": [
+      "Your Trusted Septic Experts in Langley",
+      "Comprehensive Septic Solutions in Langley",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Septic Inspections",
+      "Tank Pumping",
+      "Grease Trap Service",
+      "Emergency Septic",
+      "Serving All of Langley",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Reliable Care from Inspection to Maintenance",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services Langley - Valley Septic Services",
+      "description": "Professional septic services in Langley, BC. Local experts for maintenance, repairs, and emergency solutions. Serving with reliable care.",
+      "datePublished": "2024-09-14T19:53:07+00:00",
+      "dateModified": "2026-04-30T17:28:03+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T19:53:07+00:00",
+    "modifiedDate": "2026-04-30T17:28:03+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-services-mission": {
+    "slug": "septic-services-mission",
+    "title": "Septic Services Mission - Valley Septic Services",
+    "description": "Reliable septic services in Mission, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care and professionalism.",
+    "canonical": "https://valleyseptic.ca/septic-services-mission/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Services Mission - Valley Septic Services",
+      "og:description": "Reliable septic services in Mission, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care and professionalism.",
+      "og:url": "https://valleyseptic.ca/septic-services-mission/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T17:31:10+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Mission",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Services Mission - Valley Septic Services",
+      "twitter:description": "Reliable septic services in Mission, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care and professionalism.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "86 minutes"
+    },
+    "h1": [
+      "Septic Services in Mission, BC"
+    ],
+    "h2": [
+      "Your Trusted Septic Experts in Mission",
+      "Comprehensive Septic Solutions in Mission",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Septic Inspections",
+      "Tank Pumping",
+      "Grease Trap Service",
+      "Emergency Septic",
+      "Serving All of Mission",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Reliable Care from Inspection to Maintenance",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Services Mission - Valley Septic Services",
+      "description": "Reliable septic services in Mission, BC. Local experts for maintenance, repairs, and emergency solutions. Serving all neighborhoods with expert care and professionalism.",
+      "datePublished": "2024-09-14T19:39:15+00:00",
+      "dateModified": "2026-04-30T17:31:10+00:00",
+      "author": "gdcoy",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-09-14T19:39:15+00:00",
+    "modifiedDate": "2026-04-30T17:31:10+00:00",
+    "author": "gdcoy",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-tank-cleaning-abbotsford": {
+    "slug": "septic-tank-cleaning-abbotsford",
+    "title": "Septic Tank Pumping & Services in Abbotsford",
+    "description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+    "canonical": "https://valleyseptic.ca/septic-services-abbotsford/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Tank Pumping & Services in Abbotsford",
+      "og:description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "og:url": "https://valleyseptic.ca/septic-services-abbotsford/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-30T17:20:26+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Services Abbotsford",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Tank Pumping & Services in Abbotsford",
+      "twitter:description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "84 minutes"
+    },
+    "h1": [
+      "Septic Tank Cleaning, Pumping & Septic Services in Abbotsford"
+    ],
+    "h2": [
+      "Reliable Septic Services in Abbotsford",
+      "Complete Septic Services in Abbotsford",
+      "Why Choose Valley Septic?",
+      "Signs You Need Septic Service",
+      "How Often Should You Schedule Septic Tank Pumping in Abbotsford?"
+    ],
+    "h3": [
+      "Septic Tank Cleaning",
+      "Septic Tank Pumping",
+      "Septic Inspections",
+      "Emergency Septic Service",
+      "Serving All of Abbotsford",
+      "CONTACT VALLEY SEPTIC Services"
+    ],
+    "h4": [
+      "Local Knowledge, Professional Service",
+      "Local Knowledge, Professional Service",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Septic Tank Pumping &amp; Services in Abbotsford",
+      "description": "Trusted septic services in Abbotsford, BC. Local experts for maintenance, repairs, and emergency septic solutions.",
+      "datePublished": "2024-08-26T17:26:56+00:00",
+      "dateModified": "2026-04-30T17:20:26+00:00",
+      "author": "bullfinch",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-08-26T17:26:56+00:00",
+    "modifiedDate": "2026-04-30T17:20:26+00:00",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-tank-cleaning-langley": {
+    "slug": "septic-tank-cleaning-langley",
+    "title": "Septic Tank Cleaning Langley - Valley Septic Services",
+    "description": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+    "canonical": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Tank Cleaning Langley - Valley Septic Services",
+      "og:description": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+      "og:url": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Tank Cleaning Langley",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Tank Cleaning Langley - Valley Septic Services",
+      "twitter:description": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "115 minutes"
+    },
+    "h1": [
+      "Professional Septic Tank CLeaning in Langley"
+    ],
+    "h2": [
+      "Septic Tank Cleaning Service",
+      "Our Tank Cleaning Process",
+      "What should I avoid flushing to ensure my septic system works well in Langley?",
+      "Is there an ideal time of year to schedule septic tank cleaning in Langley?",
+      "How do Langley’s seasonal changes affect septic tank performance?",
+      "Can septic tank cleaning help with reducing odors around my Langley property?",
+      "Are there environmental risks if I delay cleaning my septic tank in Langley?",
+      "How does the frequency of septic tank cleaning vary for rural properties in Langley?",
+      "What specific regulations apply to septic tank maintenance in Langley?",
+      "How can I tell if my septic tank needs cleaning in Langley’s climate and soil conditions?",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Keeping Your Langley HOME Running Smoothly",
+      "Why Trust Valley Septic with Your Tank Cleaning?",
+      "1. Initial Assessment",
+      "2. Tank Opening and Inspection",
+      "3. Pumping and Cleaning",
+      "4. System Inspection",
+      "5. Refill and Close",
+      "6. Final Review",
+      "Septic Tank Pumping FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC & PLUMBING"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Techniques",
+      "Comprehensive Inspection",
+      "Personalized Advice",
+      "Thorough Care, Step by Step",
+      "Septic Service solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness",
+      "WebPage+FAQPage"
+    ],
+    "articleSchema": {
+      "headline": "Septic Tank Cleaning Langley - Valley Septic Services",
+      "description": "Expert septic tank pumping in Langley &amp; throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+      "datePublished": "2025-12-02T16:30:47+00:00",
+      "dateModified": "2025-12-02T16:30:47+00:00",
+      "author": "rvgye",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-12-02T16:30:47+00:00",
+    "modifiedDate": "",
+    "author": "rvgye",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "septic-tank-cleaning-mission": {
+    "slug": "septic-tank-cleaning-mission",
+    "title": "Septic Tank Cleaning Mission - Valley Septic Services",
+    "description": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+    "canonical": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Septic Tank Cleaning Mission - Valley Septic Services",
+      "og:description": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+      "og:url": "https://valleyseptic.ca/septic-tank-cleaning-mission/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Septic Tank Cleaning Mission",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Septic Tank Cleaning Mission - Valley Septic Services",
+      "twitter:description": "Expert septic tank cleaning service in Mission & Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "115 minutes"
+    },
+    "h1": [
+      "Septic Tank CLeaning in Mission"
+    ],
+    "h2": [
+      "Septic Tank Cleaning",
+      "Our Tank Cleaning Process",
+      "What should I avoid flushing to ensure my septic system works well in Mission?",
+      "Is there an ideal time of year to schedule septic tank cleaning in Mission?",
+      "How do Mission’s seasonal changes affect septic tank performance?",
+      "Can septic tank cleaning help with reducing odors around my Mission property?",
+      "Are there environmental risks if I delay cleaning my septic tank in Mission?",
+      "How does the frequency of septic tank cleaning vary for rural properties in Mission?",
+      "What specific regulations apply to septic tank maintenance in Mission?",
+      "How can I tell if my septic tank needs cleaning in Mission’s climate and soil conditions?",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "We KEEP Your Mission HOME Running Smoothly",
+      "Why Trust Valley Septic with Your Tank Cleaning?",
+      "1. Initial Assessment",
+      "",
+      "2. Tank Opening and Inspection",
+      "3. Pumping and Cleaning",
+      "4. System Inspection",
+      "5. Refill and Close",
+      "6. Final Review",
+      "Septic Tank Pumping FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC & PLUMBING"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Techniques",
+      "Comprehensive Inspection",
+      "Personalized Advice",
+      "Thorough Care, Step by Step",
+      "Septic Service solUtions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness",
+      "WebPage+FAQPage"
+    ],
+    "articleSchema": {
+      "headline": "Septic Tank Cleaning Mission - Valley Septic Services",
+      "description": "Expert septic tank cleaning service in Mission &amp; Fraser Valley. Thorough pumping and inspections prevents backups and maintains efficiency.",
+      "datePublished": "2025-11-19T23:40:20+00:00",
+      "dateModified": "2025-11-19T23:40:20+00:00",
+      "author": "rvgye",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2025-11-19T23:40:20+00:00",
+    "modifiedDate": "",
+    "author": "rvgye",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  },
+  "tank-pumping": {
+    "slug": "tank-pumping",
+    "title": "Tank Pumping - Valley Septic Services",
+    "description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+    "canonical": "https://valleyseptic.ca/tank-pumping/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Tank Pumping - Valley Septic Services",
+      "og:description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+      "og:url": "https://valleyseptic.ca/tank-pumping/",
+      "og:site_name": "Valley Septic Services & Tank Pumping",
+      "og:updated_time": "2026-04-23T20:27:58+00:00",
+      "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "og:image:width": "1000",
+      "og:image:height": "300",
+      "og:image:alt": "Tank Pumping",
+      "og:image:type": "image/webp",
+      "og:image_local": "/images/2024/09/SepticNewLogo.webp"
+    },
+    "tw": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tank Pumping - Valley Septic Services",
+      "twitter:description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+      "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+      "twitter:label1": "Time to read",
+      "twitter:data1": "117 minutes"
+    },
+    "h1": [
+      "Expert Septic Tank Pumping in Fraser Valley"
+    ],
+    "h2": [
+      "Septic Pumping",
+      "Our Tank Pumping Process",
+      "Why Choose Valley Septic?"
+    ],
+    "h3": [
+      "Keep Your System Running Smoothly",
+      "Why Trust Valley Septic with Your Tank Pumping?",
+      "1. Initial Assessment",
+      "2. Tank Opening and Inspection",
+      "3. Pumping and Cleaning",
+      "4. System Check",
+      "5. Refill and Close",
+      "6. Final Review",
+      "Septic Tank Pumping FAQ",
+      "Serving the Fraser Valley with Pride",
+      "CONTACT VALLEY SEPTIC SERVICES"
+    ],
+    "h4": [
+      "Local Expertise",
+      "Advanced Equipment",
+      "Thorough Inspection",
+      "Tailored Advice",
+      "Thorough Care, Step by Step",
+      "What's the recommended frequency for septic tank pumping?",
+      "Are there signs that indicate my septic tank needs pumping?",
+      "What exactly happens during the septic tank pumping process?",
+      "Is septic tank pumping a messy procedure?",
+      "Why should I choose Valley Septic for my septic tank pumping needs?",
+      "Septic and Plumbing Solutions",
+      "24/7 Emergency Service",
+      "Local Experts",
+      "Environmentally Responsible",
+      "Certified Professionals",
+      "Ongoing Maintenance",
+      "We Proudly Serve:",
+      "Services",
+      "Service Areas"
+    ],
+    "schemaTypes": [
+      "Place",
+      "LocalBusiness+Organization",
+      "WebSite",
+      "ImageObject",
+      "WebPage",
+      "Person",
+      "Article",
+      "LocalBusiness"
+    ],
+    "articleSchema": {
+      "headline": "Tank Pumping - Valley Septic Services",
+      "description": "Expert septic tank pumping in Fraser Valley. Prevent backups and maintain efficiency with thorough pumping and inspections.",
+      "datePublished": "2024-08-27T17:15:10+00:00",
+      "dateModified": "2026-04-23T20:27:58+00:00",
+      "author": "bullfinch",
+      "image": {
+        "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+      }
+    },
+    "breadcrumb": [],
+    "heroImage": "/images/2024/09/SepticNewLogo-1.webp",
+    "publishedDate": "2024-08-27T17:15:10+00:00",
+    "modifiedDate": "2026-04-23T20:27:58+00:00",
+    "author": "bullfinch",
+    "category": "",
+    "ogImageUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "ogImageWidth": "1000",
+    "ogImageHeight": "300",
+    "ogImageType": "image/webp",
+    "twitterImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+  }
+}

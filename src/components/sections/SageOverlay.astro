@@ -1,0 +1,71 @@
+---
+export interface Props {
+  eyebrow?: string;
+  title?: string;
+  text?: string;
+  ctaText?: string;
+  ctaHref?: string;
+  overlap?: boolean;
+}
+
+const {
+  eyebrow,
+  title,
+  text,
+  ctaText = "Get In Touch",
+  ctaHref = "/contact/",
+  overlap = false,
+} = Astro.props;
+---
+<section class={`sage-overlay ${overlap ? "sage-overlay--overlap" : ""}`}>
+  <div class="container">
+    <div class="sage-overlay__card reveal">
+      {eyebrow && <p class="eyebrow eyebrow--tan">{eyebrow}</p>}
+      {title && <h2 class="sage-overlay__title">{title}</h2>}
+      {text && <p class="sage-overlay__text">{text}</p>}
+      <slot />
+      {ctaText && <a href={ctaHref} class="btn btn-dark">{ctaText}</a>}
+    </div>
+  </div>
+</section>
+
+<style>
+  .sage-overlay {
+    padding: var(--space-7) 0 var(--space-9);
+    position: relative;
+  }
+  /* When the previous section is dark (PageHeader dark), the card overlaps up
+     into it to recreate the source's signature card-overlay layout. */
+  .sage-overlay--overlap {
+    margin-top: -90px;
+    z-index: 2;
+  }
+  .sage-overlay__card {
+    background: var(--c-sage);
+    color: var(--c-white);
+    padding: clamp(32px, 5vw, 72px) clamp(28px, 6vw, 96px);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .sage-overlay__card .eyebrow--tan { color: var(--c-tan); margin-bottom: var(--space-3); }
+  .sage-overlay__title {
+    color: var(--c-white);
+    font-size: clamp(28px, 3vw, 40px);
+    text-transform: uppercase;
+    line-height: 1.1;
+    margin: 0 0 var(--space-3);
+  }
+  .sage-overlay__text {
+    color: rgba(255,255,255,0.93);
+    font-size: 16px;
+    line-height: 1.72;
+    margin: 0 0 var(--space-4);
+  }
+  @media (max-width: 900px) {
+    .sage-overlay { padding-top: var(--space-5); }
+    .sage-overlay--overlap { margin-top: 0; }
+    .sage-overlay__card { margin: 0 auto; }
+  }
+</style>

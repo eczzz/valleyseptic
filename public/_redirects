@@ -1,0 +1,6 @@
+# Netlify-style redirects.
+# Preserves URL aliases that existed on the source WordPress site.
+/septic-tank-cleaning-abbotsford   /septic-services-abbotsford/  301
+/septic-tank-cleaning-abbotsford/  /septic-services-abbotsford/  301
+# Sitemap convenience aliases
+/sitemap.xml  /sitemap-index.xml  301

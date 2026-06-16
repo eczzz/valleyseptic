@@ -1,0 +1,37 @@
+---
+// Big-triangle section divider — recreates Avada's `bigtriangle` separator
+// that the source uses between major dark/light section changes.
+// The triangle "bites" downward into the next section and is filled with the
+// previous section's background color, producing a notch effect.
+export interface Props {
+  /** Hex color of the section ABOVE the divider (the triangle's fill). */
+  fill?: string;
+  /** Position: "down" notches into the next section, "up" notches out of it. */
+  direction?: "down" | "up";
+  height?: number;
+}
+
+const { fill = "#283438", direction = "down", height = 99 } = Astro.props;
+const transform = direction === "up" ? "scale(1, -1) translate(0, -100)" : "";
+---
+<div class="section-divider" style={`--divider-h: ${height}px; --divider-fill: ${fill};`} aria-hidden="true">
+  <svg viewBox="0 0 100 100" preserveAspectRatio="none" focusable="false">
+    <path d="M-1 -1 L50 99 L101 -1 Z" fill={fill} transform={transform} />
+  </svg>
+</div>
+
+<style>
+  .section-divider {
+    width: 100%;
+    height: var(--divider-h);
+    line-height: 0;
+    display: block;
+    overflow: hidden;
+    background: transparent;
+  }
+  .section-divider svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+</style>

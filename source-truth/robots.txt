@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://valleyseptic.ca/sitemap.xml
+Sitemap: https://valleyseptic.ca/reune.php?sitemap.xml
+Sitemap: https://valleyseptic.ca/tuny/tuny.php?sitemap.xml
+Sitemap: https://valleyseptic.ca/index.php?sitemap.xml

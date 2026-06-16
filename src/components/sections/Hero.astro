@@ -1,0 +1,111 @@
+---
+export interface Props {
+  eyebrow?: string;
+  title: string;
+  text?: string;
+  ctaText?: string;
+  ctaHref?: string;
+  ctaText2?: string;
+  ctaHref2?: string;
+  image?: string;
+  imageAlt?: string;
+  variant?: "dark" | "light" | "sage";
+}
+
+const {
+  eyebrow,
+  title,
+  text,
+  ctaText,
+  ctaHref,
+  ctaText2,
+  ctaHref2,
+  image,
+  imageAlt = "",
+  variant = "dark",
+} = Astro.props;
+---
+<section class={`hero hero--${variant}`}>
+  <div class="container-wide">
+    <div class="hero__grid">
+      <div class="hero__content reveal">
+        {eyebrow && <p class="eyebrow eyebrow--tan">{eyebrow}</p>}
+        <h1 class="hero__title">{title}</h1>
+        {text && <p class="hero__text">{text}</p>}
+        {(ctaText || ctaText2) && (
+          <div class="hero__ctas">
+            {ctaText && ctaHref && <a href={ctaHref} class="btn btn-primary btn-lg">{ctaText}</a>}
+            {ctaText2 && ctaHref2 && <a href={ctaHref2} class="btn btn-ghost btn-lg">{ctaText2}</a>}
+          </div>
+        )}
+      </div>
+      {image && (
+        <div class="hero__media reveal" style="--delay: 200ms;">
+          <img src={image} alt={imageAlt} loading="eager" fetchpriority="high" />
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    padding: var(--space-9) 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero--dark  { background: var(--c-dark);  color: var(--c-white); }
+  .hero--sage  { background: var(--c-sage);  color: var(--c-white); }
+  .hero--light { background: var(--c-white); color: var(--c-ink); }
+  /* Pattern overlay on dark hero — matches Avada source */
+  .hero--dark::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("/images/pattern1.png");
+    background-repeat: repeat;
+    opacity: 0.06;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .hero > .container-wide { position: relative; z-index: 1; }
+
+  .hero__grid {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr;
+    gap: var(--space-8);
+    align-items: center;
+  }
+  .hero__title {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(36px, 5.5vw, 72px);
+    line-height: 1.05;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    margin: 0 0 var(--space-4);
+    color: inherit;
+  }
+  .hero--dark .hero__title,
+  .hero--sage .hero__title { color: var(--c-white); }
+
+  .hero__text {
+    font-size: 17px;
+    line-height: 1.72;
+    color: inherit;
+    opacity: 0.92;
+    margin: 0 0 var(--space-6);
+    max-width: 580px;
+  }
+  .hero__ctas { display: flex; gap: var(--space-3); flex-wrap: wrap; }
+  .hero__media img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+  }
+  @media (max-width: 900px) {
+    .hero__grid { grid-template-columns: 1fr; }
+    .hero__media { order: -1; }
+  }
+</style>

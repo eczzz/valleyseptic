@@ -1,0 +1,245 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/sections/PageHeader.astro";
+import { SITE } from "../../config/site";
+import { POSTS } from "../../data/posts";
+import { POST_META } from "../../data/page-metadata";
+import { pageSchema } from "../../lib/schema";
+import { PORT_CSS } from "../../data/source-port/css-manifest";
+import { PORT_BODY_CLASS } from "../../data/source-port/body-classes";
+
+const url = `${SITE.url}/articles/`;
+const title = `Articles | ${SITE.name}`;
+const description = "Septic system tips, maintenance guidance, and Fraser Valley-specific advice from the Valley Septic team.";
+const schema = pageSchema({
+  url,
+  title,
+  description,
+  image: SITE.url + SITE.ogImage,
+  ogType: "website",
+  author: "Valley Septic",
+});
+
+const postsWithMeta = POSTS.map(p => {
+  const m = POST_META[p.slug as keyof typeof POST_META];
+  return {
+    ...p,
+    title: m?.h1 || p.title,
+    excerpt: m?.description || p.excerpt,
+    image: m?.ogImageLocal || p.image,
+    author: m?.author || p.author,
+  };
+});
+
+const htmlModules = import.meta.glob("../../data/source-port/*.html", { query: "?raw", import: "default", eager: true });
+const headerHtml = (htmlModules["../../data/source-port/about.header.html"] as string) ?? "";
+const footerHtml = (htmlModules["../../data/source-port/about.footer.html"] as string) ?? "";
+const scriptsHtml = (htmlModules["../../data/source-port/about.scripts.html"] as string) ?? "";
+const contactSectionHtml = (htmlModules["../../data/source-port/shared-contact-section.html"] as string) ?? "";
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={url}
+  ogImage={SITE.ogImage}
+  ogType="website"
+  schema={schema}
+  portMode={true}
+  portCss={PORT_CSS["about"]}
+  bodyClass={PORT_BODY_CLASS["about"]}
+>
+  {PORT_CSS["about"].map(href => <link rel="stylesheet" href={href} />)}
+  <div id="boxed-wrapper">
+    <div id="wrapper" class="fusion-wrapper">
+      {headerHtml && <Fragment set:html={headerHtml} />}
+      <div id="sliders-container" class="fusion-slider-visibility"></div>
+      <main id="main" class="clearfix width-100" style="padding-top:0">
+        <PageHeader
+          eyebrow="Our Articles"
+          title="Septic system tips & local advice"
+          subtitle="Maintenance guidance, troubleshooting, and Fraser Valley-specific articles from the Valley Septic team."
+        />
+
+        <section class="section">
+          <div class="container">
+            <div class="grid grid-3">
+              {postsWithMeta.map(p => (
+                <article class="post-card">
+                  <a href={p.href} class="post-card__image">
+                    <img src={p.image} alt={p.title} loading="lazy" />
+                  </a>
+                  <div class="post-card__body">
+                    <h3 class="post-card__title"><a href={p.href}>{p.title}</a></h3>
+                    <p class="post-card__meta">{p.date} · {p.author}</p>
+                    <p class="post-card__excerpt">{p.excerpt}</p>
+                    <a href={p.href} class="post-card__cta">Read more →</a>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {contactSectionHtml && <Fragment set:html={contactSectionHtml} />}
+      </main>
+      {footerHtml && <Fragment set:html={footerHtml} />}
+    </div>
+  </div>
+  {scriptsHtml && <Fragment set:html={scriptsHtml} />}
+  {scriptsHtml && (
+    <script is:inline>
+      (function () {
+        var booted = false;
+        function boot() {
+          if (booted) return; booted = true;
+          var nodes = [].slice.call(document.querySelectorAll('script[data-port-lazy]'));
+          (function run(i) {
+            if (i >= nodes.length) return;
+            var src = nodes[i].getAttribute('data-src');
+            var s = document.createElement('script');
+            if (src) {
+              s.src = src;
+              s.onload = s.onerror = function () { run(i + 1); };
+              document.body.appendChild(s);
+            } else {
+              s.textContent = nodes[i].textContent;
+              document.body.appendChild(s);
+              run(i + 1);
+            }
+          })(0);
+        }
+        ['pointerdown', 'keydown', 'touchstart', 'scroll', 'mousemove'].forEach(function (e) {
+          window.addEventListener(e, boot, { once: true, passive: true });
+        });
+        if ('requestIdleCallback' in window) requestIdleCallback(boot, { timeout: 2500 });
+        else setTimeout(boot, 1800);
+      })();
+    </script>
+  )}
+  <script is:inline>
+    (function () {
+      if (window.__vsContactBound) return;
+      window.__vsContactBound = true;
+      var ENDPOINT = '/.netlify/functions/contact';
+
+      function val(form, n) {
+        var el = form.querySelector('[name="' + n + '"]');
+        return el ? String(el.value || '').trim() : '';
+      }
+      function showMsg(el, msg) {
+        if (!el) return;
+        if (msg) (el.querySelector('.fusion-alert-content') || el).textContent = msg;
+        el.style.display = 'block';
+      }
+
+      function handleForm(form) {
+        if (!form || form.dataset.vsSending === '1') return;
+
+        var notices = form.querySelector('.form-submission-notices') || form;
+        var okEl = notices.querySelector('.fusion-form-response-success');
+        var errEl = notices.querySelector('.fusion-form-response-error');
+        if (okEl) okEl.style.display = 'none';
+        if (errEl) errEl.style.display = 'none';
+
+        var data = {
+          name: val(form, 'name'), email: val(form, 'email'), phone: val(form, 'phone'),
+          city: val(form, 'city'), Address: val(form, 'Address'), subject: val(form, 'subject'),
+          message: val(form, 'message'), hp_check: val(form, 'hp_check')
+        };
+        if (!data.name || !data.email || !data.message) {
+          showMsg(errEl, 'Please fill in your name, email, and message.');
+          return;
+        }
+
+        var btn = form.querySelector('button[type="submit"]');
+        var label = btn && btn.querySelector('.fusion-button-text');
+        var labelText = label ? label.textContent : '';
+        form.dataset.vsSending = '1';
+        if (btn) btn.disabled = true;
+        if (label) label.textContent = 'Sending…';
+
+        fetch(ENDPOINT, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        })
+          .then(function (r) { return r.json().catch(function () { return { ok: r.ok }; }); })
+          .then(function (res) {
+            if (res && res.ok) {
+              showMsg(okEl);
+              form.querySelectorAll('input, textarea').forEach(function (i) {
+                if (i.type !== 'submit' && i.type !== 'button') i.value = '';
+              });
+            } else {
+              showMsg(errEl, (res && res.error) || 'Sorry — your message could not be sent. Please call us.');
+            }
+          })
+          .catch(function () {
+            showMsg(errEl, 'Network error — please try again, or call us.');
+          })
+          .finally(function () {
+            form.dataset.vsSending = '';
+            if (btn) btn.disabled = false;
+            if (label) label.textContent = labelText || 'Submit';
+          });
+      }
+
+      document.addEventListener('submit', function (e) {
+        var form = e.target;
+        if (!form || !form.classList || !form.classList.contains('fusion-form')) return;
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        handleForm(form);
+      }, true);
+
+      document.addEventListener('click', function (e) {
+        var btn = e.target && e.target.closest && e.target.closest('button[type="submit"], input[type="submit"]');
+        if (!btn) return;
+        var form = btn.closest('form.fusion-form');
+        if (!form) return;
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        handleForm(form);
+      }, true);
+    })();
+  </script>
+</BaseLayout>
+
+<style>
+  .post-card {
+    background: var(--c-white);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    border: 1px solid var(--c-border);
+    transition: transform 200ms ease, box-shadow 200ms ease;
+    display: flex;
+    flex-direction: column;
+  }
+  .post-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+  .post-card__image {
+    display: block;
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    background: var(--c-cream);
+  }
+  .post-card__image img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    transition: transform 300ms ease;
+  }
+  .post-card:hover .post-card__image img { transform: scale(1.04); }
+  .post-card__body { padding: var(--space-5); flex: 1; display: flex; flex-direction: column; }
+  .post-card__title { font-size: 22px; margin: 0 0 8px; }
+  .post-card__title a { color: inherit; text-decoration: none; }
+  .post-card__title a:hover { color: var(--c-primary); }
+  .post-card__meta { font-size: 13px; color: var(--c-text-muted); margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; }
+  .post-card__excerpt { font-size: 15px; color: var(--c-text-muted); margin: 0 0 var(--space-4); flex: 1; }
+  .post-card__cta {
+    font-family: var(--font-heading);
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-primary);
+  }
+</style>

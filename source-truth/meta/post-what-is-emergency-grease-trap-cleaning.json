@@ -1,0 +1,436 @@
+{
+  "slug": "post-what-is-emergency-grease-trap-cleaning",
+  "title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+  "metaDesc": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+  "canonical": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+    "og:description": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+    "og:url": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+    "og:image:width": "1024",
+    "og:image:height": "553",
+    "og:image:alt": "What Is Emergency Grease Trap Cleaning?",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+    "twitter:description": "Emergency grease trap cleaning happens when your commercial kitchen's grease trap fails during business hours and you need immediate service to avoid shutting",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1024x553.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "ValleySeptic",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "3 minutes"
+  },
+  "schemaCount": 4,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp",
+          "width": "2221",
+          "height": "1200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/#webpage",
+          "url": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/",
+          "name": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+          "datePublished": "2026-04-02T23:19:17+00:00",
+          "dateModified": "2026-04-02T23:19:17+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/valleyseptic/",
+          "name": "ValleySeptic",
+          "url": "https://valleyseptic.ca/author/valleyseptic/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "caption": "ValleySeptic",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+          "datePublished": "2026-04-02T23:19:17+00:00",
+          "dateModified": "2026-04-02T23:19:17+00:00",
+          "articleSection": "Uncategorized",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/valleyseptic/",
+            "name": "ValleySeptic"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Emergency grease trap cleaning happens when your commercial kitchen&#039;s grease trap fails during business hours and you need immediate service to avoid shutting",
+          "name": "What Is Emergency Grease Trap Cleaning? - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/what-is-emergency-grease-trap-cleaning/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Uncategorized",
+          "item": "https://valleyseptic.ca/category/uncategorized/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "What Is Emergency Grease Trap Cleaning?",
+      "datePublished": "2026-04-02T23:19:17+00:00",
+      "dateModified": "2025-12-10T23:43:41+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "ValleySeptic",
+        "url": "https://valleyseptic.ca/author/valleyseptic/"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "What Is Emergency Grease Trap Cleaning?"
+    },
+    {
+      "tag": "h2",
+      "text": "When Regular Maintenance Becomes an Emergency"
+    },
+    {
+      "tag": "h2",
+      "text": "What Triggers Emergency Grease Trap Service"
+    },
+    {
+      "tag": "h2",
+      "text": "The Real Cost of Emergency Service"
+    },
+    {
+      "tag": "h2",
+      "text": "How Emergency Service Works"
+    },
+    {
+      "tag": "h2",
+      "text": "Prevention Beats Emergency Every Time"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "How Does a Septic Alarm Work?"
+    },
+    {
+      "tag": "h4",
+      "text": "How Long Does a Septic Inspection Take?"
+    },
+    {
+      "tag": "h4",
+      "text": "The Importance of Perimeter Drainage"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "UncategorizedWhat Is Emergency Grease Trap Cleaning?What Is Emergency Grease Trap Cleaning?By ValleySepticPublished On: April 2, 2026Last Updated: December 10, 20253.8 min readGet in TouchTable of contentsWhen Regular Maintenance Becomes an EmergencyWhat Triggers Emergency Grease Trap ServiceThe Real Cost of Emergency ServiceHow Emergency Service WorksPrevention Beats Emergency Every TimeShare PostEmergency grease trap cleaning happens when your commercial kitchen’s grease trap fails during business hours and you need immediate service to avoid shutting down. This isn’t scheduled maintenance. This is a restaurant full of customers and a kitchen that can’t function because wastewater has nowhere to go. Your grease trap collects fats, oils, and grease before they enter the sewer system. When it’s full or blocked, water backs up into sinks, dishwashers stop draining, and your kitchen grinds to a halt. Commercial kitchens are required by law to maintain functional grease traps. Emergency cleaning gets you operational again, fast. When Regular Maintenance Becomes an Emergency Most restaurants schedule grease trap service every few weeks or months depending on volume. You book it during slow hours, and the technician empties the trap before it becomes a problem. Emergency cleaning happens when you skip maintenance or face unexpected circumstances. A trap that’s 75% full doesn’t become a problem until it hits 90%, then suddenly it’s backing up. The difference between regular maintenance and emergency service is timing. The real difference is what it costs you. Kitchens in Abbotsford, Chilliwack, Mission, and throughout the Fraser Valley rely on functional grease traps to stay open. When your trap fails during Saturday dinner rush, you’re not thinking about preventive maintenance. You’re thinking about the money you’re losing every minute. What Triggers Emergency Grease Trap Service Heavy volume periods overwhelm undersized or poorly maintained traps. A restaurant getting by with monthly service suddenly has a busy holiday season. The trap fills faster than expected, and water backs up during your busiest service. Blockages happen without warning. Large volumes of grease or accumulated solids block the outlet baffle. Your kitchen backs up and you need emergency service. Equipment malfunctions create emergencies. Mechanical grease traps have moving parts that fail. When these systems stop working during business hours, you’re calling for emergency service. Forgotten maintenance schedules are the most common cause. Your service is overdue, nobody scheduled it, and now you’re dealing with consequences during peak hours. The Real Cost of Emergency Service Emergency grease trap cleaning costs more than scheduled service. Technicians charge premium rates for after-hours calls and immediate response. Lost revenue during downtime exceeds the service fee. If your kitchen is down for two hours during dinner service, calculate the money you’re not making. Add the customers you’ve turned away and the staff you’re still paying. Health code violations carry their own costs. Operating with a non-functional grease trap violates health codes. If an inspector shows up, you’re looking at fines and possibly a temporary closure. Staff and customer disruption affects your business. A kitchen backing up during service creates chaos. Even after service resumes, you’ve lost momentum. How Emergency Service Works You call a service provider offering 24/7 emergency response. They send a crew immediately or as soon as possible. The technician arrives with a vacuum truck and pumping equipment. They pump out the trap, check for blockages or damage, and get your system functional. Emergency cleaning focuses on restoring function so you can continue operating. Good emergency service gets you operational in an hour or two. Fast response is what you’re paying for with emergency rates. After emergency service, you schedule regular maintenance to avoid repeating the situ",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp",
+      "alt": "",
+      "w": "2221",
+      "h": "1200",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-200x108.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-400x216.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-600x324.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-800x432.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-1200x648.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3.webp 2221w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-1024x585.webp",
+      "alt": "",
+      "w": "1024",
+      "h": "585",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-200x114.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-300x171.webp 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-400x229.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-600x343.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-768x439.webp 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-800x457.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-1024x585.webp 1024w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-1200x686.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap2-1536x878.webp 1536w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383.webp",
+      "alt": "How Does a Septic Alarm Work?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383.webp",
+      "alt": "How Long Does a Septic Inspection Take?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp",
+      "alt": "The Importance of Perimeter Drainage",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color8)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "related-posts single-related-posts fusion-related-tb fusion-related-tb-1",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

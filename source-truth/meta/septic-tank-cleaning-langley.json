@@ -1,0 +1,819 @@
+{
+  "slug": "septic-tank-cleaning-langley",
+  "title": "Septic Tank Cleaning Langley - Valley Septic Services",
+  "metaDesc": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+  "canonical": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Tank Cleaning Langley - Valley Septic Services",
+    "og:description": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+    "og:url": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Tank Cleaning Langley",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Tank Cleaning Langley - Valley Septic Services",
+    "twitter:description": "Expert septic tank pumping in Langley & throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "115 minutes"
+  },
+  "schemaCount": 3,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-tank-cleaning-langley/#webpage",
+          "url": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+          "name": "Septic Tank Cleaning Langley - Valley Septic Services",
+          "datePublished": "2025-12-02T16:30:47+00:00",
+          "dateModified": "2025-12-02T16:30:47+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/rvgye/",
+          "name": "rvgye",
+          "url": "https://valleyseptic.ca/author/rvgye/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/ed9fb768837d1c3894372c84aa9e55b3324b9dfef8d9fa041ca80347db6de389?s=96&amp;d=mm&amp;r=g",
+            "caption": "rvgye",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Septic Tank Cleaning Langley - Valley Septic Services",
+          "datePublished": "2025-12-02T16:30:47+00:00",
+          "dateModified": "2025-12-02T16:30:47+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/rvgye/",
+            "name": "rvgye"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Expert septic tank pumping in Langley &amp; throughout The Fraser Valley. Prevent backups and maintain efficiency with complete pumping and inspections.",
+          "name": "Septic Tank Cleaning Langley - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-tank-cleaning-langley/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-tank-cleaning-langley/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-tank-cleaning-langley/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "WebPage",
+        "FAQPage"
+      ],
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What should I avoid flushing to ensure my septic system works well in Langley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Avoid flushing wipes, grease, hygiene products, or harsh chemicals, as they can clog the system or interfere with the natural bacteria needed for proper waste breakdown.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an ideal time of year to schedule septic tank cleaning in Langley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>In Langley, spring and fall are common seasons for septic maintenance because the mild weather makes it easier to access and service the system.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do Langley&#8217;s seasonal changes affect septic tank performance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Seasonal weather shifts, especially periods of heavy rain, can saturate the drain field and reduce how well your septic system works. Keeping up with regular maintenance helps your system stay reliable through changing conditions.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can septic tank cleaning help with reducing odors around my Langley property?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Yes, routine cleaning clears out the waste and gases that create unpleasant odours, helping keep the area around your property smelling fresh.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there environmental risks if I delay cleaning my septic tank in Langley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Putting off a cleaning can cause the system to overflow, which risks contaminating groundwater and nearby waterways. Regular maintenance helps protect your property and the environment.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the frequency of septic tank cleaning vary for rural properties in Langley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Rural properties with larger tanks or fewer residents often only need cleaning every 3 to 5 years, older systems or households with heavier usage may require more frequent maintenance.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What specific regulations apply to septic tank maintenance in Langley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Septic systems in Langley must follow provincial standards set by the BC Ministry of Health, and homeowners are responsible for maintaining their systems regularly to help prevent environmental concerns.</p>\n"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I tell if my septic tank needs cleaning in Langley&#8217;s climate and soil conditions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Common warning signs include slow drains, gurgling pipes, unpleasant odours around the tank, or pooling water in the drain field, and regular inspections can help catch the need for cleaning early.</p>\n"
+          }
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Keeping Your Langley HOME Running Smoothly"
+    },
+    {
+      "tag": "h1",
+      "text": "Professional Septic Tank CLeaning in Langley"
+    },
+    {
+      "tag": "h2",
+      "text": "Septic Tank Cleaning Service"
+    },
+    {
+      "tag": "h3",
+      "text": "Why Trust Valley Septic with Your Tank Cleaning?"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Expertise"
+    },
+    {
+      "tag": "h4",
+      "text": "Advanced Techniques"
+    },
+    {
+      "tag": "h4",
+      "text": "Comprehensive Inspection"
+    },
+    {
+      "tag": "h4",
+      "text": "Personalized Advice"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Care, Step by Step"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Tank Cleaning Process"
+    },
+    {
+      "tag": "h3",
+      "text": "1. Initial Assessment"
+    },
+    {
+      "tag": "h3",
+      "text": "2. Tank Opening and Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "3. Pumping and Cleaning"
+    },
+    {
+      "tag": "h3",
+      "text": "4. System Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "5. Refill and Close"
+    },
+    {
+      "tag": "h3",
+      "text": "6. Final Review"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Tank Pumping FAQ"
+    },
+    {
+      "tag": "h2",
+      "text": "What should I avoid flushing to ensure my septic system works well in Langley?"
+    },
+    {
+      "tag": "h2",
+      "text": "Is there an ideal time of year to schedule septic tank cleaning in Langley?"
+    },
+    {
+      "tag": "h2",
+      "text": "How do Langley’s seasonal changes affect septic tank performance?"
+    },
+    {
+      "tag": "h2",
+      "text": "Can septic tank cleaning help with reducing odors around my Langley property?"
+    },
+    {
+      "tag": "h2",
+      "text": "Are there environmental risks if I delay cleaning my septic tank in Langley?"
+    },
+    {
+      "tag": "h2",
+      "text": "How does the frequency of septic tank cleaning vary for rural properties in Langley?"
+    },
+    {
+      "tag": "h2",
+      "text": "What specific regulations apply to septic tank maintenance in Langley?"
+    },
+    {
+      "tag": "h2",
+      "text": "How can I tell if my septic tank needs cleaning in Langley’s climate and soil conditions?"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic Service solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving the Fraser Valley with Pride"
+    },
+    {
+      "tag": "h4",
+      "text": "We Proudly Serve:"
+    },
+    {
+      "tag": "h3",
+      "text": "CONTACT VALLEY SEPTIC & PLUMBING"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic Tank Cleaning Langleyrvgye2025-12-02T16:30:47+00:00 Keeping Your Langley HOME Running SmoothlyProfessional Septic Tank CLeaning in LangleyKeep your Langley home running smoothly with our professional septic tank cleaning services. At Valley Septic, we’re dedicated to safeguarding your system’s performance and lifespan. Our trained technicians clear away built‑up sludge and scum, preventing blockages so your septic system stays reliable for years to come. Learn MoreSeptic Tank Cleaning ServiceAbout Your Septic System Every septic tank develops two layers over time: heavier solids settle into sludge at the bottom and lighter oils and grease form a scum layer on top. These layers accumulate and can back up into your home or harm the environment. Our scheduled cleaning service removes this build‑up, keeping the tank functioning efficiently and avoiding costly repairs. Get In TouchWhy Trust Valley Septic with Your Tank Cleaning?0%Customer Satisfaction0+Years Serving Fraser ValleyLocal ExpertiseExperienced technicians with deep knowledge of Fraser Valley’s unique septic challenges. Advanced TechniquesWe use the latest equipment for thorough cleaning and efficient waste removal. Comprehensive InspectionDetailed system checks during cleaning to catch potential issues early. Personalized AdviceCustom maintenance tips to help prolong your septic system’s lifespan Thorough Care, Step by StepOur Tank Cleaning Process01. Expert inspections 02. Efficient pumping 03. Commercial maintenance 04. Emergency response 1. Initial Assessment We locate and access your septic tank, inspecting the exterior for any visible signs of damage or wear. 2. Tank Opening and Inspection The tank lid is safely opened, and we assess the levels of sludge and scum to determine the scope of cleaning needed. 3. Pumping and Cleaning Using advanced pumping equipment, we remove all waste efficiently, leaving your tank clean and functional. 4. System Inspection Our team examines inlet and outlet pipes to identify any damage or blockages that could impact system performance. 5. Refill and Close After cleaning, we allow natural bacteria to begin restoring the tank's ecosystem. The lid is securely sealed. 6. Final Review We clean up the area and provide you with a detailed report, along with tailored advice for ongoing septic maintenance. Get In TouchSeptic Tank Pumping FAQ.fusion-faqs-wrapper #accordian-1 .fusion-panel { border-color:var(--awb-color3); }.fusion-faqs-wrapper #accordian-1 .fusion-panel:hover{ border-color: var(--awb-color3); }.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box:before{ font-size: 16px;width: 16px;}.fusion-accordian #accordian-1 .panel-title a .fa-fusion-box{ color: var(--awb-color1);}.fusion-accordian #accordian-1 .panel-title a{font-family:var(--awb-typography1-font-family);font-weight:var(--awb-typography1-font-weight);font-style:var(--awb-typography1-font-style);}.fusion-accordian #accordian-1 .panel-title a:not(:hover){}.fusion-accordian #accordian-1 .toggle-content{font-family:var(--awb-typography4-font-family);font-weight:var(--awb-typography4-font-weight);font-style:var(--awb-typography4-font-style);}.fusion-accordian #accordian-1 .fa-fusion-box { background-color: var(--awb-color7) !important;border-color: var(--awb-color7) !important;}.fusion-accordian #accordian-1 .panel-title a:hover,.fusion-accordian #accordian-1 .panel-title a.hover { color: var(--awb-color4);}.fusion-faq-shortcode .fusion-accordian #accordian-1 .fusion-toggle-boxed-mode:hover .panel-title a { color: var(--awb-color4);}.fusion-accordian #accordian-1 .panel-title .active .fa-fusion-box,.fusion-accordian #accordian-1 .panel-title a:hover .fa-fusion-box,.fusion-accordian #accordian-1 .panel-title a.hover .fa-fusion-box { background-color: var(--awb-color4)!important;border-color: var(--awb-color4)!important;}What should I avoid flushing to ensure my septic system works well in Langley?rvgye2025-11-17T21:20:58+00:00What should I avoid flushing to ensur",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley.webp",
+      "alt": "",
+      "w": "1024",
+      "h": "1536",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley-200x300.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley-400x600.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley-600x900.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley-800x1200.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-tank-langley.webp 1024w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley.webp",
+      "alt": "",
+      "w": "1920",
+      "h": "1080",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley-200x113.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley-400x225.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley-600x338.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley-800x450.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley-1200x675.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/11/Pump-hero-langley.webp 1920w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley.webp",
+      "alt": "",
+      "w": "1536",
+      "h": "1024",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley-200x133.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley-400x267.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley-600x400.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley-800x533.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley-1200x800.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-lid-langley.webp 1536w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley.webp",
+      "alt": "",
+      "w": "1536",
+      "h": "1024",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley-200x133.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley-400x267.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley-600x400.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley-800x533.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley-1200x800.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/11/septic-truck-langley.webp 1536w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png",
+      "alt": "",
+      "w": "2628",
+      "h": "662",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-200x50.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-400x101.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-600x151.png 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-800x202.png 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-1200x302.png 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png 2628w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/septic-tank-cleaning-langley/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2025/01/tank-cleaning-abbotsford.webp",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-10 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

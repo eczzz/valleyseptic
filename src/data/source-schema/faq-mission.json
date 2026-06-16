@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "WebPage",
+    "FAQPage"
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I avoid flushing to ensure my septic system works well in Mission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Do not flush wipes, grease, diapers, hygiene products, or chemical cleaners. These items can clog pipes or disrupt natural bacterial processes.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an ideal time of year to schedule septic tank cleaning in Mission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Spring and early fall generally provide the best ground conditions for system access.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Mission&#8217;s seasonal changes affect septic tank performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Heavy rainfall can saturate soil around the drain field, making proper system function more difficult. A clean tank helps your system manage seasonal changes safely.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can septic tank cleaning help with reducing odors around my Mission property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Yes — removing built-up waste and gases helps eliminate foul odours, improving overall air quality around your home.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there environmental risks if I delay cleaning my septic tank in Mission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p data-start=\"4132\" data-end=\"4236\">Delays can lead to drain field oversaturation, backups, environmental contamination, and costly repairs.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the frequency of septic tank cleaning vary for rural properties in Mission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Homes with larger tanks or fewer residents may need service every 3–5 years. Older systems, high-usage households, and properties with challenging soil may require cleaning more frequently.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What specific regulations apply to septic tank maintenance in Mission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p data-start=\"3605\" data-end=\"3785\">Mission homeowners must follow provincial guidelines set by the BC Ministry of Health. Regular maintenance is required to prevent contamination of groundwater and nearby waterways.</p>\n"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I tell if my septic tank needs cleaning in Mission&#8217;s climate and soil conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Slow drains, gurgling pipes, sewage odours outdoors, or wet patches in the yard are all signs your tank may be overdue for service. Properties on slopes or with clay soil may notice symptoms earlier.</p>\n"
+      }
+    }
+  ]
+}

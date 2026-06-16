@@ -1,0 +1,33 @@
+# Netlify build + functions configuration.
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+# Contact-form handler (SMTP2Go relay).
+[functions]
+  node_bundler = "esbuild"
+
+[functions."contact"]
+  # No special config — reads SMTP2GO_API_KEY / CONTACT_TO / CONTACT_BCC
+  # from the site environment.
+
+# /author/<name>/ URLs exist only inside JSON-LD schema (every page emits a
+# Person node with @id = /author/<author>.toLowerCase()/), but no /author/
+# pages exist on the static site. Redirect any crawler that follows them to
+# the homepage. The wildcard covers bullfinch, rvgye, gdcoy, valleyseptic,
+# and any future author added to src/data/page-metadata.ts.
+[[redirects]]
+  from = "/author/*"
+  to = "/"
+  status = 301
+
+# 404'd URLs from the audit that should land on the homepage.
+[[redirects]]
+  from = "/sump-pump-repairs/"
+  to = "/"
+  status = 301
+[[redirects]]
+  from = "/sump-pump-repairs"
+  to = "/"
+  status = 301

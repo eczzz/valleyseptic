@@ -1,0 +1,45 @@
+---
+// Renders a full BaseLayout + SourcePort for one of the ported WordPress
+// pages. Centralizes the meta/schema/body-class wiring so every port-backed
+// page (home, about, services, areas, posts) stays in sync.
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SourcePort from "./SourcePort.astro";
+import { PORT_BODY_CLASS } from "../../data/source-port/body-classes";
+import { PORT_CSS } from "../../data/source-port/css-manifest";
+import { SITE } from "../../config/site";
+import type { PageMeta } from "../../data/page-metadata";
+import { pageSchema } from "../../lib/schema";
+
+export interface Props {
+  /** Source-port slug — must match a file in src/data/source-port/<slug>.html. */
+  portSlug: string;
+  /** PageMeta record from src/data/page-metadata.ts. */
+  meta: PageMeta;
+  /** Optional Article breadcrumb (posts only). */
+  breadcrumb?: { name: string; url: string }[];
+  /** Optional override for the <meta name="robots"> directive. */
+  robots?: string;
+}
+
+const { portSlug, meta: m, breadcrumb, robots } = Astro.props;
+
+const schema = pageSchema({
+  url: m.canonical,
+  title: m.title,
+  description: m.description,
+  image: SITE.url + m.ogImageLocal,
+  datePublished: m.publishedDate,
+  dateModified: m.modifiedDate,
+  ogType: m.ogType,
+  isPost: m.isPost,
+  author: m.author || "Valley Septic",
+  category: m.isPost ? m.category : undefined,
+  breadcrumb,
+});
+
+const bodyClass = PORT_BODY_CLASS[portSlug] ?? "";
+const portCss = PORT_CSS[portSlug] ?? [];
+---
+<BaseLayout meta={m} schema={schema} bodyClass={bodyClass} portMode={true} portCss={portCss} robots={robots}>
+  <SourcePort slug={portSlug} />
+</BaseLayout>

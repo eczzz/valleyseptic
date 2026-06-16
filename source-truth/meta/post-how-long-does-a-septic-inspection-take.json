@@ -1,0 +1,444 @@
+{
+  "slug": "post-how-long-does-a-septic-inspection-take",
+  "title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+  "metaDesc": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+  "canonical": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+    "og:description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+    "og:url": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2026-02-24T18:18:39+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+    "og:image:width": "1024",
+    "og:image:height": "572",
+    "og:image:alt": "How Long Does a Septic Inspection Take?",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+    "twitter:description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1024x572.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "ValleySeptic",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "3 minutes"
+  },
+  "schemaCount": 4,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp",
+          "width": "2150",
+          "height": "1200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/#webpage",
+          "url": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/",
+          "name": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+          "datePublished": "2026-02-23T23:40:49+00:00",
+          "dateModified": "2026-02-24T18:18:39+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/valleyseptic/",
+          "name": "ValleySeptic",
+          "url": "https://valleyseptic.ca/author/valleyseptic/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/df0a38b20a2a19842fab7e877250ebc9bd6923ff10be79df3fded2736d7113a6?s=96&amp;d=mm&amp;r=g",
+            "caption": "ValleySeptic",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+          "datePublished": "2026-02-23T23:40:49+00:00",
+          "dateModified": "2026-02-24T18:18:39+00:00",
+          "articleSection": "Uncategorized",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/valleyseptic/",
+            "name": "ValleySeptic"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "A typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple",
+          "name": "How Long Does a Septic Inspection Take? - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/how-long-does-a-septic-inspection-take/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Uncategorized",
+          "item": "https://valleyseptic.ca/category/uncategorized/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Long Does a Septic Inspection Take?",
+      "datePublished": "2026-02-23T23:40:49+00:00",
+      "dateModified": "2026-02-24T18:18:39+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "ValleySeptic",
+        "url": "https://valleyseptic.ca/author/valleyseptic/"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "How Long Does a Septic Inspection Take?"
+    },
+    {
+      "tag": "h2",
+      "text": "What Happens During the Inspection"
+    },
+    {
+      "tag": "h2",
+      "text": "Factors That Add Time"
+    },
+    {
+      "tag": "h2",
+      "text": "Different Types of Inspections"
+    },
+    {
+      "tag": "h2",
+      "text": "What You Can Do to Speed Things Up"
+    },
+    {
+      "tag": "h2",
+      "text": "The Report and Follow-Up"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "How Does a Septic Alarm Work?"
+    },
+    {
+      "tag": "h4",
+      "text": "What Is Emergency Grease Trap Cleaning?"
+    },
+    {
+      "tag": "h4",
+      "text": "The Importance of Perimeter Drainage"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "UncategorizedHow Long Does a Septic Inspection Take?How Long Does a Septic Inspection Take?By ValleySepticPublished On: February 23, 2026Last Updated: February 24, 20263.7 min readGet in TouchTable of contentsWhat Happens During the InspectionFactors That Add TimeDifferent Types of InspectionsWhat You Can Do to Speed Things UpThe Report and Follow-UpShare PostA typical septic inspection takes 45 minutes to two hours. The exact time depends on your system type, property access, and what the inspector finds. A simple gravity system on accessible property might take 45 minutes. A complex system with pumps and difficult access might push closer to three hours. Budget at least two hours of your day. You need to be present or have someone there who can show the inspector around and ask questions. What Happens During the Inspection The inspector starts by locating your system. If you know where your tank and drain field are, this saves time. If not, they’ll probe and search, adding 15 to 30 minutes. Once they locate the tank, they open it. Tanks with risers save time. Buried covers mean digging. The inspector measures sludge and scum levels to determine if pumping is needed. They check baffles, pipes, and overall tank condition. Cracks or damage get documented. A tank in good condition moves quickly. Problems require detailed documentation. The drain field inspection comes next. The inspector examines for signs of failure like soggy ground or odors. They might dig test holes to check soil conditions. Drain field problems take longer to diagnose. For pump systems, the inspector tests operation, checks float switches, and verifies the alarm works. A healthy pump takes five minutes. Worn pumps require more investigation. Factors That Add Time Property access matters more than people realize. If the inspector can drive near the tank, things move faster. If they have to haul equipment 200 feet through a backyard or work around landscaping, every task takes longer. Snow, mud, and overgrown vegetation all add time. System complexity is the other major factor. A basic gravity system has a tank and drain field. These inspect quickly. Systems with pump chambers, dosing systems, or sand filters require checking multiple components. Each adds 15 to 20 minutes. Unknown conditions slow everything down. A well-maintained, documented system moves along on schedule. A neglected system full of surprises takes longer. Properties in Abbotsford, Chilliwack, Mission, Hope, and Langley vary in terrain and soil. Rocky soil takes longer to probe. Clay soil can hide drainage problems. Different Types of Inspections A basic visual inspection takes the least time. The inspector looks at obvious signs of problems without opening the tank. These take 30 to 45 minutes but provide limited information. A full inspection for real estate transactions is more thorough. The BC government requires specific standards for these. The inspector opens the tank, measures everything, tests components, and provides a detailed report. This is the 90-minute to two-hour inspection most people experience. Maintenance inspections fall in between. Regular inspections move efficiently because the inspector knows your system. First-time inspections take longer because everything needs documentation. What You Can Do to Speed Things Up Know where your system is. Property records, septic permits, or as-built drawings showing tank and drain field locations save the inspector 30 minutes of probing around your yard. Clear access to the tank area. Move patio furniture, planters, or anything covering the tank location. If you have tank risers, make sure they’re not buried under landscaping. Cut back overgrown vegetation. Be ready to answer questions. When was it last pumped? Have you noticed problems? How many people live in the house? These answers help the inspector understand what to expect. Have water available if the inspector needs to test drains. Most bring what they need, but outdoor wa",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp",
+      "alt": "",
+      "w": "2150",
+      "h": "1200",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-200x112.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-400x223.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-600x335.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-800x447.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection-1200x670.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection.webp 2150w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-800x800.webp",
+      "alt": "",
+      "w": "800",
+      "h": "800",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-66x66.webp 66w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-150x150.webp 150w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-200x200.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-300x300.webp 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-400x400.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-600x600.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-768x768.webp 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips-800x800.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/Inspectiontips.webp 1024w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-1024x585.webp",
+      "alt": "",
+      "w": "1024",
+      "h": "585",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-200x114.webp 200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-300x171.webp 300w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-400x229.webp 400w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-600x343.webp 600w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-768x439.webp 768w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-800x457.webp 800w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-1024x585.webp 1024w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-1200x686.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2025/12/septicinspection2-1536x878.webp 1536w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383.webp",
+      "alt": "How Does a Septic Alarm Work?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/septic-alarm2-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383.webp",
+      "alt": "What Is Emergency Grease Trap Cleaning?",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/grease-trap3-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp",
+      "alt": "The Importance of Perimeter Drainage",
+      "w": "500",
+      "h": "383",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383.webp 1x, https://valleyseptic.ca/wp-content/uploads/2025/12/perimiterhero-500x383@2x.webp 2x"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color8)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "related-posts single-related-posts fusion-related-tb fusion-related-tb-1",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

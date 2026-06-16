@@ -1,0 +1,576 @@
+{
+  "slug": "contact",
+  "title": "Call Us Today! - Valley Septic Services",
+  "metaDesc": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+  "canonical": "https://valleyseptic.ca/contact/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Call Us Today! - Valley Septic Services",
+    "og:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+    "og:url": "https://valleyseptic.ca/contact/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2025-10-21T16:33:10+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Contact",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Call Us Today! - Valley Septic Services",
+    "twitter:description": "Contact Valley Septic for septic services and tank pumping in Fraser Valley. Emergency service available 24/7. Call or email for prompt assistance.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "50 minutes"
+  },
+  "schemaCount": 2,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ContactPage",
+          "@id": "https://valleyseptic.ca/contact/#webpage",
+          "url": "https://valleyseptic.ca/contact/",
+          "name": "Call Us Today! - Valley Septic Services",
+          "datePublished": "2024-08-28T20:15:36+00:00",
+          "dateModified": "2025-10-21T16:33:10+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "We’re Here to Help"
+    },
+    {
+      "tag": "h1",
+      "text": "Get in Touch with Valley Septic"
+    },
+    {
+      "tag": "h2",
+      "text": "Address"
+    },
+    {
+      "tag": "h2",
+      "text": "Phone Number"
+    },
+    {
+      "tag": "h2",
+      "text": "Email"
+    },
+    {
+      "tag": "h2",
+      "text": "Get in Touch"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic and Plumbing Solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving the Fraser Valley with Pride"
+    },
+    {
+      "tag": "h4",
+      "text": "We Proudly Serve:"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Contactbullfinch2025-10-21T16:33:10+00:00 We’re Here to HelpGet in Touch with Valley SepticWhether you have questions about our services, need to schedule an appointment, or require emergency assistance, our team is ready to respond. At Valley Septic, we pride ourselves on clear communication and prompt service. Reach out to us today, and experience the Valley Septic difference firsthand. Address 2610 Prairie Ave, Chilliwack, BC V2R 5B9 Phone Number (604) 799-8640 Email info@valleyseptic.ca Get in TouchYour message has been sent. Thank You!×There was an error trying to send your message. Please try again later.×SubmitSeptic and Plumbing SolutionsWhy Choose Valley Septic?At Valley Septic, we’re more than just a service provider – we’re your neighbors committed to keeping the Fraser Valley clean and healthy. Here’s why homeowners and businesses trust us: Our Company24/7 Emergency ServiceOur round-the-clock emergency service ensures that help is just a phone call away, any time of day or night. Local ExpertsOur team lives and works in the communities we serve, bringing unparalleled local knowledge to every job. Environmentally ResponsibleWe ensure that your septic system not only functions efficiently but also minimizes its impact on the local ecosystem. Certified ProfessionalsOur team of fully certified and continuously trained professionals stay up-to-date with the latest technologies and best practices in septic and plumbing services. Ongoing MaintenanceWe go beyond just fixing problems – we educate you on your septic system’s needs and provide personalized maintenance plans. Serving the Fraser Valley with PrideValley Septic is dedicated to providing top-notch septic services throughout the Fraser Valley. Our local expertise ensures that we understand the unique challenges of septic systems in our area. We Proudly Serve: Abbotsford Chilliwack Mission Hope Maple LangleyGet In Touch",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1.webp",
+      "alt": "",
+      "w": "1280",
+      "h": "960",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1-200x150.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1-400x300.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1-600x450.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1-800x600.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1-1200x900.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2024/09/septicpumptruck-1.webp 1280w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png",
+      "alt": "",
+      "w": "2628",
+      "h": "662",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-200x50.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-400x101.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-600x151.png 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-800x202.png 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM-1200x302.png 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.25.19 PM.png 2628w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/contact/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "#263339"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4-2 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "to-top-container to-top-right",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

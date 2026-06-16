@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Valley Septic">
+  <rect width="64" height="64" rx="12" fill="#283438"/>
+  <path d="M6 46 L24 20 L34 34 L44 22 L58 46 Z" fill="#ffffff"/>
+  <path d="M5 55 C22 50 41 42 59 45 C44 49 25 61 5 55 Z" fill="#af8f61"/>
+</svg>

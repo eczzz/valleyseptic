@@ -1,0 +1,738 @@
+{
+  "slug": "septic-alarms",
+  "title": "Septic Alarms - Valley Septic Services",
+  "metaDesc": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+  "canonical": "https://valleyseptic.ca/septic-alarms/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "og": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Septic Alarms - Valley Septic Services",
+    "og:description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+    "og:url": "https://valleyseptic.ca/septic-alarms/",
+    "og:site_name": "Valley Septic Services & Tank Pumping",
+    "og:updated_time": "2026-04-23T20:36:19+00:00",
+    "og:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:secure_url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "og:image:width": "1000",
+    "og:image:height": "300",
+    "og:image:alt": "Septic Alarms",
+    "og:image:type": "image/webp"
+  },
+  "tw": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Septic Alarms - Valley Septic Services",
+    "twitter:description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+    "twitter:image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "118 minutes"
+  },
+  "schemaCount": 2,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://valleyseptic.ca/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          }
+        },
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://valleyseptic.ca/#organization",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "url": "https://www.valleyseptic.ca",
+          "email": "info@valleyseptic.ca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chilliwack",
+            "addressRegion": "BC",
+            "addressCountry": "Canada"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://valleyseptic.ca/#logo",
+            "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "contentUrl": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+            "caption": "Valley Septic Services &amp; Tank Pumping",
+            "inLanguage": "en-US",
+            "width": "1000",
+            "height": "300"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-09:00"
+          ],
+          "location": {
+            "@id": "https://valleyseptic.ca/#place"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/#logo"
+          },
+          "telephone": "(604) 799-8640"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://valleyseptic.ca/#website",
+          "url": "https://valleyseptic.ca",
+          "name": "Valley Septic Services &amp; Tank Pumping",
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "url": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp",
+          "width": "1000",
+          "height": "300",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://valleyseptic.ca/septic-alarms/#webpage",
+          "url": "https://valleyseptic.ca/septic-alarms/",
+          "name": "Septic Alarms - Valley Septic Services",
+          "datePublished": "2024-09-14T20:51:37+00:00",
+          "dateModified": "2026-04-23T20:36:19+00:00",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://valleyseptic.ca/author/gdcoy/",
+          "name": "gdcoy",
+          "url": "https://valleyseptic.ca/author/gdcoy/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/61165e02c19c40fd6201570c21be88c556bd959bbc31858b4b37333644eb54bc?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/61165e02c19c40fd6201570c21be88c556bd959bbc31858b4b37333644eb54bc?s=96&amp;d=mm&amp;r=g",
+            "caption": "gdcoy",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://valleyseptic.ca"
+          ],
+          "worksFor": {
+            "@id": "https://valleyseptic.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Septic Alarms - Valley Septic Services",
+          "datePublished": "2024-09-14T20:51:37+00:00",
+          "dateModified": "2026-04-23T20:36:19+00:00",
+          "author": {
+            "@id": "https://valleyseptic.ca/author/gdcoy/",
+            "name": "gdcoy"
+          },
+          "publisher": {
+            "@id": "https://valleyseptic.ca/#organization"
+          },
+          "description": "Septic alarm installation, maintenance, and troubleshooting in Fraser Valley. Prevent costly septic issues with early detection.",
+          "name": "Septic Alarms - Valley Septic Services",
+          "@id": "https://valleyseptic.ca/septic-alarms/#richSnippet",
+          "isPartOf": {
+            "@id": "https://valleyseptic.ca/septic-alarms/#webpage"
+          },
+          "image": {
+            "@id": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://valleyseptic.ca/septic-alarms/#webpage"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Valley Septic Services",
+      "image": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp",
+      "description": "Septic Tank Pumping and Services",
+      "brand": {
+        "@type": "Brand",
+        "name": "Valley Septic Services"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "155"
+      },
+      "review": {
+        "@type": "Review",
+        "name": "David",
+        "reviewBody": "Excellent service!",
+        "author": {
+          "@type": "Person",
+          "name": "Jason"
+        }
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "RESPONDING TO YOUR ALARM SYSTEM"
+    },
+    {
+      "tag": "h1",
+      "text": "Septic ALARM RESPONS in THE Fraser Valley"
+    },
+    {
+      "tag": "h2",
+      "text": "Septic Alarms"
+    },
+    {
+      "tag": "h3",
+      "text": "Why Trust Valley Septic Services?"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Expertise"
+    },
+    {
+      "tag": "h4",
+      "text": "Advanced Equipment"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Inspection"
+    },
+    {
+      "tag": "h4",
+      "text": "Tailored Advice"
+    },
+    {
+      "tag": "h4",
+      "text": "Thorough Care, Step by Step"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Investigation Process"
+    },
+    {
+      "tag": "h3",
+      "text": "1. Alarm Activation"
+    },
+    {
+      "tag": "h3",
+      "text": "2. Initial Assessment"
+    },
+    {
+      "tag": "h3",
+      "text": "3. Water Usage"
+    },
+    {
+      "tag": "h3",
+      "text": "4. Visual Inspection"
+    },
+    {
+      "tag": "h3",
+      "text": "5. Contact Us"
+    },
+    {
+      "tag": "h3",
+      "text": "6. On-Site Evaluation:"
+    },
+    {
+      "tag": "h3",
+      "text": "Septic Alarm FAQ"
+    },
+    {
+      "tag": "h4",
+      "text": "What is a septic alarm and why do I need one?"
+    },
+    {
+      "tag": "h4",
+      "text": "How does a septic alarm work?"
+    },
+    {
+      "tag": "h4",
+      "text": "What should I do when my septic alarm goes off?"
+    },
+    {
+      "tag": "h4",
+      "text": "How often should septic alarms be tested?"
+    },
+    {
+      "tag": "h4",
+      "text": "Can you install a septic alarm on my existing system?"
+    },
+    {
+      "tag": "h4",
+      "text": "Septic and Plumbing Solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Valley Septic?"
+    },
+    {
+      "tag": "h4",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "tag": "h4",
+      "text": "Local Experts"
+    },
+    {
+      "tag": "h4",
+      "text": "Environmentally Responsible"
+    },
+    {
+      "tag": "h4",
+      "text": "Certified Professionals"
+    },
+    {
+      "tag": "h4",
+      "text": "Ongoing Maintenance"
+    },
+    {
+      "tag": "h3",
+      "text": "Serving the Fraser Valley with Pride"
+    },
+    {
+      "tag": "h4",
+      "text": "We Proudly Serve:"
+    },
+    {
+      "tag": "h3",
+      "text": "CONTACT VALLEY SEPTIC SERVICES"
+    },
+    {
+      "tag": "h4",
+      "text": "Services"
+    },
+    {
+      "tag": "h4",
+      "text": "Service Areas"
+    }
+  ],
+  "bodyTextSample": "Septic Alarmsgdcoy2026-04-23T20:36:19+00:00 RESPONDING TO YOUR ALARM SYSTEMSeptic ALARM RESPONS in THE Fraser ValleyAt Valley Septic, we specialize in the installation, maintenance, and troubleshooting of septic alarms to safeguard your septic system’s health and functionality. Our experienced technicians expertly set up these crucial warning systems, which alert you to potential issues such as high water levels or pump failures. By promptly notifying you of irregularities, septic alarms help prevent costly backups and overflows, ensuring your septic system operates efficiently for years to come. Learn MoreSeptic AlarmsInspecting Your Septic ALERT System Septic alarms are critical early warning devices designed to alert homeowners to potential problems within their septic systems. These advanced monitoring tools continuously assess key aspects of your septic system’s operation, including water levels, pump function, and electrical components. When irregularities are detected, such as abnormally high water levels or pump malfunctions, the alarm immediately notifies you through audible and visual signals. This early detection allows for prompt intervention, preventing minor issues from escalating into major failures that could lead to system backups, environmental contamination, or expensive repairs. By integrating a septic alarm into your system, you’re taking a proactive step in maintaining your septic system’s health and avoiding unexpected emergencies. Get In TouchWhy Trust Valley Septic Services?0%Customer Satisfaction0+Years Serving Fraser ValleyLocal ExpertiseExperienced technicians with deep knowledge of Fraser Valley’s unique septic challenges. Advanced EquipmentState-of-the-art technology ensures thorough cleaning and efficient waste removal. Thorough InspectionComprehensive system check during pumping to identify potential issues early. Tailored AdviceCustomized maintenance recommendations to extend your septic system’s lifespan. Thorough Care, Step by StepOur Investigation Process01. Expert inspections 02. Efficient pumping 03. Commercial maintenance 04. Emergency response 1. Alarm Activation When your septic alarm sounds, it indicates a potential issue in your system. Remain calm and avoid using water until the problem is resolved. 2. Initial Assessment While waiting for our arrival, check the alarm panel for any specific error codes or lights if it’s safe to do so. This information will help us when we’re on-site. 3. Water Usage We strongly recommend reducing water usage in your home until we’ve addressed the issue on-site. This means avoiding showers, laundry, dishwashing, and limiting toilet flushing 4. Visual Inspection If possible, visually inspect the area around your septic tank and drain field from a safe distance. Note any signs of overflow, unusual odors, or wet spots to report to our technicians upon arrival. 5. Contact Us Call our 24/7 emergency service line immediately. We’ll dispatch a team to your location promptly. Provide us with your observations to help us prepare for the on-site visit. 6. On-Site Evaluation: Once on-site, our skilled technicians will conduct a thorough assessment of your system. Get In TouchSeptic Alarm FAQWhat is a septic alarm and why do I need one? We install septic alarms to alert you to potential issues in your septic system. These devices monitor water levels and pump function, warning you of problems before they escalate into costly emergencies. We consider them essential for maintaining your system’s health and avoiding unexpected failures. How does a septic alarm work? Our septic alarms use float switches inside your tank to detect abnormal water levels. When levels rise too high, the alarm triggers, activating both audible and visual alerts. We set them up to give you ample time to contact us for on-site service before a serious problem develops. What should I do when my septic alarm goes off? When your alarm sounds, we advise reducing water usage immediately and contac",
+  "images": [
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp",
+      "alt": "",
+      "w": "1000",
+      "h": "300",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-200x60.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-400x120.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-600x180.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1-800x240.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/SepticNewLogo-1.webp 1000w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/tankalert-1.jpg",
+      "alt": "",
+      "w": "495",
+      "h": "768",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/tankalert-1-200x310.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankalert-1-400x621.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/tankalert-1.jpg 495w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process.jpg",
+      "alt": "",
+      "w": "1800",
+      "h": "541",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-200x60.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-400x120.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-600x180.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-800x240.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process-1200x361.jpg 1200w, https://valleyseptic.ca/wp-content/uploads/2024/08/tank-pumping-process.jpg 1800w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/opentank.webp",
+      "alt": "",
+      "w": "1200",
+      "h": "1600",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/opentank-200x267.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/opentank-400x533.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/opentank-600x800.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/opentank-800x1067.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/opentank.webp 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-200x150.jpg 200w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-400x300.jpg 400w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-600x450.jpg 600w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas-800x600.jpg 800w, https://valleyseptic.ca/wp-content/uploads/2024/08/valley-septic-service-areas.jpg 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/truck1.webp",
+      "alt": "",
+      "w": "1200",
+      "h": "900",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/truck1-200x150.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/truck1-400x300.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/truck1-600x450.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/truck1-800x600.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/truck1.webp 1200w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap.webp",
+      "alt": "",
+      "w": "1958",
+      "h": "734",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap-200x75.webp 200w, https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap-400x150.webp 400w, https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap-600x225.webp 600w, https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap-800x300.webp 800w, https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap-1200x450.webp 1200w, https://valleyseptic.ca/wp-content/uploads/2024/09/abbymap.webp 1958w"
+    },
+    {
+      "src": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png",
+      "alt": "",
+      "w": "600",
+      "h": "180",
+      "srcset": "https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-200x60.png 200w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy-400x120.png 400w, https://valleyseptic.ca/wp-content/uploads/2024/10/ChilliwackValley-copy.png 600w"
+    }
+  ],
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://valleyseptic.ca/septic-alarms/",
+      "method": "post",
+      "class": "fusion-form fusion-form-163",
+      "id": "",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": "",
+          "placeholder": "",
+          "label": "Close",
+          "required": false,
+          "value": "",
+          "text": "×"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Your Name ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "city",
+          "placeholder": "City ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "Address",
+          "placeholder": "Address (Optional) ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "placeholder": "Subject ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "textarea",
+          "type": "",
+          "name": "message",
+          "placeholder": "Message ",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "",
+          "text": "Submit"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_store_ip_ua",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "false",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "fusion_privacy_expiration_interval",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "48",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "privacy_expiration_action",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "value": "anonymize",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color5)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "full-width",
+      "id": "content",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-fixed nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "https://valleyseptic.ca/wp-content/uploads/2024/09/septic-alarm-panel-1024x576-1.webp",
+      "bgColor": "var(--awb-color4)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-center fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-color3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-10 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": true,
+      "bgImage": "",
+      "bgColor": "var(--awb-color1)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": "var(--awb-custom_color_3)"
+    },
+    {
+      "class": "fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    },
+    {
+      "class": "fusion-fullwidth fullwidth-box fusion-builder-row-11-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling",
+      "id": "",
+      "hasBg": false,
+      "bgImage": "",
+      "bgColor": ""
+    }
+  ],
+  "navLinks": []
+}

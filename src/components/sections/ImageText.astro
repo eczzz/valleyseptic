@@ -1,0 +1,61 @@
+---
+export interface Props {
+  eyebrow?: string;
+  title: string;
+  text?: string;
+  ctaText?: string;
+  ctaHref?: string;
+  image: string;
+  imageAlt?: string;
+  reversed?: boolean;
+  background?: "default" | "alt" | "cream";
+}
+
+const { eyebrow, title, text, ctaText, ctaHref, image, imageAlt = "", reversed = false, background = "default" } = Astro.props;
+const bgClass = background === "alt" ? "section--alt" : background === "cream" ? "section--cream" : "";
+---
+<section class={`section image-text ${bgClass} ${reversed ? "image-text--reversed" : ""}`}>
+  <div class="container">
+    <div class="image-text__grid">
+      <div class="image-text__media">
+        <img src={image} alt={imageAlt} loading="lazy" />
+      </div>
+      <div class="image-text__content">
+        {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+        <h2 class="section-title">{title}</h2>
+        {text && <div class="image-text__text" set:html={text} />}
+        {ctaText && ctaHref && <a href={ctaHref} class="btn btn-primary">{ctaText}</a>}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .image-text__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+    align-items: center;
+  }
+  .image-text--reversed .image-text__grid {
+    direction: rtl;
+  }
+  .image-text--reversed .image-text__content,
+  .image-text--reversed .image-text__media {
+    direction: ltr;
+  }
+  .image-text__media img {
+    width: 100%;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+  }
+  .image-text__text {
+    font-size: 17px;
+    line-height: 1.75;
+    margin-bottom: var(--space-5);
+  }
+  .image-text__text p:last-child { margin-bottom: 0; }
+  @media (max-width: 900px) {
+    .image-text__grid { grid-template-columns: 1fr; }
+  }
+</style>
