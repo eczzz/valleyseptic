@@ -194,6 +194,13 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
           href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2" />
         <link rel="preload" as="font" type="font/woff2" crossorigin
           href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2" />
+        {/* Header icon fonts (the hamburger awb-icons + FontAwesome) — also
+            above the fold and previously stuck at the tail of the ~13s font
+            chain, gating Speed Index. Preload so the header completes early. */}
+        <link rel="preload" as="font" type="font/woff" crossorigin
+          href="/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+          href="/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" />
       </>
     )}
     {/* Non-port pages used the fonts.googleapis CDN for Open Sans / Oswald /
