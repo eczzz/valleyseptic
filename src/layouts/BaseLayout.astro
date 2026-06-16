@@ -93,6 +93,13 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {/* Hero H1 webfont (Oswald 500 latin) preloaded FIRST — before GTM, CSS and
+        every image — so it wins the connection and the H1 paints in its real
+        face early. Images are lazy + fetchpriority=low so none can outrank it. */}
+    {portMode && (
+      <link rel="preload" as="font" type="font/woff2" crossorigin fetchpriority="high"
+        href="/fonts/g/TK3iWkUHHAIjg752GT8G.woff2" />
+    )}
     {SITE.gtmId && (
       <!-- Google Tag Manager (Step 4 — deferred off the critical path) -->
       <script is:inline define:vars={{ gtmId: SITE.gtmId }}>
@@ -173,19 +180,14 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
-    <!-- Fonts (Step 3 — self-hosted; fonts.gstatic CDN removed) -->
+    {/* Fonts — self-hosted. The hero Oswald is preloaded first (above). These
+        above-the-fold text + header-icon fonts are also preloaded so they're
+        ready before the page renders — which front-loads the font style recalc
+        ahead of TTI (measured: removing them worsened FCP and TBT) and keeps
+        CLS 0 on the live CDN (without them the late swap shifted a fusion row).
+        Every image is fetchpriority=low so none can starve them. */}
     {portMode && (
       <>
-        <link rel="preconnect" href="https://valleyseptic.ca" />
-        {/* Preload the above-the-fold self-hosted text fonts (latin subsets:
-            Oswald hero + Open Sans body + Barlow Condensed headings 400/500/600).
-            Without these they loaded ~15-20s into the page on the live CDN — after
-            first paint — so the text swapped in late, shifting a fusion-fullwidth
-            row (CLS) and dragging Speed Index out. Preloading makes them ready at
-            first paint: stable text, no late swap. crossorigin is required even
-            same-origin (fonts fetch in CORS mode). */}
-        <link rel="preload" as="font" type="font/woff2" crossorigin fetchpriority="high"
-          href="/fonts/g/TK3iWkUHHAIjg752GT8G.woff2" />
         <link rel="preload" as="font" type="font/woff2" crossorigin
           href="/fonts/g/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2" />
         <link rel="preload" as="font" type="font/woff2" crossorigin
@@ -194,9 +196,6 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
           href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2" />
         <link rel="preload" as="font" type="font/woff2" crossorigin
           href="/fonts/g/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2" />
-        {/* Header icon fonts (the hamburger awb-icons + FontAwesome) — also
-            above the fold and previously stuck at the tail of the ~13s font
-            chain, gating Speed Index. Preload so the header completes early. */}
         <link rel="preload" as="font" type="font/woff" crossorigin
           href="/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff" />
         <link rel="preload" as="font" type="font/woff2" crossorigin
@@ -208,11 +207,12 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
         font-display:swap. Port pages get these @font-face from their port CSS. */}
     {!portMode && <link rel="stylesheet" href="/fonts/google.css" />}
 
-    {/* Load the FULL port stylesheets non-render-blocking: preload (fetched
-        immediately, in parallel) then flip to a stylesheet on load. First paint
-        is already styled by the inlined above-the-fold critical CSS; this
-        backfills the below-the-fold rules without gating the hero paint or
-        starving the hero font. <noscript> keeps it working with JS disabled. */}
+    {/* Load the FULL port stylesheets non-render-blocking: preload then flip to a
+        stylesheet on load. First paint is already styled by the inlined
+        above-the-fold critical CSS; this backfills below-the-fold rules. (A
+        media="print" swap was tried to drop these off the LCP path, but it
+        deferred the full style recalc into the TBT window — preload keeps TBT
+        low.) <noscript> keeps it working JS-disabled. */}
     {portCss.map(href => (
       <link rel="preload" as="style" href={href} onload="this.onload=null;this.rel='stylesheet'" />
     ))}
