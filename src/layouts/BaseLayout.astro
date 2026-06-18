@@ -143,6 +143,17 @@ const twitterImageAbsolute = twitterImage.startsWith("http") ? twitterImage : SI
         its final size immediately and never resizes. 0px match vs. baseline at
         360/414/768/1024/1280/1440. */}
     <style>.fusion-responsive-typography-calculated{font-size:calc(var(--fontSize) * 1px) !important}</style>
+    {/* Keep Avada entry-animated content permanently visible. Avada ships the
+        body with class `dont-animate` (so `.dont-animate .fusion-animated` =
+        visibility:visible) and reveals elements via the Fusion bundle on scroll.
+        Our bundle is deferred and boots on first interaction — at which point
+        Avada REMOVES `dont-animate`, activating `.fusion-animated{visibility:hidden}`,
+        but the late boot never fires the scroll-reveal, so all 35 mid-page
+        sections vanish a second after load (reappearing only on refresh). Force
+        them visible so nothing the bundle does can hide them. The working state
+        already shows this content statically (no entry animation plays in the
+        deferred setup), so this is zero visual change. */}
+    <style is:inline>.fusion-animated{visibility:visible !important}</style>
     <meta name="robots" content={robots} />
     <title>{title}</title>
     <meta name="description" content={description} />
